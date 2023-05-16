@@ -1,0 +1,17 @@
+.nav {
+    display: inline-block;
+    width: 14%;
+    text-align: center;
+    color: #bcbcbc;
+}
+.bar{
+    display: block;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: #3c3c3c;
+    border: solid #3c3c3c;
+    border-width: 10px 10px;
+    left: 0;
+    right: 0;
+}
