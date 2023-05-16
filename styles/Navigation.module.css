@@ -1,6 +1,6 @@
 .nav {
     display: inline-block;
-    width: 14%;
+    width: 20%;
     text-align: center;
     color: #bcbcbc;
 }
@@ -14,4 +14,42 @@
     border-width: 10px 10px;
     left: 0;
     right: 0;
+}
+  
+/* Dropdown button */
+.dropbtn {
+    display: inline-block;
+    text-align: center;
+    color: #bcbcbc;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+  
+/* Dropdown content (hidden by default) */
+.dropdowncontent {
+    display: none;
+    position: absolute;
+    background-color: #3c3c3c;
+    min-width: 20%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+  
+/* Links inside the dropdown */
+.dropdowncontent a {
+    float: none;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    color: #bcbcbc;
+}
+  
+/* Show the dropdown menu on hover */
+.showdrop:hover .dropdowncontent {
+    display: block;
 }

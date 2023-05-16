@@ -1,0 +1,16 @@
+.foot {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    color: #bcbcbc;
+}
+.bar{
+    display: block;
+    position: absolute;
+    width: 100%;
+    background-color: #3c3c3c;
+    border: solid #3c3c3c;
+    border-width: 10px 0px;
+    left: 0;
+    right: 0;
+}

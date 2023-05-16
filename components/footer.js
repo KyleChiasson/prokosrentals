@@ -1,12 +1,13 @@
+import styles from "@/styles/Footer.module.css"
+
 const Footer = () => {
     return ( 
         <>
-            <div>
-                <p>Prokos Rentals</p>
-                <p>88 East State Street, Athens, OH 45701</p>
-                <p>(740)594-2026</p>
-                <p>kate@prokos.net</p>
-            </div>
+            <nav className={styles.bar}>
+                <p className={styles.foot}>Loaction: 88 East State Street, Athens, OH 45701</p>
+                <p className={styles.foot}>Phone: <a href="tel: +1740-594-2026">(740)594-2026</a></p>
+                <p className={styles.foot}>Email: <a href="mailto: kate@prokos.net">kate@prokos.net</a></p>
+            </nav>
         </>
      );
 }

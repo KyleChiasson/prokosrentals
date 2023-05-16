@@ -1,7 +1,10 @@
+import Image from "next/image";
+
 const Parking = () => {
     return ( 
         <>
             <div>
+                <Image src="/parking1.jpg" width="400" height="200"></Image>
                 <p>Affordable Off-Campus Parking</p>
                 <p>Near Court St. & Ohio University's Campus</p>
                 <p>Locations</p>
