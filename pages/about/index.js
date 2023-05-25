@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const About = () => {
     return ( 
         <>
@@ -6,6 +8,31 @@ const About = () => {
                 <p>Follow us on Instagram!</p>
                 <a href='https:www.instagram.com/prokosrentals_ou' target='_blank'>www.instagram.com/prokosrentals_ou</a>
                 <p>Prokos Rentals is happy to be able to serve our community. We would like to say thank you to all of our customers!</p>
+            </div>
+            <div>
+                <h3>Meet Our Team</h3>
+                <ul>
+                    <div>
+                        <Image src="/1.png" width="100" height="100"></Image>
+                        <h4>Name 1</h4>
+                        <p>Job Title</p>
+                    </div>
+                    <div>
+                        <Image src="/1.png" width="100" height="100"></Image>
+                        <h4>Name 2</h4>
+                        <p>Job Title</p>
+                    </div>
+                    <div>
+                        <Image src="/1.png" width="100" height="100"></Image>
+                        <h4>Name 3</h4>
+                        <p>Job Title</p>
+                    </div>
+                    <div>
+                        <Image src="/1.png" width="100" height="100"></Image>
+                        <h4>Name 4</h4>
+                        <p>Job Title</p>
+                    </div>
+                </ul>
             </div>
         </>
      );

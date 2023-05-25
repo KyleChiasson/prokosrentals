@@ -4,22 +4,23 @@ import styles from "@/styles/Navigation.module.css";
 const Navigation = () => {
     return ( 
         <>
-            <nav className={styles.bar}>
-                <Link href='/' className={styles.nav}>Home</Link>
-                <div className={styles.nav}>
+            <ul className={styles.bar}>
+                <li><Link href='/' className={styles.nav}>Home</Link></li>
+                <li className={styles.nav}>
                     <div className={styles.showdrop}>
                         <button className={styles.dropbtn}>Rent</button>
                         <div className={styles.dropdowncontent}>
+                        <Link href='https://prokosrentals.managebuilding.com/Resident/rental-application/new'>Apply Now</Link>
                             <Link href='/rentals'>Rentals</Link>
                             <Link href='/storageunits'>Storage Units</Link>
                             <Link href='/parking'>Parking</Link>
                         </div>
                     </div>
-                </div>
-                <Link href='https://prokosrentals.managebuilding.com/Resident/rental-application/new' className={styles.nav}>Apply Now</Link>
-                <Link href='/about' className={styles.nav}>About</Link>
-                <Link href='/contactus' className={styles.nav}>Contact Us</Link>
-            </nav>
+                </li>
+                <li><Link href='/about' className={styles.nav}>About</Link></li>
+                <li><Link href='/contactus' className={styles.nav}>Contact Us</Link></li>
+                <li><Link href='https://prokosrentals.managebuilding.com/Resident/portal/login' className={styles.nav}>Sign In</Link></li>
+            </ul>
         </>
      );
 }

@@ -1,3 +1,41 @@
+.contact {
+  vertical-align: top;
+  border-style: dotted;
+  width: 350px;
+  margin-bottom: 8px;
+  margin-bottom: 8px;
+  padding-left: 10px;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.account {
+  display: inline-block;
+  border-style: solid;
+  width: 250px;
+  padding-left: 20px;
+  margin-right: 0;
+  margin-left: 100px;
+  position: absolute;
+  right: 0;
+}
+
+.centertext {
+  width: 35%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.description{
+  display: inline-block;
+  width: 700px
+}
+
+.disclaimer {
+  width: 700px;
+}
+
 /*.main {
   display: flex;
   flex-direction: column;

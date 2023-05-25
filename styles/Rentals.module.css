@@ -1,0 +1,53 @@
+.segment {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+.segment ul {
+    list-style: none;
+}
+.form{
+    background-color: rgba(94, 153, 255, 0.096)
+}
+
+.listing ul{
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 10px;
+    background-color: rgb(222, 230, 255);
+}
+.listing p{
+    text-align: right;
+}
+
+.listing h4{
+    width: fit-content;
+    display: inline-block;
+}
+.listing h5{
+    margin-left: 25px;
+    width: fit-content;
+    display: inline-block;
+}
+
+.listing li{
+    list-style: none;
+    color: black;
+}
+.listing:link{
+    text-decoration: none;
+}
+.listing:visited { 
+    text-decoration: none; 
+}
+.listing:hover { 
+    text-decoration: none; 
+}
+.listing:active { 
+    text-decoration: none; 
+}
