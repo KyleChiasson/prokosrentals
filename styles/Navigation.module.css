@@ -24,6 +24,9 @@
     padding-top: 15px;
     padding-bottom: 15px;
 }
+.bar li a{
+    text-decoration: none;
+}
   
 /* Dropdown button */
 .dropbtn {

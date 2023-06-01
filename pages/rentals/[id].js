@@ -1,50 +1,57 @@
+import styles from "@/styles/Unit.module.css"
 const data = require('./rentals.json');
+import Link from 'next/link';
 
 export const getStaticPaths = async () => {
-    //const res = await fetch('https://jsonplaceholder.typicode.com/users');
-    //const data = await res.json();
-
-    const paths = data.map(property => {
-        return{
-            params: { id: property.id.toString() }
-        }
-    })
-
-    return{
-        paths: paths,
-        fallback: false,
+    let array = [];
+    data.map(property => property.units.map(unit => {
+        array.push({params: { id: unit.id.toString() }})
+    }))
+    
+    return {
+        paths: array,
+        fallback: false
     }
 }
 
 export const getStaticProps = async (context) => {
     const id = context.params.id;
-    //const res = await fetch('https://jsonplaceholder.typicode.com/users/' + id);
-    //const data = await res.json();
     for (var i = 0; i < data.length; i++){
-        if(data[i].id == id)
-            return{
-                props: { property: data[i] }
-            }
+        for (var j = 0; j < data[i].units.length; j++){
+            if(data[i].units[j].id.toString() == id)
+                return{
+                    props: { property: data[i], unit: data[i].units[j]}
+                }
+        }
     }
-    /*return{
-        props: { property: data }
-    }*/
 }
 
-const Properties = ({property}) => {
+const Properties = ({property, unit}) => {
     return ( 
         <>
-            <div>
-                <h1>Property</h1>
-                <ul>
-                    <li>{property.address}</li>
-                    <li>Unit: {property.unit}</li>
-                    <li>Area: {property.sqft} sqft</li>
-                    <li>Beds: {property.beds}</li>
-                    <li>Bathrooms: {property.baths}</li>
-                    <li>Rent: ${property.rent}</li>
-                    <li>Available on: {property.available}</li>
-                </ul>
+            <Link href={"/rentals"} className={styles.link}><h3>&lt;Back</h3></Link>
+            <div className={styles.listing}>
+                <h1>{property.address}</h1>
+                <h3>{property.city}</h3>
+                <div className={styles.description}>
+                    <p>Building Description: <br></br><br></br> {property.description}</p>
+                    <p>Unit Description: <br></br><br></br> {unit.description}</p>
+                    <p>Building Amenities: <ul>{property.amenities.map(a => (
+                        <li>{a}</li>
+                    ))}</ul></p>
+                    <p>Unit Amenities: <ul>{unit.amenities.map(a => (
+                        <li>{a}</li>
+                    ))}</ul></p>
+                </div>
+                <p>Unit: {unit.unit}</p>
+                <p>Area: {unit.sqft} sqft</p>
+                <p>Beds: {unit.beds}</p>
+                <p>Bathrooms: {unit.baths}</p>
+                <p>Rent: ${unit.rent} per month</p>
+                <p className={styles.availibility}>Available on: {unit.available}</p>
+                <form className={styles.availibility}>
+                    <input type="submit" value="Apply Now"></input>
+                </form>
             </div>
         </> 
     );

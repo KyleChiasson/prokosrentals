@@ -4,5 +4,8 @@
 }
 .image img{
     margin-bottom: 10px;
-    margin-right: 10px;
+    margin-right: 100px;
+}
+.text {
+    margin-left: 100px;
 }

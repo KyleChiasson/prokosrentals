@@ -4,8 +4,9 @@ import Image from "next/image";
 const Parking = () => {
     return ( 
         <>
-            <div>
-                <Image src="/parking1.jpg" width="400" height="200" className={styles.image}></Image>
+            
+            <Image src="/parking1.jpg" width="400" height="200" className={styles.image}></Image>
+            <div className={styles.text}>
                 <h3>Affordable Off-Campus Parking</h3>
                 <p>Near Court St. & Ohio University's Campus</p>
                 <p>Locations:</p>

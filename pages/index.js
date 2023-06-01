@@ -16,10 +16,6 @@ export default function Home() {
         <p>&emsp;&emsp;We strive to make our tenants happy and will not stop until we do! Quality rentals for anyone from Commercial units, student rentals, storage units, parking, student housing and more.  Also, we just opened the hottest hotel, the <a href='https://www.athenscentralhotel.com/' target='_blank'>Athens Central Hotel</a>.  This boutique hotel is located steps away from the Ohio University campus and Uptown Court Street.</p>
         <p>Contact us if you would like to schedule a tour, to see more pictures of our properties, or if you cannot find what you are looking for. Our staff is always ready to help!</p>
       </div>
-      <div className={styles.account}>
-        <h4>Access your account: <Link href="https://prokosrentals.managebuilding.com/Resident/portal/login">Sign In</Link></h4>
-        <h4>Rental Application: <Link href='https://prokosrentals.managebuilding.com/Resident/rental-application/new'>Apply Now</Link></h4>
-      </div>
       <div>
         <div className={styles.contact}>
           <p>Location: 88 East State St. Athens, OH 45701</p>

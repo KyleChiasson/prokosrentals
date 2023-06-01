@@ -1,4 +1,9 @@
 .image {
     position:absolute;
     right: 0;
+    margin-right: 100px;
+}
+
+.text{
+    margin-left: 100px;
 }

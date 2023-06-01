@@ -1,0 +1,9 @@
+.form div{
+    display: inline-block;
+    margin: 10px;
+}
+
+.text{
+    display: block;
+    margin-left: 100px;
+}

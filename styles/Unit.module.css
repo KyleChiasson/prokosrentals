@@ -1,0 +1,38 @@
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.listing{
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 10px;
+    background-color: rgb(222, 230, 255);
+}
+
+.listing h1, .listing h3{
+    width: fit-content;
+    display: inline-block;
+    margin: 10px;
+}
+
+.listing p{
+    padding-left: 2%;
+}
+
+.description p{
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 46%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.availibility {
+    text-align: right;
+}

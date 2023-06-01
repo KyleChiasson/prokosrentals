@@ -5,8 +5,6 @@ const data = require('./rentals.json');
 import React, { useState } from 'react';
 
 export const getStaticProps = async () => {
-    //const res = await fetch('https://jsonplaceholder.typicode.com/users');
-    //const data = await res.json();
     return{
         props: { properties: data }
     }
@@ -16,6 +14,8 @@ const Rentals = ({ properties }) => {
     const [data, setData] = React.useState({
         livingspace: true,
         other: true,
+        albany: true,
+        amesville: true,
         athens: true,
         lancaster: true,
         logan: true,
@@ -35,6 +35,8 @@ const Rentals = ({ properties }) => {
         setData({
             livingspace: event.target.livingspace.checked,
             other: event.target.other.checked,
+            albany: event.target.albany.checked,
+            amesville: event.target.amesville.checked,
             athens: event.target.athens.checked,
             lancaster: event.target.lancaster.checked,
             logan: event.target.logan.checked,
@@ -67,6 +69,14 @@ const Rentals = ({ properties }) => {
                 <div className={styles.segment}>
                     <text>Locations: </text>
                     <ul>
+                        <li>
+                            <input type="checkbox" id="albany" defaultChecked></input>
+                            <label htmlFor="albany">Albany </label>
+                        </li>
+                        <li>
+                            <input type="checkbox" id="amesville" defaultChecked></input>
+                            <label htmlFor="amesville">Amesville </label>
+                        </li>
                         <li>
                             <input type="checkbox" id="athens" defaultChecked></input>
                             <label htmlFor="athens">Athens </label>
@@ -108,26 +118,34 @@ const Rentals = ({ properties }) => {
                     <text>-</text>
                     <input type="number" id="topprice" min={0} max={14000} defaultValue={14000}></input>
                 </div>
-                <div><input type="submit" id="submit" value="submit"></input></div>
+                <div><input type="submit" id="search" value="search"></input></div>
             </form>
-            {properties.map(property => (
+            {properties.map(property => property.units.map(unit => (
                 <Conditional showWhen={
-                    ((data.livingspace && property.beds != "-") || (data.other && property.baths == "-"))&&
-                    (true)&&//location
-                    (data.bedcount == "" || property.beds == data.bedcount) &&
-                    (data.bathcount == "" || property.baths == data.bathcount) &&
-                    ((property.rent >= data.bottomprice && property.rent <= data.topprice) || data.bottomprice == "" || data.topprice == "")&&
-                    (data.availibility == "" || Date.parse(data.availibility) >= Date.parse(property.available))
+                    ((data.livingspace && unit.beds != "-") || (data.other && unit.baths == "-"))&&
+                    ((!data.albany && !data.amesville && !data.athens && !data.lancaster && !data.logan && !data.nelsonville && !data.theplains && !data.welston)||
+                     (data.albany      && property.city == "Albany, OH 45710") ||
+                     (data.amesville   && property.city == "Albany, OH 45710") ||
+                     (data.athens      && property.city == "Athens, OH 45701") || 
+                     (data.lancaster   && property.city == "Lancaster, OH 43130") ||
+                     (data.logan       && property.city == "Logan, OH 43138") ||
+                     (data.nelsonville && property.city == "Nelsonville, OH 45764") ||
+                     (data.theplains   && property.city == "The Plains, OH 45780") ||
+                     (data.welston     && property.city == "Wellston, OH 45692"))&&
+                    (data.bedcount == "" || unit.beds == data.bedcount) &&
+                    (data.bathcount == "" || unit.baths == data.bathcount) &&
+                    ((unit.rent >= data.bottomprice && unit.rent <= data.topprice) || data.bottomprice == "" || data.topprice == "")&&
+                    (data.availibility == "" || Date.parse(data.availibility) >= Date.parse(unit.available))
                     }>
-                    <Link key={property.id} href={'/rentals/' + property.id} className={styles.listing}>
+                    <Link key={unit.id} href={'/rentals/' + unit.id} className={styles.listing}>
                         <ul>
-                            <li><h4>{property.address}</h4><h5>Unit: {property.unit}</h5></li>
-                            <li>Beds: {property.beds} | Bathrooms: {property.baths} | Area: {property.sqft} sqft</li>
-                            <li><p>Available on: {property.available}&emsp;&emsp;Rent: ${property.rent}</p></li>
+                            <li><h4>{property.address}</h4><h5>Unit: {unit.unit}</h5><br></br><h6>{property.city}</h6></li>
+                            <li>Beds: {unit.beds} | Bathrooms: {unit.baths} | Area: {unit.sqft} sqft</li>
+                            <li><p>Available on: {unit.available}&emsp;&emsp;Rent: ${unit.rent}</p></li>
                         </ul>
                     </Link>
                 </Conditional>
-            ))}
+            )))}
         </>
      );
 }

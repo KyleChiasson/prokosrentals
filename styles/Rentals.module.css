@@ -26,10 +26,18 @@
 }
 
 .listing h4{
+    margin-bottom: 5px;
+    width: fit-content;
+    display: inline-block;
+}
+.listing h6{
+    margin-top: 0px;
+    margin-left: 25px;
     width: fit-content;
     display: inline-block;
 }
 .listing h5{
+    margin-bottom: 5px;
     margin-left: 25px;
     width: fit-content;
     display: inline-block;

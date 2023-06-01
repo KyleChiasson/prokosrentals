@@ -1,4 +1,5 @@
 .contact {
+  margin-left: 100px;
   vertical-align: top;
   border-style: dotted;
   width: 350px;
@@ -9,17 +10,6 @@
   display: inline-block;
 }
 
-.account {
-  display: inline-block;
-  border-style: solid;
-  width: 250px;
-  padding-left: 20px;
-  margin-right: 0;
-  margin-left: 100px;
-  position: absolute;
-  right: 0;
-}
-
 .centertext {
   width: 35%;
   margin-right: auto;
@@ -28,11 +18,13 @@
 }
 
 .description{
+  margin-left: 100px;
   display: inline-block;
   width: 700px
 }
 
 .disclaimer {
+  margin-left: 100px;
   width: 700px;
 }
 
