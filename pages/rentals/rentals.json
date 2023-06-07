@@ -11,7 +11,6 @@
         "beds": 6,
         "baths": 2,
         "rent": 217.00,
-        "available": "05/03/2024",
         "description": "Discounted Rent Per Bedroom x 6 Bedrooms This home features a large living room with cathedral ceiling, electric fireplace, and a 42\" flat-screen TV mounted on the wall. Relax on the front porch or back deck. House also features central air/heat, washer/dryer, dishwasher, and a garage! Please contact us for additional details regarding rent.",
         "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Garage parking", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137939
@@ -30,7 +29,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "available": "06/14/2024",
         "description": "Discounted Rent Per Bedroom x 3 Bedrooms These 3 bedroom town-homes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck! Please contact us for additional details regarding rent. ",
         "amenities": [],
         "id": 506524
@@ -41,7 +39,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "available": "04/30/2024",
         "description": "Discounted Rent Per Bedrooms x 3 Bedrooms These 3 bedroom town-homes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck! Please contact us for additional details regarding rent.",
         "amenities": [],
         "id": 506525
@@ -52,7 +49,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "available": "05/19/2024",
         "description": "Discounted Rent Per Bedrooms x 3 Bedrooms These 3 bedroom town-homes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck! Please contact us for additional details regarding rent.",
         "amenities": [],
         "id": 506526
@@ -61,8 +57,8 @@
   },
   {
     "address": "103 East State Street",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -71,8 +67,7 @@
         "beds": "studio",
         "baths": 1,
         "rent": 700.00,
-        "available": "05/31/2024",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 1216839
       },
@@ -82,8 +77,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 1050.00,
-        "available": "07/31/2024",
-        "description": "",
+        "description": "A nice 2 bedroom that features hardwood floors, central air/heat and off-street parking. Close to uptown Athens and campus. Tenant pays all utilities.",
         "amenities": [],
         "id": 1216840
       }
@@ -91,8 +85,8 @@
   },
   {
     "address": "103 Franklin Avenue",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -101,9 +95,8 @@
         "beds": 3,
         "baths": 2,
         "rent": 450.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms This house is in a great location - close to uptown! 3 spacious bedrooms, 2 full baths, large kitchen including a dishwasher, and a great front porch! Please contact us for additional details regarding rent.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137952
       }
     ]
@@ -120,7 +113,6 @@
         "beds": 4,
         "baths": 1,
         "rent": 600.00,
-        "available": "08/10/2023",
         "description": "Discounted Rent Per Bedroom x 4 Bedrooms This spacious, two-story apartment is the upper level of a duplex. You and your friends can enjoy huge bedrooms and a washer/dryer! Please contact us for additional details regarding rent. ",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137919
@@ -131,7 +123,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 600.00,
-        "available": "05/06/2024",
         "description": "Discounted Rent Per Bedroom x 2 Bedrooms Located in an excellent spot; This lower level apartment is only a few minutes' walk from Court St. and campus! This apartment features free off-street parking, spacious rooms and a large back deck overlooking great scenery! Please contact us for additional details regarding rent. Tenant puts electric and gas in their name.",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137920
@@ -150,7 +141,6 @@
         "beds": "-",
         "baths": "-",
         "rent": 4500,
-        "available": "10/6/2025",
         "description": "-",
         "amenities": [],
         "id": 218835
@@ -159,9 +149,9 @@
   },
   {
     "address": "115 North Lancaster Street",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Single House",
@@ -169,17 +159,16 @@
         "beds": 6,
         "baths": 2,
         "rent": 400.00,
-        "available": "06/12/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 6 Bedrooms This huge, well-maintained home is perfect for a large group of students! It is located within walking distance to Ohio University campus & Court Street and has tons of great amenities. The two full bathrooms are gigantic. One even features a Jack & Jill sink, and the other contains the laundry room. The home itself is extremely cozy and features beautiful hardwood flooring and oak trim. Enjoy a large living room and dining room, huge wrap-around porch, central air & heat, free off-street parking, spacious bedrooms, and a nice eat-in kitchen with a dishwasher. 50\" flat-screen mounted on the wall in the living room. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137953
       }
     ]
   },
   {
     "address": "116 Grosvenor Street",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -188,18 +177,17 @@
         "beds": 3,
         "baths": 2,
         "rent": 575.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms This rental is in an awesome location! It sits on a quiet street and is vert close to uptown! The house features 2 full bathrooms, hardwood flooring, large bedrooms, a great front porch and back deck, a washer/dryer AND dishwasher! Please contact us for additional details regarding rent.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137954
       }
     ]
   },
   {
     "address": "116 North Congress Street",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Single House",
@@ -207,17 +195,16 @@
         "beds": 7,
         "baths": 2,
         "rent": 420.00,
-        "available": "05/06/2025",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 7 Bedrooms Located on a corner lot on one of the most popular streets in Athens, this spacious property can house up to 10 people! You and your friends can enjoy a huge yard with a front porch, washer/dryer, 2 refrigerators, dishwasher, 50\" flat-screen TV in one of the two living rooms (one upstairs & one downstairs), and spacious bedrooms. Please contact us for additional details regarding rent for more or less tenants.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137930
       }
     ]
   },
   {
     "address": "118 Franklin Avenue",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "This cute duplex is located within walking distance to Ohio University campus & uptown Athens. Studio apartment is the lower-level and 1 bedroom apartment is the upper-level. Street parking is easy to find on this street, however, we have parking at our office at a discounted rate of $60/month for tenants only.",
     "amenities": [],
     "units": [
       {
@@ -226,9 +213,8 @@
         "beds": 1,
         "baths": 1,
         "rent": 650.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 1 Bedroom This cozy, cottage-style apartment has been recently updated and features nice hardwood floors. easy walking distance to campus & uptown. Please contact us for additional details regarding rent.",
+        "amenities": ["Cable", "Hardwood floors", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137955
       },
       {
@@ -237,9 +223,8 @@
         "beds": "studio",
         "baths": 1,
         "rent": 575.00,
-        "available": "08/03/2024",
-        "description": "",
-        "amenities": [],
+        "description": "This petite apartment features plenty of built-in shelving, a small back yard and is a short walk to campus and uptown. Listed rent is discounted and is based on one tenant. Please contact us for additional details regarding rent. $58 for water, trash, and sewer. Tenant puts gas and electric in their name.",
+        "amenities": ["Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137956
       }
     ]
@@ -256,7 +241,6 @@
         "beds": 9,
         "baths": 5,
         "rent": 14000.00,
-        "available": "07/29/2022",
         "description": "This huge, newly renovated house has an entertainment area, 14 Bedrooms & 6 Bathrooms. Its located on N College St. behind Chase Bank and the parking garage. Tenants can also enjoy complimentary laundry. The property is zoned for... 56 People! ",
         "amenities": [],
         "id": 183160
@@ -265,9 +249,9 @@
   },
   {
     "address": "120 North Congress Street",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Single House",
@@ -275,18 +259,17 @@
         "beds": 4,
         "baths": 2,
         "rent": 550.00,
-        "available": "05/03/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 4 Bedrooms This spacious 4 bedroom house is in a great location and is super close to uptown! Features 2 full baths, a large living room and bar room, bonus room, washer/dryer, large yard, and FREE off-street parking. Please contact us for additional details regarding rent.",
+        "amenities": ["Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137962
       }
     ]
   },
   {
     "address": "127 West State Street",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Single House",
@@ -294,10 +277,27 @@
         "beds": 6,
         "baths": 2,
         "rent": 420.00,
-        "available": "05/08/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 6 Bedrooms One of our largest houses! This amazing, well-maintained home is perfect for a large group of friends who are looking to live close to uptown and Ohio University campus. This house is very energy-efficient with double-pane windows. Enjoy a huge wrap-around front porch, free off-street parking, a huge kitchen with 2 refrigerators, dishwasher, plenty of storage space, central air and heat, washer/dryer, and huge bedrooms with ample closet space. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137957
+      }
+    ]
+  },
+  {
+    "address": "129 West State Street",
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "sqft": "-",
+        "beds": 3,
+        "baths": 3,
+        "rent": "-",
+        "description": "-",
+        "amenities": [],
+        "id": 1342013
       }
     ]
   },
@@ -313,10 +313,9 @@
         "beds": "-",
         "baths": "-",
         "rent": 0,
-        "available": "-",
         "description": "-",
         "amenities": [],
-        "id": 1
+        "id": 195183
       },
       {
         "unit": "2",
@@ -324,10 +323,9 @@
         "beds": "-",
         "baths": "-",
         "rent": 0,
-        "available": "-",
         "description": "-",
         "amenities": [],
-        "id": 2
+        "id": 195184
       },
       {
         "unit": "3",
@@ -335,17 +333,16 @@
         "beds": "-",
         "baths": "-",
         "rent": 0,
-        "available": "-",
         "description": "-",
         "amenities": [],
-        "id": 3
+        "id": 195185
       }
     ]
   },
   {
     "address": "133 Franklin Avenue",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "Conveniently located near Court Street & Ohio University campus, this duplex is divided into two sections: a 2 bedroom apartment upstairs and a 1 bedroom apartment downstairs. Street parking is easy to find on this street, however, you can also rent a parking space at our office at a discounted rate of $60/month for tenants only.",
     "amenities": [],
     "units": [
       {
@@ -354,9 +351,8 @@
         "beds": 1,
         "baths": 1,
         "rent": 675.00,
-        "available": "05/08/2024",
-        "description": "",
-        "amenities": [],
+        "description": "This spacious 1 bedroom has a large, open living room with lots of natural lighting. It was renovated with a brand-new bathroom in April 2016. It features a back patio as well as a front porch. The apartment is perfect for two people. Listed rent is discounted and is based on one tenant.. Please contact us for additional details regarding rent for two people. ",
+        "amenities": ["Balcony", "Deck", "Patio", "Hardwood floors", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137958
       },
       {
@@ -365,10 +361,27 @@
         "beds": 2,
         "baths": 1,
         "rent": 487.50,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "This cozy upstairs apartment features hardwood floors, brand new windows and a private balcony view overlooking the city; Located in a quiet neighborhood with an easy walk to campus and Family Dollar, this apartment is very convenient! Listed rent is discounted and is per person based on two tenants. Please contact us for additional details regarding rent. Tenant pays all utilities.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137959
+      }
+    ]
+  },
+  {
+    "address": "135 Morris Avenue",
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "sqft": 2095,
+        "beds": 4,
+        "baths": 2.5,
+        "rent": 495.00,
+        "description": "Discounted Rent Per Bedroom x 4 Bedrooms Beautiful Spacious 3 to 4 bedroom home with a one car garage. All wood floors, central air/heat, washer/dryer, a screened in back porch and a nice front porch. ",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Garage parking", "Hardwood floors", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
+        "id": 492332
       }
     ]
   },
@@ -384,7 +397,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 500.00,
-        "available": "06/30/2024",
         "description": "Discounted Rent Per Bedroom x 3 Bedrooms This Westside house features a newly renovated kitchen with a built-in microwave. It also includes a washer, dryer, dishwasher, free off-street parking, a covered front porch, and a private, fenced-in backyard. Please contact us for additional details regarding rent.",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Fenced yard", "Heat - gas", "Laundry room / hookups", "Microwave", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137940
@@ -403,7 +415,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "available": "10/31/2023",
         "description": "Discounted Rent Per Bedroom x 3 Bedrooms This West side house is located within walking distance to uptown and is nestled in a quiet neighborhood. It features a great covered front porch, new wood flooring and windows, ceiling fans, bonus room, washer/dryer, and a large yard with a back patio. Please contact us for additional details regarding rent for three people. ",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137941
@@ -412,9 +423,9 @@
   },
   {
     "address": "149 East State Street",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "A very special property to the Prokos' family! This large property is divided into three sections: a 4 bedroom apartment upstairs and a studio and 1 bedroom apartment downstairs. Complimentary laundry facility is available in the basement and free off-street parking is available to all tenants.",
+    "amenities": ["Laundry room", "Parking"],
     "units": [
       {
         "unit": "Unit A",
@@ -422,9 +433,8 @@
         "beds": "studio",
         "baths": 1,
         "rent": 675.00,
-        "available": "05/08/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 1 Bedroom This cute studio apartment features high ceilings with beautiful natural lighting, hardwood flooring, vintage-looking fireplace (sorry, you can't actually build a fire - but it's cute!), large kitchen & bathroom with plenty of storage, free off-street parking, and a great front porch to relax on! Complimentary laundry facility is in the basement. Please contact us for additional details regarding rent.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137931
       },
       {
@@ -433,9 +443,8 @@
         "beds": 1,
         "baths": 1,
         "rent": 750.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "This apartment is close to uptown and features hardwood floors, a large bedroom with a double-door closet, a huge front porch, a complimentary laundry facility, and free off-street parking. Perfect for two! Listed rent is discounted and is based on one tenant. Please contact us for additional details regarding rent for two people.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Hardwood floors", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137932
       },
       {
@@ -444,10 +453,63 @@
         "beds": 4,
         "baths": 2,
         "rent": 565.00,
-        "available": "05/08/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 4 Bedrooms This relaxing, spacious apt. has a 25 ft. balcony that's perfect for studying or just hanging out after a hard day! It also features a washer/dryer/dishwasher, 2 full baths, free off-street parking, and big bedrooms! Please contact us for additional details regarding rent. ",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137933
+      }
+    ]
+  },
+  {
+    "address": "149 East State Street C - 1",
+    "city": "Athens, OH 45701-1743",
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "sqft": "-",
+        "beds": "-",
+        "baths": 1,
+        "rent": "-",
+        "description": "-",
+        "amenities": [],
+        "id": 1583825
+      }
+    ]
+  },
+  {
+    "address": "149 East State Street C - 2",
+    "city": "Athens, OH 45701-1743",
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "sqft": "-",
+        "beds": "-",
+        "baths": 1,
+        "rent": "-",
+        "description": "-",
+        "amenities": [],
+        "id": 1583826
+      }
+    ]
+  },
+  {
+    "address": "149 East State Street C - 4",
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "sqft": "-",
+        "beds": "-",
+        "baths": 1,
+        "rent": "-",
+        "description": "-",
+        "amenities": [],
+        "id": 1583827
       }
     ]
   },
@@ -463,7 +525,6 @@
         "beds": 7,
         "baths": 2,
         "rent": 550.00,
-        "available": "05/08/2024",
         "description": "Discounted Rent Per Bedroom x 7 Bedrooms This 7 bedroom apartment is two floors and features a 42\" flat-screen TV mounted on the wall in the living room, hardwood flooring, a nice front porch, on-site laundry facility, new dishwasher, and a huge back deck that is worth checking out! Please contact us for additional details regarding rent. ",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137921
@@ -474,7 +535,6 @@
         "beds": 6,
         "baths": 2,
         "rent": 560.00,
-        "available": "05/03/2023",
         "description": "Discounted Rent Per Bedroom x 6 Bedrooms This spacious uptown apartment has been newly remodeled with a great kitchen and features a 42\" flat-screen TV in the living room, hardwood flooring, a great patio, and a huge back deck to entertain friends! Please contact us for additional details regarding rent. ",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Heat - oil", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137922
@@ -485,7 +545,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 750.00,
-        "available": "05/07/2024",
         "description": "Discounted Rent Per Bedroom x 1 Bedroom Located Uptown (behind Bromley Hall), this apartment is extremely close to campus! It features an on-site laundry facility as well as a patio area. Please contact us for additional details regarding rent. ",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137923
@@ -494,8 +553,8 @@
   },
   {
     "address": "186 West Washington Street",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -504,9 +563,8 @@
         "beds": 3,
         "baths": 1,
         "rent": 550.00,
-        "available": "08/07/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Person x 3 Bedrooms  This recently updated house is conveniently located on the West side of town and is very close to uptown & campus. It features new floors, sizeable bedrooms, central air/heat, washer/dryer, and a huge wrap-around porch! Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Cable", "Fireplace", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137965
       }
     ]
@@ -523,7 +581,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 550.00,
-        "available": "05/06/2024",
         "description": "Discounted Rent Per Bedroom x 2 Bedrooms This spacious home has recently been updated! Included is a washer and dryer, wood floors throughout the whole house, a nice front porch and free off-street parking. Please contact us for additional details regarding rent. Tenant puts electric and gas in their name. ",
         "amenities": [],
         "id": 355348
@@ -532,9 +589,9 @@
   },
   {
     "address": "208 1/2 West Washington Street",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Unit A",
@@ -542,9 +599,8 @@
         "beds": 3,
         "baths": 3,
         "rent": 600.00,
-        "available": "05/03/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms This is a newer rental! Built in July 2016, this beautiful apartment features a flat-screen TV mounted on the wall in the living room and in each bedroom. Tenants can enjoy brand-new stainless-steel appliances in the kitchen (dishwasher, fridge, stove, and built-in microwave), free off-street parking, washer/dryer and central air/heat. Each bedroom has its OWN bathroom! You can relax on the nice front porch. It's conveniently located next to the West End Cider House – just a quick walk to uptown & campus. These apartments are total electric and energy efficient. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137968
       },
       {
@@ -553,9 +609,8 @@
         "beds": 1,
         "baths": 1,
         "rent": 725.00,
-        "available": "05/03/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 1 Bedroom This is a new one-bedroom apartment! Completely new as of May 2016. This beautiful one bedroom unit features a flat-screen TV mounted on the wall in the living room and bedroom, stainless steel appliances in the kitchen, free off-street parking, and central air/heat. Perfect for two people. Conveniently located next to the West End Cider House – just a quick walk to uptown & campus. Please contact us for additional details regarding rent for two people. Unit all electric and tenant puts that in their name.",
+        "amenities": ["Air conditioner", "Cable", "Heat - electric", "Refrigerator", "Stove and oven"],
         "id": 137966
       },
       {
@@ -564,9 +619,8 @@
         "beds": 1,
         "baths": 1,
         "rent": 725.00,
-        "available": "05/07/2025",
-        "description": "",
-        "amenities": [],
+        "description": "This is a new one-bedroom apartment! Completely new as of May 2016. This beautiful one bedroom unit features a flat-screen TV mounted on the wall in the living room and bedroom, stainless steel appliances in the kitchen, free off-street parking, and central air/heat. Perfect for two people. Conveniently located next to the West End Cider House - just a quick walk to uptown & campus. Listed rent is discounted and based on one person. Please contact us for additional details regarding rent for two people. Unit all electric and tenant puts that in their name,",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Heat - electric", "Refrigerator", "Stove and oven"],
         "id": 137967
       }
     ]
@@ -583,7 +637,6 @@
         "beds": 9,
         "baths": 2,
         "rent": 450.00,
-        "available": "04/04/2024",
         "description": "Discounted Rent Per Bedroom x 9 Bedrooms This huge uptown house features a front porch, spacious kitchen with a stove, dishwasher, fridge, and washer/dryer, an extra fridge upstairs, huge back patio area, newly painted bedrooms, and a 42\" flat-screen TV in the living room. Please contact us for additional details regarding rent.",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137927
@@ -602,7 +655,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 675.00,
-        "available": "05/07/2024",
         "description": "Live comfortably in this sizeable, cozy 1-bedroom apartment! It is within walking distance to campus and large enough for two people. This unit also features a nice front porch. Listed rent is discounted and based on one tenant. Please contact us for additional details regarding rent.",
         "amenities": ["Balcony", "Deck", "Patio", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137942
@@ -613,7 +665,6 @@
         "beds": "studio",
         "baths": 1,
         "rent": 575.00,
-        "available": "05/06/2024",
         "description": "This studio apartment features a spacious living room, a full-size bathroom with a tub, and is conveniently close to campus. Listed rent is discounted and based on one person. Please contact us for additional details regarding rent. $58 a month for water, trash, and sewer. Tenant puts electric in their name. ",
         "amenities": ["Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137943
@@ -632,7 +683,6 @@
         "beds": 3,
         "baths": 2,
         "rent": 400.00,
-        "available": "05/07/2024",
         "description": "Discounted Rent Per Bedroom x 3 Bedrooms This home has been newly renovated and features all new appliances (fridge, dishwasher, oven/range, washer & dryer), free off-street parking, a great backyard, and all new flooring/fresh paint! Please contact us for additional details regarding rent.",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137961
@@ -641,8 +691,8 @@
   },
   {
     "address": "37 Walker Street",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -651,18 +701,27 @@
         "beds": 4,
         "baths": 2,
         "rent": 500.00,
-        "available": "08/03/2024",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 4 Bedrooms This three-story houses on the West side is so spacious, there's potential to add a fifth roommate! It features two large balconies, an open concept living area, large bedrooms, central air/heat, dishwasher, and a washer/dryer. Tenants can also enjoy a two-car garage! This property is just a short 5-minute walk to Court St. and a 10-minute walk to campus! Please contact for additional details regarding rent.",
         "amenities": [],
         "id": 933139
+      },
+      {
+        "unit": "Unit B",
+        "sqft": "-",
+        "beds": "Studio",
+        "baths": 1,
+        "rent": 600.00,
+        "description": "-",
+        "amenities": [],
+        "id": 1277369
       }
     ]
   },
   {
     "address": "38 North Plains Road",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "The Plains, OH 45780",
+    "description": "This lovely home is located on the main strip in The Plains and is conveniently located near many local businesses. Perfect for Hocking College students, Ohio University grad students, or a family! ",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Single House",
@@ -670,17 +729,16 @@
         "beds": 4,
         "baths": 2,
         "rent": 300.00,
-        "available": "05/31/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 4 Bedrooms This spacious, newly remodeled house is on the main strip in The Plains and is just a quick drive to Ohio University campus. It features newer appliances (dishwasher, fridge, & stove), 2 full baths, washer/dryer hook-up, spacious bedrooms, free off-street parking, and a nice front porch and back patio with a huge backyard! Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137944
       }
     ]
   },
   {
     "address": "385 Richland Avenue",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -689,17 +747,16 @@
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "available": "05/03/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms This house is located close to campus & surrounding businesses; It features a front and back patio with a large back yard, washer/dryer/dishwasher, big screen TV mounted on the wall in the living room, and off-street parking with a garage included. Please contact us for additional details regarding rent.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137960
       }
     ]
   },
   {
     "address": "39 Walker Street",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "Built in 1998",
     "amenities": [],
     "units": [
       {
@@ -708,18 +765,17 @@
         "beds": 4,
         "baths": 2,
         "rent": 500.00,
-        "available": "05/09/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedrooms x 4 Bedrooms This three-story house on the West side is very spacious and features two large balconies, an open concept living area, large bedrooms, central air/heat, dishwasher, and a washer/dryer. Tenants can also enjoy a two-car garage! This property is just a short 5 minute walk to Court St. and a 10 minute walk to campus! ",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Garage parking", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 933147
       }
     ]
   },
   {
     "address": "39 Woodward Avenue",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "Built in 1000 This amazing, newly built house is located on a great street off Congress and is just a quick walk to campus & uptown. It features new appliances (washer, dryer, dishwasher, fridge, & stove), 2 full bathrooms, ceiling fans, a bonus room and a huge deck off the back of house with a great view, central air/heat, and free off-street parking.",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Single House",
@@ -727,9 +783,8 @@
         "beds": 4,
         "baths": 2,
         "rent": 550.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 4 Bedrooms This amazing, newly remodeled house is located on a great street off congress and is just a quick walk to campus and uptown, it features new appliances (washer, dryer, dishwasher, fridge, and stove), 2 full bathrooms, ceiling fans, and a huge deck off the back of the house with a great view, washer/dryer, central air/heat, and FREE off-street parking. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Balcony", "deck", "patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137945
       }
     ]
@@ -746,7 +801,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 685.00,
-        "available": "05/03/2025",
         "description": "Discounted Rent Per Bedroom x 1 Bedroom This 1 bedroom is within walking distance to campus. The bathroom has just been renovated! Parking is very easy to find on this street. Please contact us for additional details regarding rent. ",
         "amenities": ["Cable", "Hardwood floors", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137934
@@ -757,7 +811,6 @@
         "beds": "studio",
         "baths": 1,
         "rent": 575.00,
-        "available": "05/06/2024",
         "description": "Discounted rent Per Bedroom x 1 Bedroom This apartment has a very generous amount of space for a studio! It features hard wood floors and is walking distance to campus. Free street parking is very easy to find at this location. $58 a month for water, trash, and sewer. Tenant puts electric and gas in their name. ",
         "amenities": ["Cable", "Hardwood floors", "Stove and oven"],
         "id": 137935
@@ -766,8 +819,8 @@
   },
   {
     "address": "40 East State Street",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "This property is located in the heart of Athens on the corner of East State Street & College Street! Just a block from uptown, you could rent the entire property with 10 people or check out both units we have for 5 people!",
     "amenities": [],
     "units": [
       {
@@ -776,9 +829,8 @@
         "beds": 5,
         "baths": 2,
         "rent": 495.00,
-        "available": "07/10/2022",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 5 Bedrooms This awesome two-story apartment features hardwood flooring, a 42\" flat-screen TV mounted on the wall in the living room, bar area at the kitchen, spacious bedrooms, central air/heat, dishwasher, and a washer/dryer. Off-street parking is available at a discounted rate of $70/month for tenants. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137928
       },
       {
@@ -787,17 +839,16 @@
         "beds": 5,
         "baths": 2,
         "rent": 495.00,
-        "available": "05/03/2022",
-        "description": "",
-        "amenities": [],
+        "description": "This unique, two-floor apartment has been freshly painted and features a patio, spacious bedrooms, a 42\" flat-screen TV mounted on the wall in the living room, dishwasher, washer/dryer, and central air & heat. Parking is available at a discounted rate of $70/month for tenants. Listed rent is discounted and per person based on five tenants. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137929
       }
     ]
   },
   {
     "address": "45 Mound Street",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -806,17 +857,16 @@
         "beds": 3,
         "baths": 1,
         "rent": 475.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms This cozy 3-bedroom house is just a short walk from campus and uptown. Amenities include a washer and dryer, a large yard, and a spacious front porch! Please contact us for additional details regarding rent. ",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137963
       }
     ]
   },
   {
     "address": "46 Mound Street",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -825,21 +875,17 @@
         "beds": 2,
         "baths": 1,
         "rent": 675.00,
-        "available": "07/05/2024",
-        "description": "",
+        "description": "This spacious 2 bedroom, 1 bath house features hardwood floors throughout the house. With a partial finished basement with a washer/dryer. Large wrap around porch, back yard, and storage shed. Just a short walk to uptown Athens and campus. Tenant pays all utilities.",
         "amenities": [],
         "id": 1522544
       }
     ]
   },
-  
-
-
   {
     "address": "465 Richland Avenue",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "This apartment building is conveniently located across from C&E Market on Richland Avenue and is divided into 5 sections: 4 one bedroom apartments & 1 two bedroom apartment Free off-street parking is available to tenants as well as a complimentary laundry facility.",
+    "amenities": ["Laundry room", "Parking"],
     "units": [
       {
         "unit": "Unit A",
@@ -847,9 +893,8 @@
         "beds": 1,
         "baths": 1,
         "rent": 675.00,
-        "available": "08/20/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom This spacious apartment is perfect for two people! It is a lower-level unit and is very well-maintained. Enjoy free off-street parking and a complimentary laundry facility. Please contact us for additional details regarding rent for two people.",
+        "amenities": ["Cable", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137815
       },
       {
@@ -858,9 +903,8 @@
         "beds": 1,
         "baths": 1,
         "rent": 675.00,
-        "available": "06/30/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Perfect for two people! This unit has been completely newly renovated with new carpet & fresh paint throughout. New kitchen counter tops and new flooring in bathroom & kitchen. It is an adorable unit that features an eat-in kitchen with a cute table & two benches. Also features free off-street parking & a complimentary laundry facility. Please contact us for additional details regarding rent for two people.",
+        "amenities": ["Cable", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137816
       },
       {
@@ -869,9 +913,8 @@
         "beds": 1,
         "baths": 1,
         "rent": 708.00,
-        "available": "08/15/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedrooms x 1 Bedroom This adorable upper-level apartment is very spacious and perfect for two people! Enjoy free off-street parking and a complimentary laundry facility. Please contact us for additional details regarding rent for two people.",
+        "amenities": ["Cable", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137817
       },
       {
@@ -880,9 +923,8 @@
         "beds": 1,
         "baths": 1,
         "rent": 675.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 1 Bedroom This adorable upper-level apartment is very spacious and perfect for two people! Enjoy free off-street parking and a complimentary laundry facility. Please contact us for additional details regarding rent for two people.",
+        "amenities": ["Cable", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137818
       },
       {
@@ -891,17 +933,16 @@
         "beds": 2,
         "baths": 1,
         "rent": 925.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 2 Bedrooms This Large apartment features wood flooring with carpeted bedrooms, a complimentary laundry facility, and free off-street parking. The kitchen is big with tons of counter space! Please contact us for additional details regarding rent. Tenant pays all utilities.",
+        "amenities": ["Cable", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137819
       }
     ]
   },
   {
     "address": "47 First Street",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "Built in 1998",
     "amenities": [],
     "units": [
       {
@@ -910,8 +951,7 @@
         "beds": 4,
         "baths": 2,
         "rent": 500.00,
-        "available": "05/08/2024",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 4 Bedrooms This three-story houses on the West side is so spacious, there's potential to add a fifth roommate! It features two large balconies, an open concept living area, large bedrooms, central air/heat, dishwasher, and a washer/dryer. Tenants can also enjoy a two-car garage! This property is just a short 5-minute walk to Court St. and a 10-minute walk to campus! Please contact us for additional details regarding rent. ",
         "amenities": [],
         "id": 933146
       }
@@ -919,8 +959,8 @@
   },
   {
     "address": "48 Madison Avenue",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -929,17 +969,16 @@
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "available": "07/31/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms This is “Country living” in Athens! The house features a front porch with a swing, nice living room with a flat-screen TV mounted on the wall, beautiful kitchen with a dishwasher, stove, refrigerator, and washer/dryer. Very large back patio, with a large backyard, and free off-street parking. Please contact us for additional details regarding rent for three people. ",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137946
       }
     ]
   },
   {
     "address": "48 Moore Street",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -948,9 +987,8 @@
         "beds": 3,
         "baths": 1,
         "rent": 525.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms This large, well-maintained 3-bedroom house is located off West Union and features free off-street parking, spacious bedrooms, new carpet, washer/dryer, a balcony off one of the bedrooms, and an extra storage room. It's just a quick walk to campus & uptown! Please contact us for additional details regarding rent. ",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137969
       }
     ]
@@ -967,7 +1005,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "available": "05/06/2024",
         "description": "Discounted Rent Per Bedroom x 3 Bedrooms This house has been recently updated with new kitchen counter-tops and wood flooring! It features central heating/air, washer/dryer, a full basement, nice backyard, nice kitchen, a dishwasher, and off-street parking. Located by Donato's Pizza on East State St & Cool Digs. Please contact us for additional details regarding rent. ",
         "amenities": ["Air conditioner", "Cable", "Dishwasher", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137936
@@ -975,9 +1012,27 @@
     ]
   },
   {
+    "address": "5415 State Street",
+    "city": "Albany, OH 45710",
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "sqft": "-",
+        "beds": "-",
+        "baths":  1,
+        "rent": "-",
+        "description": "-",
+        "amenities": [],
+        "id": 1578702
+      }
+    ]
+  },
+  {
     "address": "544 Richland Commercial",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "Perfect location for a gas station, grocery/retail store or a restaurant! At the intersection of 3 major highways (33/32/50) Plenty of parking for over 50 cars",
     "amenities": [],
     "units": [
       {
@@ -986,8 +1041,7 @@
         "beds": "-",
         "baths":  "-",
         "rent": 4500.00,
-        "available": "05/09/2021",
-        "description": "",
+        "description": "*$10 per square foot* At the intersection of 3 major highways (33/32/50) Parking available for over 50 cars",
         "amenities": [],
         "id": 137833
       }
@@ -995,8 +1049,8 @@
   },
   {
     "address": "57 Franklin Avenue",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "Very close to campus and uptown. Nice new kitchen with a bar area (bar stools included!), living room, and spacious bedrooms. This house has a very nice front porch. This house has newer appliances: including a dishwasher, stove, refrigerator, and washer/dryer",
     "amenities": [],
     "units": [
       {
@@ -1005,9 +1059,8 @@
         "beds": 3,
         "baths": 1,
         "rent": 525.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms This apartment is very close to campus and uptown. It features a nice new kitchen with a bar area (bar stools included) and spacious bedrooms. This house has a very nice front porch as well as newer appliances including a dishwasher, stove, refrigerator and washer/dryer. For additional details regarding rent, please contact us.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137947
       },
       {
@@ -1017,28 +1070,9 @@
         "baths": 1,
         "rent": 750.00,
         "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "This sizeable apartment has been recently updated in the kitchen and living room. Conveniently located by Family Dollar, it's only a short walk to campus! Enjoy a nice day on your porch that's big enough for two! ",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137948
-      }
-    ]
-  },
-  {
-    "address": "",
-    "city": "",
-    "description": "",
-    "amenities": [],
-    "units": [
-      {
-        "unit": "Single House",
-        "sqft": 1344,
-        "beds": 3,
-        "baths": 1,
-        "rent": 475.00,
-        "available": "05/03/2024",
-        "description": "",
-        "amenities": [],
-        "id": 137964
       }
     ]
   },
@@ -1053,11 +1087,10 @@
         "sqft": 1344,
         "beds": 3,
         "baths": 1.5,
-        "rent": 475,
-        "available": "5/4/2024",
+        "rent": 475.00,
         "description": "Discounted Rent Per Bedroom x 3 Bedrooms This beautiful, spacious 3-bedroom house features hardwood floors, a large shaded front porch, free off-street parking, a large backyard, washer/dryer, 1 ½ baths, large rooms with ceiling fans, and a back porch. House is located on a nice, quiet street on the Westside but is just a quick walk to campus & uptown. Please contact us for additional details regarding rent. ",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven", "Walk-in closets"],
-        "id": 7862
+        "id": 137964
       }
     ]
   },
@@ -1073,7 +1106,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 500.00,
-        "available": "05/06/2023",
         "description": "Discounted Rent Per Bedroom x 3 Bedrooms This beautiful house has been recently updated with newer appliances and features central air/heat, a nice patio, a big screen TV included with the house, washer/dryer, and free off-street parking. It's an easy walking distance to campus, located by the HDL Center. Please contact us for additional details regarding rent.",
         "amenities": ["Air conditioner", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Microwave", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137937
@@ -1082,8 +1114,8 @@
   },
   {
     "address": "61 First Street",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -1092,8 +1124,7 @@
         "beds": 3,
         "baths": 1,
         "rent": 366.66,
-        "available": "05/03/2024",
-        "description": "",
+        "description": "3 bedroom, 1 bath home with a nice kitchen, spacious living room and large yard. This home has off street parking. Just a short walk to uptown Athens.",
         "amenities": [],
         "id": 1332687
       }
@@ -1101,9 +1132,9 @@
   },
   {
     "address": "65 Franklin Avenue",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Single House",
@@ -1111,18 +1142,17 @@
         "beds": 5,
         "baths": 2,
         "rent": 450.00,
-        "available": "05/08/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 5 Bedrooms This huge home is located on one of Athens most popular streets and is just a quick walk to Ohio University campus & uptown Athens. You and your friends can enjoy two living rooms with hardwood flooring and a 42\" flat-screen TV mounted on the wall. Also includes a great front porch, free off-street parking, large back patio, spacious bedrooms, and a large kitchen with all appliances (including a dishwasher & washer/dryer!). Please contact us for additional details regarding rent.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137949
       }
     ]
   },
   {
     "address": "71 South May Avenue",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Single House",
@@ -1130,18 +1160,17 @@
         "beds": 3,
         "baths": 1,
         "rent": 450.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms This spacious house is located on the East side of town and features a huge backyard, beautiful oak trim cabinets, ceramic-tiled floor in the kitchen and entryway, dishwasher, new carpet, a nice front porch & back deck, and a large basement with a washer/dryer. Perfect for a small family or grad students! Please contact us for additional details regarding rent.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137950
       }
     ]
   },
   {
     "address": "78 East State Street",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Unit A",
@@ -1149,9 +1178,8 @@
         "beds": 3,
         "baths": 1,
         "rent": 650.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms Uptown apartments, large living room, washer/dryer beautiful oak trim, off street parking available, and a great front porch! ** THIS CAN BE LEASED AS A 6 BEDROOM HOUSE** Please contact us for additional details regarding rent. Tenant pays all utilities. ",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137805
       },
       {
@@ -1160,9 +1188,8 @@
         "beds": 6,
         "baths": 2,
         "rent": 650.00,
-        "available": "05/13/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms This unique house is a 6 bedroom apartment that consists of two joinging 3 bedroom units; one upstairs and one downstairs. While renting as a 6 bedroom house, tenants can enjoy all the amenities of two apartments, but under one roof! (two kitchens, two full bathrooms, etc!). The house itself has a classic Athens feel - high ceilings, hardwood flooring, beautiful oak trim - and features large living rooms, a washer/dryer, a front porch, and off-street parking. Please contact us for additional details regarding rent. ",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137806
       },
       {
@@ -1171,9 +1198,8 @@
         "beds": 4,
         "baths": 1,
         "rent": 500.00,
-        "available": "04/30/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 4 Bedrooms This apartment is just a block away from uptown! It features glass block windows for extra lighting, new floors, washer/dryer, and off-street parking right outside your door is available at a discounted rate! Please contact us for additional details regarding rent. ",
+        "amenities": ["Cable", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137807
       }
     ]
@@ -1190,7 +1216,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 900.00,
-        "available": "05/06/2024",
         "description": "Discounted Rent Per Bedroom x 1 Bedroom This is our largest 1 bedroom! You can relax on your huge personal deck or take a 2-minute stroll to Court St. and have some fun! There are tons of extra storage space here as well as free off-street parking. It's located just 1 block from uptown, behind Sorority Row and by Siegfried Hall. Please contact us for additional details regarding rent for two tenants. Tenant puts electric and gas in their name.",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Hardwood floors", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 183171
@@ -1201,7 +1226,6 @@
         "beds": 4,
         "baths": 2,
         "rent": 600.00,
-        "available": "05/03/2023",
         "description": "Discounted Rent Per Bedroom x 4 Bedrooms This spacious apartment is just one block from uptown and located right behind Sorority row off College St. It features 2 full baths, a bar area, hardwood floors, 2 refrigerators, a private balcony, and a washer/dryer! Please contact us for additional details regarding rent.",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 183172
@@ -1220,7 +1244,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 575.00,
-        "available": "05/06/2024",
         "description": "Discounted Rent Per Bedroom x 2 Bedrooms This wonderful house includes a nice front porch, large bedrooms, and washer/dryer! It's very close to uptown, located just past the new Cat's Corner Bar and the Smiling Skull. Please contact us for additional details regarding rent. Tenant puts electric and gas in their name.",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137938
@@ -1229,9 +1252,9 @@
   },
   {
     "address": "80 East State Street",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "One of our most popular properties! Located right on the corner of East State & Carpenter, these newly renovated apartments are conveniently located one block from Court Street! This building is divided into 6 apartments - two 5 bedrooms, three 4 bedrooms, and one 3 bedroom. Parking is available at 78 East State Street or 88 East State Street (the building is located between these two lots) at a discounted rate of $60/month for tenants. ",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Unit 1",
@@ -1239,9 +1262,8 @@
         "beds": 5,
         "baths": 2,
         "rent": 525.00,
-        "available": "05/07/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 5 Bedrooms This awesome two-story 5 bedroom apartment is very well-maintained and features spacious floor plans, central air/heat, 50\" flat-screen TV mounted on the wall in the living room, bar area at the kitchen, balcony, dishwasher, washer/dryer, and huge bedrooms with great closet space. Off-street parking is available. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137808
       },
       {
@@ -1250,9 +1272,8 @@
         "beds": 4,
         "baths": 2,
         "rent": 645.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 4 Bedrooms This spacious unit features hardwood flooring in the living room and entry-way, dishwasher in the kitchen, stackable washer/dryer, spacious bedrooms, 50\" flat-screen TV mounted on the wall in the living room, central air/heat, and off-street parking is available. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137809
       },
       {
@@ -1261,9 +1282,8 @@
         "beds": 5,
         "baths": 2,
         "rent": 525.00,
-        "available": "05/03/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 5 Bedrooms This awesome two-story 5 bedroom apartment is very well-maintained and features spacious floor plans, central air/heat, 50\" flat-screen TV mounted on the wall in the living room, bar area at the kitchen, balcony, dishwasher, washer/dryer, and huge bedrooms with great closet space. Off-street parking is available. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137810
       },
       {
@@ -1272,9 +1292,8 @@
         "beds": 3,
         "baths": 1,
         "rent": 650.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms Our only three bedroom apartment at this location! It features hardwood flooring in the living room and entry-way, dishwasher in the kitchen, stack-able washer/dryer, spacious living room and bedrooms, 50\" flat-screen TV mounted on the wall in the living room, central air/heat, and off-street parking is available. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137811
       },
       {
@@ -1283,9 +1302,8 @@
         "beds": 4,
         "baths": 2,
         "rent": 645.00,
-        "available": "05/09/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 4 Bedrooms This unique apartment features hardwood flooring in the living room and entry-way, dishwasher in the kitchen, stack-able washer/dryer, spacious living room and kitchen, 42\" flat-screen TV mounted on the wall in the living room, central air/heat, and off-street parking is available. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137812
       },
       {
@@ -1294,18 +1312,53 @@
         "beds": 4,
         "baths": 2,
         "rent": 645.00,
-        "available": "04/06/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 4 Bedrooms This apartment is one of our most popular at this location! It features hardwood flooring in the living room, dishwasher in the kitchen, bar area at the kitchen, stack-able washer/dryer, spacious bedrooms, 50\" flat-screen TV mounted on the wall in the living room, central air/heat, and off-street parking is available. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137813
       }
     ]
   },
   {
-    "address": "85 North Lancaster Street",
-    "city": "",
-    "description": "",
+    "address": "80 East State Street Commercial",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
+    "units": [
+      {
+        "unit": "Retail",
+        "sqft": 4028,
+        "beds": "-",
+        "baths": "-",
+        "rent": 2550.00,
+        "description": "-",
+        "amenities": [],
+        "id": 137814
+      }
+    ]
+  },
+  {
+    "address": "8116 Salem Road",
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "sqft": "-",
+        "beds": "-",
+        "baths": 1,
+        "rent": "-",
+        "description": "-",
+        "amenities": [],
+        "id": 1404484
+      }
+    ]
+  },
+  {
+    "address": "85 North Lancaster Street",
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Single House",
@@ -1313,10 +1366,27 @@
         "beds": 3,
         "baths": 1,
         "rent": 525.00,
-        "available": "05/03/2024",
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms This beautiful, classic Athens house is just a quick walk to campus and uptown and features a 1 1/2 baths, central air/heat, plenty of free off-street parking, spacious bedrooms, washer/dryer, and an amazing front porch. Listed discounted rent is per person based on three tenants. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Fireplace", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven", "Walk-in closets"],
+        "id": 137951
+      }
+    ]
+  },
+  {
+    "address": "88 East State Street",
+    "city": "ATHENS, OH 45701",
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "22",
+        "sqft": "-",
+        "beds": "-",
+        "baths": "-",
+        "rent": "-",
         "description": "",
         "amenities": [],
-        "id": 137951
+        "id": 1377889
       }
     ]
   },
@@ -1332,7 +1402,6 @@
         "beds": 4,
         "baths": 2,
         "rent": 450.00,
-        "available": "06/30/2024",
         "description": "Discounted Rent Per Bedroom x 4 Bedrooms This house has been recently updated! It features 2 baths, washer/dryer, a large back yard, and a spacious covered front porch. Please contact us for additional details.",
         "amenities": [],
         "id": 355308
@@ -1351,7 +1420,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 650.00,
-        "available": "05/03/2023",
         "description": "Discounted Rent Per Bedroom x 3 Bedrooms This 3-bedroom apartments is roomy! It's located in a great location uptown (above Souvlaki's)! It has a large front balcony overlooking the street as well as a back balcony. Off-street parking is available at a discounted rate but is not included in rent amount. Please contact us for additional details regarding rent.",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Hardwood floors", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137970
@@ -1362,7 +1430,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 450.00,
-        "available": "05/06/2024",
         "description": "Discounted Rent Per Bedroom x 2 Bedrooms This apartment is fantastically located uptown! It includes sizeable rooms as well as a back balcony. Nearby parking is available at a discounted rate for tenants. Please contact us for additional details regarding rent. Tenant pays all utilities.",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Refrigerator", "Stove and oven"],
         "id": 137971
@@ -1373,7 +1440,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 650.00,
-        "available": "05/06/2024",
         "description": "Discounted Rent Per Bedroom x 3 Bedrooms This 3-bedroom apartments is roomy! It's located in a great location uptown (above Souvlaki's)! It has a large front balcony overlooking the street as well as a back balcony. Off-street parking is available at a discounted rate but is not included in rent amount. Please contact us for additional details regarding rent. ",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Refrigerator", "Stove and oven"],
         "id": 137972
@@ -1384,7 +1450,6 @@
         "beds": "studio",
         "baths": 1,
         "rent": 725.00,
-        "available": "05/02/2024",
         "description": "Beautiful apartment in a great location uptown (above souvlaki's) Very spacious and comfy with brand new flooring everywhere. Features a private balcony overlooking the street. ",
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137973
@@ -1403,7 +1468,6 @@
         "beds": "-",
         "baths":  "-",
         "rent": 2400.00,
-        "available": "05/09/2021",
         "description": "-",
         "amenities": [],
         "id": 137974
@@ -1414,7 +1478,6 @@
         "beds": "-",
         "baths":  "-",
         "rent": 2400.00,
-        "available": "07/31/2023",
         "description": "-",
         "amenities": [],
         "id": 137975
@@ -1433,7 +1496,6 @@
         "beds": "-",
         "baths": "-",
         "rent": 0,
-        "available": "-",
         "description": "-",
         "amenities": [],
         "id": 0
@@ -1442,9 +1504,9 @@
   },
   {
     "address": "92 West Union Street",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "city": "Athens, OH 45701",
+    "description": "Built in 1000 This large building is divided into three sections - two five-bedroom apartments and one three-bedroom apartment!  All featuring wash/dryer in each unit and central air/heat! Conveniently located in between Thai Paradise and Union Street Diner, these apartments are in a great location and are very well-maintained.",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Unit A",
@@ -1452,9 +1514,8 @@
         "beds": 3,
         "baths": 2,
         "rent": 650.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms This popular, well-maintained 3 bedroom apartment is just a block from Court St and features 2 full bathrooms, washer/dryer, central air/central heat, wrap-around bar area at kitchen, and 2 FREE parking spaces. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Cable", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137924
       },
       {
@@ -1463,9 +1524,8 @@
         "beds": 5,
         "baths": 2,
         "rent": 495.00,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 5 Bedrooms This unique 5 bedroom apartment has beautiful arched windows in the living room and bedrooms, a huge living room with a 50\" flat-screen TV mounted on the wall, dishwasher, washer/dryer, mud room, central air/heat, back patio area, and 2 free parking spaces! Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137925
       },
       {
@@ -1474,17 +1534,16 @@
         "beds": 5,
         "baths": 2,
         "rent": 495.00,
-        "available": "05/03/2022",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 5 Bedrooms This unique 5 bedroom apartment has beautiful arched windows in the living room and bedrooms, a huge living room with a 50\" flat-screen TV mounted on the wall, dishwasher, washer/dryer, mud room, central air/heat, back patio area, and 2 free parking spaces! Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137926
       }
     ]
   },
   {
     "address": "96 Hudson Avenue",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -1493,9 +1552,8 @@
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "available": "08/14/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 3 These 3 bedroom townhomes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck! Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Stove and oven"],
         "id": 506483
       },
       {
@@ -1504,8 +1562,7 @@
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "available": "07/11/2024",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms These 3 bedroom townhomes are nestled on the East Side of town and have a delightful country setting. There is easy acces to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck! Please contact us for additional details regarding rent.",
         "amenities": [],
         "id": 506484
       },
@@ -1515,8 +1572,7 @@
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "available": "05/31/2024",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms These 3 bedroom town-homes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck! Please contact us for additional details regarding rent.",
         "amenities": [],
         "id": 506485
       }
@@ -1524,8 +1580,8 @@
   },
   {
     "address": "98 Hudson Avenue",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -1534,8 +1590,7 @@
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "available": "07/31/2023",
-        "description": "",
+        "description": "These 3 bedroom townhomes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck! Listed rent is discounted and per person based on 3 tenants. Please contact us for additional details regarding rent.",
         "amenities": [],
         "id": 506508
       },
@@ -1545,8 +1600,7 @@
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "available": "08/18/2024",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms These 3 bedroom town-homes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck! Please contact us for additional details regarding rent.",
         "amenities": [],
         "id": 506509
       }
@@ -1554,8 +1608,8 @@
   },
   {
     "address": "99 East State Street",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -1563,8 +1617,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 1200.00,
-        "available": "07/31/2024",
-        "description": "",
+        "description": "Nice 2 bedroom, 1.5 bath apartment has been newly renovated and features a washer/dryer, central air and off-street parking. Close walk to uptown Athens and campus. Tenant pays all utilities.",
         "amenities": [],
         "id": 1216820
       },
@@ -1573,18 +1626,17 @@
         "beds": 1,
         "baths": 1,
         "rent": 750.00,
-        "available": "05/06/2025",
-        "description": "",
+        "description": "Newly renovated with hardwood floors, central air/heat, washer/dryer in unit and off street parking. Close to campus and uptown Athens. Tenant puts electric and gas in their name.",
         "amenities": [],
         "id": 1216821
       }
     ]
   },
   {
-    "address": "Andover Court Apartments",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "address": "Andover Court Apartments 5 Cardinal Ln",
+    "city": "Athens, OH 45701",
+    "description": "-",
+    "amenities": ["Laundry room", "Parking"],
     "units": [
       {
         "unit": "Unit 11A",
@@ -1592,9 +1644,8 @@
         "beds": 2,
         "baths": 1,
         "rent": 875.00,
-        "available": "06/30/2023",
-        "description": "",
-        "amenities": [],
+        "description": "These incredibly spacious and affordable two bedroom apartments are extremely popular. Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding.  Enjoy central air/heat, spacious living room & kitchen, extra storage space above kitchen, private patio, free off-street parking, washer & dryer hook-ups, and an on-site laundry facility. Listed rent is per person based on 3 tenants. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137880
       },
       {
@@ -1603,9 +1654,8 @@
         "beds": 1,
         "baths": 1,
         "rent": 700.00,
-        "available": "07/31/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137881
       },
       {
@@ -1615,8 +1665,8 @@
         "baths": 1,
         "rent": 700.00,
         "available": "07/31/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137882
       },
       {
@@ -1626,8 +1676,8 @@
         "baths": 1,
         "rent": 900.00,
         "available": "05/31/2024",
-        "description": "",
-        "amenities": [],
+        "description": "These incredibly spacious and affordable two bedroom apartments are extremely popular. Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding.  Enjoy central air/heat, spacious living room & kitchen, extra storage space above kitchen, private patio, free off-street parking, washer & dryer hook-ups, and an on-site laundry facility. Listed rent is per person based on three people. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137883
       },
       {
@@ -1637,8 +1687,8 @@
         "baths": 1,
         "rent": 700.00,
         "available": "04/30/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Stove and oven"],
         "id": 137884
       },
       {
@@ -1648,8 +1698,8 @@
         "baths": 1,
         "rent": 700.00,
         "available": "05/31/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137885
       },
       {
@@ -1659,8 +1709,8 @@
         "baths": 1,
         "rent": 700.00,
         "available": "01/01/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent. ",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137834
       },
       {
@@ -1670,7 +1720,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "05/18/2023",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent. ",
         "amenities": [],
         "id": 137835
       },
@@ -1681,7 +1731,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "01/06/2024",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent. ",
         "amenities": [],
         "id": 137836
       },
@@ -1692,7 +1742,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "08/31/2023",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent. ",
         "amenities": [],
         "id": 137837
       },
@@ -1703,7 +1753,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "09/14/2023",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137838
       },
@@ -1714,7 +1764,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "09/30/2023",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent. ",
         "amenities": [],
         "id": 137839
       },
@@ -1725,7 +1775,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "05/06/2024",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent. ",
         "amenities": [],
         "id": 137840
       },
@@ -1736,7 +1786,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "05/03/2023",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent. ",
         "amenities": [],
         "id": 137841
       },
@@ -1747,8 +1797,8 @@
         "baths": 1,
         "rent": 700.00,
         "available": "08/09/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Our spacious studio apartments at Andover Court are perfect for a student looking to focus on their studies or a professional! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, extra storage space above the kitchen, free off-street parking, on-site laundry facility, and an on-site maintenance technician/property manager. Listed rent is a discounted rent rate. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Cable", "Heat - electric", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137842
       },
       {
@@ -1758,7 +1808,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "01/02/2024",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent. ",
         "amenities": [],
         "id": 137843
       },
@@ -1769,8 +1819,8 @@
         "baths": 1,
         "rent": 575.00,
         "available": "04/27/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Our cute & cozy studio apartments at Andover Court are perfect for graduate students, young professionals, or anyone looking to save a bit of money on rent! Located in a secluded surrounding, these units feature central air/heat, free off-street parking, extra storage space above the kitchen, and an on-site laundry facility. Listed rent is per person based on two tenants. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Cable", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137844
       },
       {
@@ -1780,7 +1830,7 @@
         "baths": 1,
         "rent": 575.00,
         "available": "04/30/2024",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 137845
       },
@@ -1791,7 +1841,7 @@
         "baths": 1,
         "rent": 575.00,
         "available": "04/30/2024",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 137846
       },
@@ -1802,7 +1852,7 @@
         "baths": 1,
         "rent": 575.00,
         "available": "03/01/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 137847
       },
@@ -1813,7 +1863,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "01/31/2023",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 1 Bedroom Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137848
       },
@@ -1824,7 +1874,7 @@
         "baths": 1,
         "rent": 575.00,
         "available": "07/14/2023",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 1 Bedroom Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137849
       },
@@ -1835,7 +1885,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "07/31/2023",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137850
       },
@@ -1846,7 +1896,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "07/31/2024",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137851
       },
@@ -1857,7 +1907,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "06/14/2024",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent. ",
         "amenities": [],
         "id": 137852
       },
@@ -1868,7 +1918,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "05/31/2024",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137853
       },
@@ -1879,7 +1929,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "12/31/2022",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137854
       },
@@ -1890,7 +1940,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "07/25/2024",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137855
       },
@@ -1901,7 +1951,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "07/31/2024",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137856
       },
@@ -1912,7 +1962,7 @@
         "baths": 1,
         "rent": 575.00,
         "available": "07/31/2024",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 137857
       },
@@ -1923,7 +1973,7 @@
         "baths": 1,
         "rent": 575.00,
         "available": "07/14/2024",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 137858
       },
@@ -1934,7 +1984,7 @@
         "baths": 1,
         "rent": 575.00,
         "available": "08/14/2024",
-        "description": "",
+        "description": "Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137859
       },
@@ -1945,7 +1995,7 @@
         "baths": 1,
         "rent": 575.00,
         "available": "05/03/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 137860
       },
@@ -1956,7 +2006,7 @@
         "baths": 1,
         "rent": 675.00,
         "available": "05/03/2024",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137861
       },
@@ -1967,7 +2017,7 @@
         "baths": 1,
         "rent": 875.00,
         "available": "11/30/2023",
-        "description": "",
+        "description": "These incredibly spacious and affordable two bedroom apartments are extremely popular. Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding.  Enjoy central air/heat, spacious living room & kitchen, extra storage space above kitchen, private patio, free off-street parking, washer & dryer hook-ups, and an on-site laundry facility. Listed rent is per person based on three tenants. Please contact us for additional details regarding rent. ",
         "amenities": [],
         "id": 137862
       },
@@ -1978,8 +2028,8 @@
         "baths": 1,
         "rent": 700.00,
         "available": "08/07/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is discounted and based on one person. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Heat - electric", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137863
       },
       {
@@ -1989,7 +2039,7 @@
         "baths": 1,
         "rent": 575.00,
         "available": "07/31/2024",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 137864
       },
@@ -2000,9 +2050,20 @@
         "baths": 1,
         "rent": 875.00,
         "available": "01/01/2024",
-        "description": "",
+        "description": "These incredibly spacious and affordable two bedroom apartments are extremely popular. Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding.  Enjoy central air/heat, spacious living room & kitchen, extra storage space above kitchen, private patio, free off-street parking, washer & dryer hook-ups, and an on-site laundry facility. Listed rent is per person based on three people. Please contact us for additional details regarding rent.",
         "amenities": [],
         "id": 137865
+      },
+      {
+        "unit": "Unit 5E",
+        "sqft": 864,
+        "beds": 2,
+        "baths": 1,
+        "rent": 880.00,
+        "available":"Not Available",
+        "description": "Manager's Apartment",
+        "amenities": [],
+        "id": 137866
       },
       {
         "unit": "Unit 7A",
@@ -2011,8 +2072,8 @@
         "baths": 1,
         "rent": 700.00,
         "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 137867
       },
       {
@@ -2022,7 +2083,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "07/31/2023",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137868
       },
@@ -2033,7 +2094,7 @@
         "baths": 1,
         "rent": 575.00,
         "available": "09/30/2022",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 137869
       },
@@ -2044,7 +2105,7 @@
         "baths": 1,
         "rent": 575.00,
         "available": "05/05/2024",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 137870
       },
@@ -2055,7 +2116,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "08/15/2023",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137871
       },
@@ -2066,7 +2127,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "06/05/2024",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137872
       },
@@ -2077,7 +2138,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "12/31/2022",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137874
       },
@@ -2088,7 +2149,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "06/30/2022",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137875
       },
@@ -2099,7 +2160,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "02/28/2024",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 1 Bedroom Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137876
       },
@@ -2110,7 +2171,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "08/31/2023",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137877
       },
@@ -2121,7 +2182,7 @@
         "baths": 1,
         "rent": 700.00,
         "available": "08/14/2023",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137878
       },
@@ -2132,16 +2193,16 @@
         "baths": 1,
         "rent": 700.00,
         "available": "05/10/2024",
-        "description": "",
+        "description": "Our spacious 1 bedroom apartments at Andover Court are perfect for a couple, grad students, or professionals! Conveniently located right off US-32, these apartments feel as though they are located in a secluded surrounding. You can enjoy central air/heat, a private patio, spacious living room with built-in storage, free off-street parking, on-site laundry facility, and extra storage space above the kitchen. Listed rent is per person based on two people. Please contact us with additional details regarding rent.",
         "amenities": [],
         "id": 137879
       }
     ]
   },
   {
-    "address": "Burr Oak Apartments",
-    "city": "",
-    "description": "",
+    "address": "Burr Oak Apartments 364 Burr Oak Blvd",
+    "city": "Nelsonville, OH 45764",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -2150,8 +2211,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "12/09/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138024
       },
@@ -2161,8 +2221,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "01/03/2024",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138025
       },
@@ -2172,8 +2231,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "07/31/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138026
       },
@@ -2183,8 +2241,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "12/09/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138027
       },
@@ -2194,8 +2251,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "08/14/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138028
       },
@@ -2205,8 +2261,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "01/09/2024",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138029
       },
@@ -2216,9 +2271,8 @@
         "beds": 3,
         "baths": 1,
         "rent": 318.00,
-        "available": "05/31/2023",
-        "description": "",
-        "amenities": [],
+        "description": "This 3 bedroom unit is spacious and clean. You can enjoy central air/heat, a dishwasher, spacious closets, free off-street parking, and an attentive landlord and maintenance crew. Listed rent is the total, discounted rent amount. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Cable", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 138030
       },
       {
@@ -2227,8 +2281,7 @@
         "beds": 3,
         "baths": 1,
         "rent": 318.00,
-        "available": "08/10/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138031
       },
@@ -2238,8 +2291,7 @@
         "beds": 3,
         "baths": 1,
         "rent": 318.00,
-        "available": "08/11/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138032
       },
@@ -2249,8 +2301,7 @@
         "beds": 3,
         "baths": 1,
         "rent": 879.00,
-        "available": "02/29/2024",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138033
       },
@@ -2260,9 +2311,8 @@
         "beds": 2,
         "baths": 1,
         "rent": 595.00,
-        "available": "03/21/2022",
-        "description": "",
-        "amenities": [],
+        "description": "-",
+        "amenities": ["Air conditioner", "Heat - electric", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 138034
       },
       {
@@ -2271,8 +2321,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "03/01/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138035
       },
@@ -2282,9 +2331,8 @@
         "beds": 3,
         "baths": 1,
         "rent": 318.00,
-        "available": "04/12/2023",
-        "description": "",
-        "amenities": [],
+        "description": "This 3 bedroom unit is spacious, clean, and ready to be moved in! You can enjoy central air/heat, a dishwasher, spacious closets, free off-street parking, and an attentive landlord and maintenance crew. Rent includes water, trash, & sewer. Tenant pays electric. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Cable", "Dishwasher", "Heat - electric", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 138036
       },
       {
@@ -2293,8 +2341,7 @@
         "beds": 3,
         "baths": 1,
         "rent": 318.00,
-        "available": "12/31/2022",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138037
       },
@@ -2304,8 +2351,7 @@
         "beds": 3,
         "baths": 1,
         "rent": 318.00,
-        "available": "05/14/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138038
       },
@@ -2315,9 +2361,8 @@
         "beds": 3,
         "baths": 1,
         "rent": 293.00,
-        "available": "07/31/2023",
-        "description": "",
-        "amenities": [],
+        "description": "This 3 bedroom unit is spacious, clean, and ready to be moved in! You can enjoy central air/heat, a dishwasher, spacious closets, free off-street parking, and an attentive landlord and maintenance crew. Rent includes water, trash, & sewer. Tenant pays electric. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Cable", "Dishwasher", "Heat - electric", "Pet friendly", "Refrigerator", "Stove and oven"],
         "id": 138039
       },
       {
@@ -2326,8 +2371,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "12/31/2022",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138040
       },
@@ -2337,8 +2381,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "09/30/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138041
       },
@@ -2348,8 +2391,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "03/23/2024",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138042
       },
@@ -2359,8 +2401,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "08/14/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138043
       },
@@ -2370,8 +2411,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "07/31/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138044
       },
@@ -2381,18 +2421,17 @@
         "beds": 2,
         "baths": 1,
         "rent": 390.75,
-        "available": "09/30/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 138045
       }
     ]
   },
   {
-    "address": "Lancaster Commercial",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "address": "Lancaster Commercial 202 North Memorial Street",
+    "city": "Lancaster, OH 43130",
+    "description": "-",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "1",
@@ -2400,17 +2439,26 @@
         "beds": "-",
         "baths":  "-",
         "rent": 1200.00,
-        "available": "04/30/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Located on one of the busiest corners in the high traffic business district of downtown Lancaster Corner lot with access from either side Well-maintained building Off-street parking included",
+        "amenities": ["Air conditioning", "Cable ready", "Heating"],
         "id": 195131
+      },
+      {
+        "unit": "2",
+        "sqft": "-",
+        "beds": "-",
+        "baths":  "-",
+        "rent": "-",
+        "description": "-",
+        "amenities": [],
+        "id": 337033
       }
     ]
   },
   {
-    "address": "Logan Commercial",
-    "city": "",
-    "description": "",
+    "address": "Logan Commercial 30 South Spring Street",
+    "city": "Logan, OH 43138",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -2419,10 +2467,19 @@
         "beds": "-",
         "baths":  "-",
         "rent": 100.00,
-        "available": "01/01/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 195104
+      },
+      {
+        "unit": "2",
+        "sqft": "-",
+        "beds": "-",
+        "baths":  "-",
+        "rent": "-",
+        "description": "-",
+        "amenities": [],
+        "id": 195105
       },
       {
         "unit": "3",
@@ -2430,17 +2487,16 @@
         "beds": "-",
         "baths":  "-",
         "rent": 100.00,
-        "available": "01/01/2023",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 1569238
       }
     ]
   },
   {
-    "address": "Nelsonville Commercial",
-    "city": "",
-    "description": "",
+    "address": "Nelsonville Commercial 1155 Chestnut Street",
+    "city": "Nelsonville, OH 45764",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -2449,18 +2505,17 @@
         "beds": "-",
         "baths":  "-",
         "rent": 1200.00,
-        "available": "07/01/2022",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 340833
       }
     ]
   },
   {
-    "address": "Richland Avenue Townhomes",
-    "city": "",
-    "description": "",
-    "amenities": [],
+    "address": "Richland Avenue Townhomes 1 Pomeroy Road",
+    "city": "Athens, OH 45701",
+    "description": "Built in 1999 These luxurious, newer townhomes are 2 and 3 bedrooms are spacious! They feature a washer/dryer, large bedrooms, a dishwasher, 1.5 and 2 full baths, a front balcony, plenty of free off-street parking and central air/heat: Perfect for grad students!",
+    "amenities": ["Parking"],
     "units": [
       {
         "unit": "Unit A1",
@@ -2468,9 +2523,8 @@
         "beds": 2,
         "baths": 1,
         "rent": 487.50,
-        "available": "11/14/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 2 Bedrooms This unit is beautiful and well-maintained with new flooring in the living room. Perfect for an undergraduate/graduate duo or young professional(s). Conveniently located at the end of Richland Avenue with easy access to Route 32 and 33. The unit is total electric and features central air/heat, dishwasher, washer/dryer, balcony, and free off-street parking for you and your guests. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137820
       },
       {
@@ -2479,8 +2533,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 487.50,
-        "available": "07/31/2024",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 2 Bedrooms These spacious, NEWER TOWN-HOMES feature a washer/dryer, dishwasher, 1 ½ baths, front balcony, back patio area and central air/heat. They're total electric, so there's no gas bill! There is also plenty of free off-street parking. NOT PET-FRIENDLY. Please contact us for additional details regarding rent. ",
         "amenities": [],
         "id": 137821
       },
@@ -2490,9 +2543,8 @@
         "beds": 2,
         "baths": 1,
         "rent": 487.50,
-        "available": "07/31/2023",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 2 Bedrooms These spacious, NEWER TOWNHOMES feature a washer/dryer, dishwasher, 1 ½ baths, front balcony, back patio area and central air/heat. They're total electric, so there's no gas bill! There is also plenty of free off-street parking. NOT PET-FRIENDLY. Please contact us for additional details regarding rent. ",
+        "amenities": ["Air conditioner", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137822
       },
       {
@@ -2501,8 +2553,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 487.50,
-        "available": "05/14/2024",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 137823
       },
@@ -2512,8 +2563,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 487.50,
-        "available": "05/31/2024",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 2 Bedrooms These spacious, NEWER TOWNHOMES feature a washer/dryer, dishwasher, 1 ½ baths, front balcony, back patio area and central air/heat. They're total electric, so there's no gas bill! There is also plenty of free off-street parking. NOT PET-FRIENDLY. Please contact us for additional details regarding rent.",
         "amenities": [],
         "id": 137824
       },
@@ -2523,8 +2573,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 487.50,
-        "available": "05/08/2024",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 2 Bedrooms These spacious, NEWER TOWNHOMES feature a washer/dryer, dishwasher, 1 ½ baths, front balcony, back patio area and central air/heat. They're total electric, so there's no gas bill! There is also plenty of free off-street parking. NOT PET-FRIENDLY. Please contact us for additional details regarding rent.",
         "amenities": [],
         "id": 137825
       },
@@ -2534,8 +2583,7 @@
         "beds": 2,
         "baths": 1,
         "rent": 487.50,
-        "available": "07/31/2023",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 2 Bedrooms These spacious, NEWER TOWNHOMES feature a washer/dryer, dishwasher, 1 ½ baths, front balcony, back patio area and central air/heat. They're total electric, so there's no gas bill! There is also plenty of free off-street parking. NOT PET-FRIENDLY. Please contact us for additional details regarding rent.",
         "amenities": [],
         "id": 137826
       },
@@ -2545,9 +2593,8 @@
         "beds": 2,
         "baths": 1,
         "rent": 487.50,
-        "available": "05/06/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 2 Bedrooms This unit is beautiful and well-maintained. Perfect for an undergraduate/graduate duo or young professional(s). Available August 2017 and conveniently located at the end of Richland Avenue with easy access to Route 32 and 33. The unit is total electric and features central air/heat, dishwasher, washer/dryer, balcony, and free off-street parking for you and your guests. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137827
       },
       {
@@ -2556,9 +2603,8 @@
         "beds": 2,
         "baths": 1,
         "rent": 487.50,
-        "available": "06/30/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 2 Bedrooms These spacious, NEWER TOWNHOMES feature a washer/dryer, dishwasher, 1 ½ baths, front balcony, back patio area and central air/heat. They're total electric, so there's no gas bill! There is also plenty of free off-street parking. NOT PET-FRIENDLY. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137828
       },
       {
@@ -2567,9 +2613,8 @@
         "beds": 2,
         "baths": 1,
         "rent": 487.50,
-        "available": "07/31/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent Per Bedroom x 2 Bedrooms This unit is beautiful and well-maintained with new flooring in the living room. Perfect for an undergraduate/graduate duo or young professional(s). Conveniently located at the end of Richland Avenue with easy access to Route 32 and 33. Unit is total electric and features central air/heat, dishwasher, washer/dryer, balcony, and free off-street parking for you and your guests. Very energy efficient with new windows and doors. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137829
       },
       {
@@ -2578,10 +2623,19 @@
         "beds": 3,
         "baths": 2,
         "rent": 450.00,
-        "available": "07/31/2024",
-        "description": "",
-        "amenities": [],
+        "description": "Discounted Rent/Bedroom x 3 Bedrooms These newer townhomes are spacious! They feature a washer/dryer, large bedrooms, a dishwasher, 2 full baths, a front balcony, plenty of free off-street parking and central air/heat; Perfect for grad students! Conveniently located at the end of Richland Avenue with easy access to Route 32 and 33. Unit is total electric. Please contact us for additional details regarding rent.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "id": 137830
+      },
+      {
+        "unit": "Unit C2",
+        "sqft": "-",
+        "beds": 2,
+        "baths": 1.5,
+        "rent": 975.00,
+        "description": "-",
+        "amenities": [],
+        "id": 137831
       },
       {
         "unit": "Unit C3",
@@ -2589,8 +2643,7 @@
         "beds": 3,
         "baths": 2,
         "rent": 450.00,
-        "available": "05/06/2024",
-        "description": "",
+        "description": "Discounted Rent Per Bedroom x 3 Bedrooms These newer townhomes are spacious! They feature a washer/dryer, large bedrooms, a dishwasher, 2 full baths, a front balcony, plenty of free off-street parking and central air/heat; Perfect for grad students!  Conveniently located at the end of Richland Avenue with easy access to Route 32 and 33. Unit is total electric. Please contact us for additional details regarding rent.",
         "amenities": [],
         "id": 137832
       }
@@ -2608,7 +2661,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "11/30/2023",
         "description": "",
         "amenities": [],
         "id": 138063
@@ -2619,7 +2671,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "04/27/2024",
         "description": "",
         "amenities": [],
         "id": 138064
@@ -2630,7 +2681,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "04/30/2023",
         "description": "",
         "amenities": [],
         "id": 138065
@@ -2641,7 +2691,6 @@
         "beds": "studio",
         "baths": 1,
         "rent": 533.00,
-        "available": "05/17/2023",
         "description": "",
         "amenities": [],
         "id": 138058
@@ -2652,7 +2701,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "12/29/2022",
         "description": "",
         "amenities": [],
         "id": 138061
@@ -2663,7 +2711,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "08/24/2023",
         "description": "",
         "amenities": [],
         "id": 138062
@@ -2674,7 +2721,6 @@
         "beds": "studio",
         "baths": 1,
         "rent": 533.00,
-        "available": "05/17/2023",
         "description": "",
         "amenities": [],
         "id": 138059
@@ -2685,7 +2731,6 @@
         "beds": "studio",
         "baths": 1,
         "rent": 533.00,
-        "available": "01/24/2024",
         "description": "",
         "amenities": [],
         "id": 138060
@@ -2696,7 +2741,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "09/30/2023",
         "description": "",
         "amenities": [],
         "id": 138055
@@ -2707,7 +2751,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "03/31/2023",
         "description": "",
         "amenities": [],
         "id": 138057
@@ -2718,7 +2761,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "08/17/2023",
         "description": "",
         "amenities": [],
         "id": 138052
@@ -2729,7 +2771,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "06/01/2023",
         "description": "",
         "amenities": [],
         "id": 138053
@@ -2740,7 +2781,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "09/03/2023",
         "description": "",
         "amenities": [],
         "id": 138054
@@ -2751,7 +2791,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "06/30/2023",
         "description": "",
         "amenities": [],
         "id": 138049
@@ -2762,7 +2801,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "02/24/2023",
         "description": "",
         "amenities": [],
         "id": 138050
@@ -2773,7 +2811,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 547.01,
-        "available": "01/09/2024",
         "description": "",
         "amenities": [],
         "id": 138051
@@ -2784,7 +2821,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "08/04/2023",
         "description": "",
         "amenities": [],
         "id": 138046
@@ -2795,7 +2831,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "06/30/2023",
         "description": "",
         "amenities": [],
         "id": 138047
@@ -2806,7 +2841,6 @@
         "beds": 1,
         "baths": 1,
         "rent": 571.00,
-        "available": "06/11/2023",
         "description": "",
         "amenities": [],
         "id": 138048
@@ -2814,8 +2848,8 @@
     ]
   },
   {
-    "address": "Route 33 Commercial",
-    "city": "",
+    "address": "Route 33 Commercial 16059 Elm Rock Road",
+    "city": "Nelsonville, OH 45764",
     "description": "",
     "amenities": [],
     "units": [
@@ -2825,9 +2859,8 @@
         "beds": "-",
         "baths":  "-",
         "rent": 100.00,
-        "available": "01/01/2023",
         "description": "",
-        "amenities": [],
+        "amenities": ["Air conditioning", "Cable ready", "Heating", "High speed internet"],
         "id": 138066
       },
       {
@@ -2836,29 +2869,47 @@
         "beds": "-",
         "baths":  "-",
         "rent": 100.00,
-        "available": "01/01/2023",
         "description": "",
-        "amenities": [],
+        "amenities": ["Air conditioning", "Cable ready", "Heating", "High speed internet"],
         "id": 138067
       }
     ]
   },
   {
     "address": "Stimson Commercial - Do Not Use",
-    "city": "",
-    "description": "",
+    "city": "Athens, OH 45701",
+    "description": "-",
     "amenities": [],
     "units": [
+      {
+        "unit": "9",
+        "sqft": 5850,
+        "beds": "-",
+        "baths":  "-",
+        "rent": 9328.85,
+        "description": "-",
+        "amenities": [],
+        "id": 999659
+      },
       {
         "unit": "11",
         "sqft": 5200,
         "beds": "-",
         "baths":  "-",
         "rent": 4500.00,
-        "available": "10/06/2025",
-        "description": "",
+        "description": "-",
         "amenities": [],
         "id": 999660
+      },
+      {
+        "unit": "13",
+        "sqft": 5850,
+        "beds": "-",
+        "baths":  "-",
+        "rent": 9328.85,
+        "description": "-",
+        "amenities": [],
+        "id": 999661
       }
     ]
   },
@@ -2874,7 +2925,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "11/05/2023",
         "description": "",
         "amenities": [],
         "id": 137976
@@ -2885,7 +2935,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "12/09/2023",
         "description": "",
         "amenities": [],
         "id": 137977
@@ -2896,7 +2945,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "09/02/2023",
         "description": "",
         "amenities": [],
         "id": 137978
@@ -2907,7 +2955,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "06/30/2023",
         "description": "",
         "amenities": [],
         "id": 137979
@@ -2918,7 +2965,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "06/30/2023",
         "description": "",
         "amenities": [],
         "id": 137980
@@ -2929,7 +2975,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "11/09/2023",
         "description": "",
         "amenities": [],
         "id": 137981
@@ -2940,7 +2985,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "08/19/2023",
         "description": "",
         "amenities": [],
         "id": 137982
@@ -2951,7 +2995,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "11/09/2023",
         "description": "",
         "amenities": [],
         "id": 137983
@@ -2962,7 +3005,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "06/20/2023",
         "description": "",
         "amenities": [],
         "id": 137984
@@ -2973,7 +3015,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "08/15/2023",
         "description": "",
         "amenities": [],
         "id": 137985
@@ -2984,7 +3025,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "12/12/2023",
         "description": "",
         "amenities": [],
         "id": 137986
@@ -2995,7 +3035,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "12/13/2023",
         "description": "",
         "amenities": [],
         "id": 137987
@@ -3006,7 +3045,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "09/30/2023",
         "description": "",
         "amenities": [],
         "id": 137988
@@ -3017,7 +3055,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "06/30/2023",
         "description": "",
         "amenities": [],
         "id": 137989
@@ -3028,7 +3065,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "12/31/2022",
         "description": "",
         "amenities": [],
         "id": 137990
@@ -3039,7 +3075,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "05/03/2023",
         "description": "",
         "amenities": [],
         "id": 137991
@@ -3050,7 +3085,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "01/11/2024",
         "description": "",
         "amenities": [],
         "id": 137992
@@ -3061,7 +3095,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "05/04/2024",
         "description": "",
         "amenities": [],
         "id": 137993
@@ -3072,7 +3105,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "10/31/2022",
         "description": "",
         "amenities": [],
         "id": 137994
@@ -3083,7 +3115,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "12/08/2023",
         "description": "",
         "amenities": [],
         "id": 137995
@@ -3094,7 +3125,6 @@
         "beds": 4,
         "baths": 2,
         "rent": 475.00,
-        "available": "08/07/2024",
         "description": "",
         "amenities": [],
         "id": 1274822
@@ -3105,7 +3135,6 @@
         "beds": 4,
         "baths": 2,
         "rent": 475.00,
-        "available": "12/31/2022",
         "description": "",
         "amenities": [],
         "id": 1274823
@@ -3116,7 +3145,6 @@
         "beds": 4,
         "baths": 2,
         "rent": 475.00,
-        "available": "05/17/2022",
         "description": "",
         "amenities": [],
         "id": 1274824
@@ -3127,7 +3155,6 @@
         "beds": 4,
         "baths": 2,
         "rent": 475.00,
-        "available": "10/06/2020",
         "description": "",
         "amenities": [],
         "id": 137997
@@ -3138,7 +3165,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "04/04/2024",
         "description": "",
         "amenities": [],
         "id": 137998
@@ -3149,7 +3175,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "06/01/2024",
         "description": "",
         "amenities": [],
         "id": 137999
@@ -3160,7 +3185,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "01/09/2024",
         "description": "",
         "amenities": [],
         "id": 138000
@@ -3171,7 +3195,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "01/31/2024",
         "description": "",
         "amenities": [],
         "id": 138001
@@ -3182,7 +3205,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "03/01/2023",
         "description": "",
         "amenities": [],
         "id": 138002
@@ -3193,7 +3215,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "03/31/2023",
         "description": "",
         "amenities": [],
         "id": 138003
@@ -3204,7 +3225,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "04/20/2023",
         "description": "",
         "amenities": [],
         "id": 138004
@@ -3215,7 +3235,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "01/31/2024",
         "description": "",
         "amenities": [],
         "id": 138005
@@ -3226,7 +3245,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "07/20/2023",
         "description": "",
         "amenities": [],
         "id": 138006
@@ -3237,7 +3255,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "09/08/2023",
         "description": "",
         "amenities": [],
         "id": 138007
@@ -3248,7 +3265,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "06/14/2023",
         "description": "",
         "amenities": [],
         "id": 138008
@@ -3259,7 +3275,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "10/09/2023",
         "description": "",
         "amenities": [],
         "id": 138009
@@ -3270,7 +3285,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "06/01/2024",
         "description": "",
         "amenities": [],
         "id": 138010
@@ -3281,7 +3295,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "04/04/2024",
         "description": "",
         "amenities": [],
         "id": 138011
@@ -3292,7 +3305,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "01/14/2024",
         "description": "",
         "amenities": [],
         "id": 138012
@@ -3303,7 +3315,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "05/04/2024",
         "description": "",
         "amenities": [],
         "id": 138013
@@ -3314,7 +3325,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "06/01/2024",
         "description": "",
         "amenities": [],
         "id": 138014
@@ -3325,7 +3335,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "05/07/2024",
         "description": "",
         "amenities": [],
         "id": 138015
@@ -3336,7 +3345,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "08/31/2023",
         "description": "",
         "amenities": [],
         "id": 138016
@@ -3347,7 +3355,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "06/01/2024",
         "description": "",
         "amenities": [],
         "id": 138017
@@ -3358,7 +3365,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "08/04/2023",
         "description": "",
         "amenities": [],
         "id": 138018
@@ -3369,7 +3375,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "06/24/2023",
         "description": "",
         "amenities": [],
         "id": 138019
@@ -3380,7 +3385,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "03/13/2024",
         "description": "",
         "amenities": [],
         "id": 138020
@@ -3391,7 +3395,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "06/01/2024",
         "description": "",
         "amenities": [],
         "id": 138021
@@ -3402,7 +3405,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "10/02/2023",
         "description": "",
         "amenities": [],
         "id": 138022
@@ -3413,7 +3415,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 403.25,
-        "available": "06/05/2023",
         "description": "",
         "amenities": [],
         "id": 138023
@@ -3421,9 +3422,9 @@
     ]
   },
   {
-    "address": "Wellston Commercial",
-    "city": "",
-    "description": "",
+    "address": "Wellston Commercial 914 South Pennsylvania Ave",
+    "city": "Wellston, OH 45692",
+    "description": "-",
     "amenities": [],
     "units": [
       {
@@ -3432,8 +3433,7 @@
         "beds": "-",
         "baths":  "-",
         "rent": 300.00,
-        "available": "01/06/2024",
-        "description": "",
+        "description": "Multiple levels Unique Floor Plan Efficiency apartment above front retail space",
         "amenities": [],
         "id": 195089
       }
@@ -3451,7 +3451,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "05/14/2023",
         "description": "",
         "amenities": [],
         "id": 137887
@@ -3462,7 +3461,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "08/11/2023",
         "description": "",
         "amenities": [],
         "id": 137888
@@ -3473,7 +3471,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "06/04/2024",
         "description": "",
         "amenities": [],
         "id": 137889
@@ -3484,7 +3481,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "04/20/2024",
         "description": "",
         "amenities": [],
         "id": 137890
@@ -3495,7 +3491,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "10/31/2024",
         "description": "",
         "amenities": [],
         "id": 137891
@@ -3506,7 +3501,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "05/06/2024",
         "description": "",
         "amenities": [],
         "id": 137892
@@ -3517,7 +3511,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "05/06/2024",
         "description": "",
         "amenities": [],
         "id": 137893
@@ -3528,7 +3521,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "04/30/2023",
         "description": "",
         "amenities": [],
         "id": 137894
@@ -3539,7 +3531,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "02/28/2024",
         "description": "",
         "amenities": [],
         "id": 137895
@@ -3550,7 +3541,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "10/17/2023",
         "description": "",
         "amenities": [],
         "id": 137896
@@ -3561,7 +3551,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "05/03/2024",
         "description": "",
         "amenities": [],
         "id": 137897
@@ -3572,7 +3561,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "07/31/2022",
         "description": "",
         "amenities": [],
         "id": 137898
@@ -3583,7 +3571,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "06/30/2023",
         "description": "",
         "amenities": [],
         "id": 137899
@@ -3594,7 +3581,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "07/31/2024",
         "description": "",
         "amenities": [],
         "id": 137900
@@ -3605,7 +3591,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "06/15/2024",
         "description": "",
         "amenities": [],
         "id": 137901
@@ -3616,7 +3601,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "09/01/2022",
         "description": "",
         "amenities": [],
         "id": 137902
@@ -3627,7 +3611,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "07/31/2023",
         "description": "",
         "amenities": [],
         "id": 137903
@@ -3638,7 +3621,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "08/14/2023",
         "description": "",
         "amenities": [],
         "id": 137904
@@ -3649,7 +3631,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "05/08/2024",
         "description": "",
         "amenities": [],
         "id": 137905
@@ -3660,7 +3641,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "07/31/2023",
         "description": "",
         "amenities": [],
         "id": 137906
@@ -3671,7 +3651,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "05/22/2023",
         "description": "",
         "amenities": [],
         "id": 137907
@@ -3682,7 +3661,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "05/06/2024",
         "description": "",
         "amenities": [],
         "id": 137908
@@ -3693,7 +3671,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "08/11/2023",
         "description": "",
         "amenities": [],
         "id": 137909
@@ -3704,7 +3681,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "07/31/2024",
         "description": "",
         "amenities": [],
         "id": 137910
@@ -3715,7 +3691,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "04/30/2023",
         "description": "",
         "amenities": [],
         "id": 137911
@@ -3726,7 +3701,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "07/31/2024",
         "description": "",
         "amenities": [],
         "id": 137912
@@ -3737,7 +3711,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "07/19/2024",
         "description": "",
         "amenities": [],
         "id": 137913
@@ -3748,7 +3721,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "04/28/2024",
         "description": "",
         "amenities": [],
         "id": 137914
@@ -3759,7 +3731,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "05/15/2023",
         "description": "",
         "amenities": [],
         "id": 137915
@@ -3770,7 +3741,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "06/30/2023",
         "description": "",
         "amenities": [],
         "id": 137916
@@ -3781,7 +3751,6 @@
         "beds": 2,
         "baths": 1,
         "rent": 425.00,
-        "available": "05/31/2024",
         "description": "",
         "amenities": [],
         "id": 137917
@@ -3792,7 +3761,6 @@
         "beds": 3,
         "baths": 1,
         "rent": 350.00,
-        "available": "01/02/2024",
         "description": "",
         "amenities": [],
         "id": 137918  

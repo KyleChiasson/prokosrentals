@@ -48,7 +48,7 @@ const Properties = ({property, unit}) => {
                 <p>Beds: {unit.beds}</p>
                 <p>Bathrooms: {unit.baths}</p>
                 <p>Rent: ${unit.rent} per month</p>
-                <p className={styles.availibility}>Available on: {unit.available}</p>
+                <p className={styles.availibility}>Available on: --/--/--</p>
                 <form className={styles.availibility}>
                     <input type="submit" value="Apply Now"></input>
                 </form>

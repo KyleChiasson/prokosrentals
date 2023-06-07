@@ -134,14 +134,14 @@ const Rentals = ({ properties }) => {
                      (data.welston     && property.city == "Wellston, OH 45692"))&&
                     (data.bedcount == "" || unit.beds == data.bedcount) &&
                     (data.bathcount == "" || unit.baths == data.bathcount) &&
-                    ((unit.rent >= data.bottomprice && unit.rent <= data.topprice) || data.bottomprice == "" || data.topprice == "")&&
-                    (data.availibility == "" || Date.parse(data.availibility) >= Date.parse(unit.available))
+                    ((unit.rent >= data.bottomprice && unit.rent <= data.topprice) || data.bottomprice == "" || data.topprice == "")//&&
+                    //(data.availibility == "" || Date.parse(data.availibility) >= Date.parse(unit.available))
                     }>
                     <Link key={unit.id} href={'/rentals/' + unit.id} className={styles.listing}>
                         <ul>
                             <li><h4>{property.address}</h4><h5>Unit: {unit.unit}</h5><br></br><h6>{property.city}</h6></li>
                             <li>Beds: {unit.beds} | Bathrooms: {unit.baths} | Area: {unit.sqft} sqft</li>
-                            <li><p>Available on: {unit.available}&emsp;&emsp;Rent: ${unit.rent}</p></li>
+                            <li><p>Available on: --/--/--&emsp;&emsp;Rent: ${unit.rent}</p></li>
                         </ul>
                     </Link>
                 </Conditional>
