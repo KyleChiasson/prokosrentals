@@ -1,6 +1,13 @@
 .link {
     text-decoration: none;
     color: black;
+    width: 50%;
+    display: inline-block;
+}
+.walk{
+    width: 50%;
+    display: inline-block;
+    text-align: right;
 }
 
 .listing{
@@ -25,7 +32,7 @@
     padding-left: 2%;
 }
 
-.description p{
+.description div{
     padding-left: 2%;
     padding-right: 2%;
     width: 46%;

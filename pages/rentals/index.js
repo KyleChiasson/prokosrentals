@@ -10,6 +10,31 @@ export const getStaticProps = async () => {
     }
 }
 
+const show = (data, property, unit) => {
+    return (((data.livingspace && unit.beds != "-") || (data.other && unit.baths == "-"))&&
+            ((!data.albany && !data.amesville && !data.athens && !data.lancaster && !data.logan && !data.nelsonville && !data.theplains && !data.welston)||
+             (data.albany      && property.city == "Albany, OH 45710") ||
+             (data.amesville   && property.city == "Albany, OH 45710") ||
+             (data.athens      && property.city == "Athens, OH 45701") || 
+             (data.lancaster   && property.city == "Lancaster, OH 43130") ||
+             (data.logan       && property.city == "Logan, OH 43138") ||
+             (data.nelsonville && property.city == "Nelsonville, OH 45764") ||
+             (data.theplains   && property.city == "The Plains, OH 45780") ||
+             (data.welston     && property.city == "Wellston, OH 45692"))&&
+             (data.bedcount == "" || unit.beds == data.bedcount) &&
+             (data.bathcount == "" || unit.baths == data.bathcount) &&
+            ((unit.rent >= data.bottomprice && unit.rent <= data.topprice) || data.bottomprice == "" || data.topprice == "")//&&
+           /*(data.availibility == "" || Date.parse(data.availibility) >= Date.parse(unit.available))*/)
+    
+}
+
+const anyShown = (data, property) => {
+    for(let i = 0; i < property.units.length; i++)
+        if(show(data, property, property.units[i]))
+            return true;
+    return false;
+}
+
 const Rentals = ({ properties }) => {
     const [data, setData] = React.useState({
         livingspace: true,
@@ -120,32 +145,23 @@ const Rentals = ({ properties }) => {
                 </div>
                 <div><input type="submit" id="search" value="search"></input></div>
             </form>
-            {properties.map(property => property.units.map(unit => (
-                <Conditional showWhen={
-                    ((data.livingspace && unit.beds != "-") || (data.other && unit.baths == "-"))&&
-                    ((!data.albany && !data.amesville && !data.athens && !data.lancaster && !data.logan && !data.nelsonville && !data.theplains && !data.welston)||
-                     (data.albany      && property.city == "Albany, OH 45710") ||
-                     (data.amesville   && property.city == "Albany, OH 45710") ||
-                     (data.athens      && property.city == "Athens, OH 45701") || 
-                     (data.lancaster   && property.city == "Lancaster, OH 43130") ||
-                     (data.logan       && property.city == "Logan, OH 43138") ||
-                     (data.nelsonville && property.city == "Nelsonville, OH 45764") ||
-                     (data.theplains   && property.city == "The Plains, OH 45780") ||
-                     (data.welston     && property.city == "Wellston, OH 45692"))&&
-                    (data.bedcount == "" || unit.beds == data.bedcount) &&
-                    (data.bathcount == "" || unit.baths == data.bathcount) &&
-                    ((unit.rent >= data.bottomprice && unit.rent <= data.topprice) || data.bottomprice == "" || data.topprice == "")//&&
-                    //(data.availibility == "" || Date.parse(data.availibility) >= Date.parse(unit.available))
-                    }>
-                    <Link key={unit.id} href={'/rentals/' + unit.id} className={styles.listing}>
-                        <ul>
-                            <li><h4>{property.address}</h4><h5>Unit: {unit.unit}</h5><br></br><h6>{property.city}</h6></li>
-                            <li>Beds: {unit.beds} | Bathrooms: {unit.baths} | Area: {unit.sqft} sqft</li>
-                            <li><p>Available on: --/--/--&emsp;&emsp;Rent: ${unit.rent}</p></li>
-                        </ul>
-                    </Link>
+            {properties.map(property => (
+                <Conditional showWhen={anyShown(data, property)}>
+                    <div className={styles.property}>
+                        {property.units.map(unit => (
+                            <Conditional showWhen={show(data, property, unit)}>
+                                <Link key={unit.id} href={'/rentals/' + unit.id} className={styles.listing}>
+                                    <ul>
+                                        <li><h4>{property.address}</h4><h5>Unit: {unit.unit}</h5><br></br><h6>{property.city}</h6></li>
+                                        <li>Beds: {unit.beds} | Bathrooms: {unit.baths} | Area: {unit.sqft} sqft</li>
+                                        <li><p>Available on: --/--/--&emsp;&emsp;Rent: ${unit.rent}</p></li>
+                                    </ul>
+                                </Link>
+                            </Conditional>
+                        ))}
+                    </div>
                 </Conditional>
-            )))}
+            ))}
         </>
      );
 }

@@ -30,24 +30,27 @@ const Properties = ({property, unit}) => {
     return ( 
         <>
             <Link href={"/rentals"} className={styles.link}><h3>&lt;Back</h3></Link>
+            <p className={styles.walk}>Walk to Court Street {property.courtWalk} mins</p>
             <div className={styles.listing}>
                 <h1>{property.address}</h1>
                 <h3>{property.city}</h3>
                 <div className={styles.description}>
-                    <p>Building Description: <br></br><br></br> {property.description}</p>
-                    <p>Unit Description: <br></br><br></br> {unit.description}</p>
-                    <p>Building Amenities: <ul>{property.amenities.map(a => (
+                    <div><p>Building Description: <br></br><br></br> {property.description}</p></div>
+                    <div><p>Unit Description: <br></br><br></br> {unit.description}</p></div>
+                    <div><p>Building Amenities:</p> <ul>{property.amenities.map(a => (
                         <li>{a}</li>
-                    ))}</ul></p>
-                    <p>Unit Amenities: <ul>{unit.amenities.map(a => (
+                    ))}</ul></div>
+                    <div><p>Unit Amenities:</p> <ul>{unit.amenities.map(a => (
                         <li>{a}</li>
-                    ))}</ul></p>
+                    ))}</ul></div>
                 </div>
                 <p>Unit: {unit.unit}</p>
                 <p>Area: {unit.sqft} sqft</p>
                 <p>Beds: {unit.beds}</p>
                 <p>Bathrooms: {unit.baths}</p>
                 <p>Rent: ${unit.rent} per month</p>
+                <p>Price Information: {unit.priceInfo}</p>
+                <p>If you have any questions regarding rent please reach out to us.</p>
                 <p className={styles.availibility}>Available on: --/--/--</p>
                 <form className={styles.availibility}>
                     <input type="submit" value="Apply Now"></input>

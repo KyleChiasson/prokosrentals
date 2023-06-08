@@ -10,11 +10,22 @@
     background-color: rgba(94, 153, 255, 0.096)
 }
 
+.property{
+    background-color: rgb(205, 214, 243);
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
 .listing ul{
     margin: 20px;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
+    width: 90%;
     padding: 10px;
     padding-left: 25px;
     padding-right: 25px;
@@ -58,4 +69,8 @@
 }
 .listing:active { 
     text-decoration: none; 
+}
+
+.back{
+    width: fit-content;
 }
