@@ -7,7 +7,13 @@
     list-style: none;
 }
 .form{
-    background-color: rgba(94, 153, 255, 0.096)
+    background-color: rgba(94, 153, 255, 0.096);
+    width: fit-content;
+    display: block;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
 }
 
 .property{
@@ -73,4 +79,40 @@
 
 .back{
     width: fit-content;
+}
+
+/* Dropdown button */
+.dropbtn {
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+  
+/* Dropdown content (hidden by default) */
+.dropdowncontent {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    background-color: rgb(234, 241, 255);
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    border-radius: 10px;
+}
+  
+/* Links inside the dropdown */
+.dropdowncontent div {
+    float: none;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    padding: 5px 5px;
+}
+  
+/* Show the dropdown menu on hover */
+.showdrop:hover .dropdowncontent {
+    display: block;
 }

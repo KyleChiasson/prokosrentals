@@ -1,6 +1,8 @@
 import styles from "@/styles/Unit.module.css"
+import Conditional from "@/components/conditional";
 const data = require('./rentals.json');
 import Link from 'next/link';
+import Image from "next/image";
 
 export const getStaticPaths = async () => {
     let array = [];
@@ -30,13 +32,20 @@ const Properties = ({property, unit}) => {
     return ( 
         <>
             <Link href={"/rentals"} className={styles.link}><h3>&lt;Back</h3></Link>
-            <p className={styles.walk}>Walk to Court Street {property.courtWalk} mins</p>
+            <Conditional showWhen={property.courtWalk <= 60}>
+                <div className={styles.walk}>
+                    <Image src="/walking.svg" width="48" height="24" />
+                    <text>Walk to Court Street {property.courtWalk} mins</text>
+                </div>
+            </Conditional>
             <div className={styles.listing}>
                 <h1>{property.address}</h1>
                 <h3>{property.city}</h3>
+                <br/>
+                <iframe src={property.mapLink} width="300" height="300" style={{border:0}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 <div className={styles.description}>
-                    <div><p>Building Description: <br></br><br></br> {property.description}</p></div>
-                    <div><p>Unit Description: <br></br><br></br> {unit.description}</p></div>
+                    <div><p>Building Description: <br/><br/> {property.description}</p></div>
+                    <div><p>Unit Description: <br/><br/> {unit.description}</p></div>
                     <div><p>Building Amenities:</p> <ul>{property.amenities.map(a => (
                         <li>{a}</li>
                     ))}</ul></div>

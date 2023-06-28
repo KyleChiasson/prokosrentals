@@ -7,6 +7,7 @@
 .walk{
     width: 50%;
     display: inline-block;
+    justify-content: right;
     text-align: right;
 }
 

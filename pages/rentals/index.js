@@ -14,7 +14,7 @@ const show = (data, property, unit) => {
     return (((data.livingspace && unit.beds != "-") || (data.other && unit.baths == "-"))&&
             ((!data.albany && !data.amesville && !data.athens && !data.lancaster && !data.logan && !data.nelsonville && !data.theplains && !data.welston)||
              (data.albany      && property.city == "Albany, OH 45710") ||
-             (data.amesville   && property.city == "Albany, OH 45710") ||
+             (data.amesville   && property.city == "Amesville, OH 45711") ||
              (data.athens      && property.city == "Athens, OH 45701") || 
              (data.lancaster   && property.city == "Lancaster, OH 43130") ||
              (data.logan       && property.city == "Logan, OH 43138") ||
@@ -79,71 +79,76 @@ const Rentals = ({ properties }) => {
         <>
             <form className={styles.form} onSubmit={handleSubmit}>
                 <div className={styles.segment}>
-                    <text>Rental Types: </text>
-                    <ul>
-                        <li>
-                            <input type="checkbox" id="livingspace" defaultChecked></input>
-                            <label htmlFor="livingspace">Living Space </label>
-                        </li>
-                        <li>
-                            <input type="checkbox" id="other" defaultChecked></input>
-                            <label htmlFor="other">Other </label>
-                        </li>
-                    </ul>
+                    <div className={styles.showdrop}>
+                        <button className={styles.dropbtn}>Rental Types <img src="downtriangle.svg" width={12} height={12}/></button>
+                        <div className={styles.dropdowncontent}>
+                            <div>
+                                <input type="checkbox" id="livingspace" defaultChecked></input>
+                                <label htmlFor="livingspace">Living Space </label>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="other" defaultChecked></input>
+                                <label htmlFor="other">Other </label>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div className={styles.segment}>
-                    <text>Locations: </text>
-                    <ul>
-                        <li>
-                            <input type="checkbox" id="albany" defaultChecked></input>
-                            <label htmlFor="albany">Albany </label>
-                        </li>
-                        <li>
-                            <input type="checkbox" id="amesville" defaultChecked></input>
-                            <label htmlFor="amesville">Amesville </label>
-                        </li>
-                        <li>
-                            <input type="checkbox" id="athens" defaultChecked></input>
-                            <label htmlFor="athens">Athens </label>
-                        </li>
-                        <li>
-                            <input type="checkbox" id="lancaster" defaultChecked></input>
-                            <label htmlFor="lancaster">Lancaster </label>
-                        </li>
-                        <li>
-                            <input type="checkbox" id="logan" defaultChecked></input>
-                            <label htmlFor="logan">Logan </label>
-                        </li>
-                        <li>
-                            <input type="checkbox" id="nelsonville" defaultChecked></input>
-                            <label htmlFor="nelsonville">Nelsonville </label>
-                        </li>
-                        <li>
-                            <input type="checkbox" id="theplains" defaultChecked></input>
-                            <label htmlFor="theplains">The Plains </label>
-                        </li>
-                        <li>
-                            <input type="checkbox" id="welston" defaultChecked></input>
-                            <label htmlFor="welston">Welston </label>
-                        </li>
-                    </ul>
+                    <div className={styles.showdrop}>
+                        <button className={styles.dropbtn}>Locations <img src="downtriangle.svg" width={12} height={12}/></button>
+                        <div className={styles.dropdowncontent}>
+                            <div>
+                                <input type="checkbox" id="albany" defaultChecked></input>
+                                <label htmlFor="albany">Albany </label>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="amesville" defaultChecked></input>
+                                <label htmlFor="amesville">Amesville </label>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="athens" defaultChecked></input>
+                                <label htmlFor="athens">Athens </label>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="lancaster" defaultChecked></input>
+                                <label htmlFor="lancaster">Lancaster </label>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="logan" defaultChecked></input>
+                                <label htmlFor="logan">Logan </label>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="nelsonville" defaultChecked></input>
+                                <label htmlFor="nelsonville">Nelsonville </label>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="theplains" defaultChecked></input>
+                                <label htmlFor="theplains">The Plains </label>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="welston" defaultChecked></input>
+                                <label htmlFor="welston">Welston </label>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div className={styles.segment}>
                     <label htmlFor="bedcount">Number of Beds: </label>
                     <input type="number" id="bedcount" min={1} max={9}></input>
-                    <br></br><br></br>
+                    <br/><br/>
                     <label htmlFor="bathcount">Number of Bathrooms: </label>
                     <input type="number" id="bathcount" min={1} max={5}></input>
-                    <br></br><br></br>
+                </div>
+                <div className={styles.segment}>
                     <label htmlFor="avilibility">Availability Date </label>
                     <input type="date" id="avilibility"></input>
-                    <br></br><br></br>
+                    <br/><br/>
                     <text>Price: </text>
                     <input type="number" id="bottomprice" min={0} max={14000} defaultValue={0}></input>
                     <text>-</text>
                     <input type="number" id="topprice" min={0} max={14000} defaultValue={14000}></input>
                 </div>
-                <div><input type="submit" id="search" value="search"></input></div>
+                <div><input type="submit" id="search" value="search" className='center'></input></div>
             </form>
             {properties.map(property => (
                 <Conditional showWhen={anyShown(data, property)}>
@@ -152,7 +157,7 @@ const Rentals = ({ properties }) => {
                             <Conditional showWhen={show(data, property, unit)}>
                                 <Link key={unit.id} href={'/rentals/' + unit.id} className={styles.listing}>
                                     <ul>
-                                        <li><h4>{property.address}</h4><h5>Unit: {unit.unit}</h5><br></br><h6>{property.city}</h6></li>
+                                        <li><h4>{property.address}</h4><h5>Unit: {unit.unit}</h5><br/><h6>{property.city}</h6></li>
                                         <li>Beds: {unit.beds} | Bathrooms: {unit.baths} | Area: {unit.sqft} sqft</li>
                                         <li><p>Available on: --/--/--&emsp;&emsp;Rent: ${unit.rent}</p></li>
                                     </ul>

@@ -21,36 +21,36 @@ const ContactUs = () => {
                 <form onSubmit={handleSubmit} className={styles.form}>
                     <div>
                         <label for="fname">First name*: </label>
-                        <br></br>
+                        <br/>
                         <input type="text" id="fname" required="true"></input>
                     </div>
                     <div>
                         <label for="lname">Last name: </label>
-                        <br></br>
+                        <br/>
                         <input type="text" id="lname"></input>
                     </div>
-                    <br></br>
+                    <br/>
                     <div>
                         <label for="email">Email*: </label>
-                        <br></br>
+                        <br/>
                         <input type="email" id="email" required="true"></input>
                     </div>
                     <div>
                         <label for="phone">Phone Number: </label>
-                        <br></br>
+                        <br/>
                         <input type="tel" id="phone"></input>
                     </div>
-                    <br></br>
+                    <br/>
                     <div>
-                        <br></br>
+                        <br/>
                         <label for="subject">Subject*: </label>
-                        <br></br>
+                        <br/>
                         <input type="text" id="subject" required="true"></input>
-                        <br></br><br></br>
+                        <br/><br/>
                         <label for="comments">Comments*: </label>
-                        <br></br>
+                        <br/>
                         <textarea id="comments" required="true" cols={75} rows={8}></textarea>
-                        <br></br><br></br>
+                        <br/><br/>
                         <input type="submit" value="Submit"></input>
                     </div>
                 </form>
