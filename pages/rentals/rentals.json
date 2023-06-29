@@ -571,38 +571,6 @@
     ]
   },
   {
-    "address": "11 1/2 South High Street",
-    "city": "Athens, OH 45701",
-    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.455601419326!2d-82.10621182506716!3d39.32875742113874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873bdb41b5c2b%3A0xc0ab4c75b7f08e30!2s11%20S%20High%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686842722175!5m2!1sen!2sus",
-    "courtWalk": 4,
-    "description": "Tucked away on South High Street lies this awesome home which is divided into two sections - the upper-level is a four bedroom apartment and the lower-level is the two bedroom apartment. Get six friends and rent the entire property! Free off-street parking and a huge back deck with an awesome view! Lawn care & snow/ice removal included with rent.",
-    "amenities": ["Parking"],
-    "units": [
-      {
-        "unit": "Unit A",
-        "sqft": 1378,
-        "beds": 4,
-        "baths": 1,
-        "rent": 600.00,
-        "description": "Bedrooms This spacious, two-story apartment is the upper level of a duplex. You and your friends can enjoy huge bedrooms and a washer/dryer!",
-        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
-        "priceInfo": "Discounted Rent Per Bedroom x 4",
-        "id": 137919
-      },
-      {
-        "unit": "Unit B",
-        "sqft": 688,
-        "beds": 2,
-        "baths": 1,
-        "rent": 600.00,
-        "description": "Bedrooms Located in an excellent spot; This lower level apartment is only a few minutes' walk from Court St. and campus! This apartment features free off-street parking, spacious rooms and a large back deck overlooking great scenery!",
-        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
-        "priceInfo": "Discounted Rent Per Bedroom x 2, Tenant puts electric and gas in their name",
-        "id": 137920
-      }
-    ]
-  },
-  {
     "address": "118 Franklin Avenue",
     "city": "Athens, OH 45701",
     "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.1849406875754!2d-82.09840362506668!3d39.33636592068574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a5fab0681f%3A0x3da534e6e89a327e!2s118%20Franklin%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686843033317!5m2!1sen!2sus",
