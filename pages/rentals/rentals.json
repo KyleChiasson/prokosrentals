@@ -3046,35 +3046,5 @@
         "id": 506509
       }
     ]
-  },
-  {
-    "address": "99 East State Street",
-    "city": "Athens, OH 45701",
-    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.3250593820853!2d-82.10015822506689!3d39.33242722092029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a528d2ba69%3A0x360a64d7b1fbf060!2s99%20E%20State%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686848223952!5m2!1sen!2sus",
-    "courtWalk": 8,
-    "description": "-",
-    "amenities": [],
-    "units": [
-      {
-        "sqft": 0,
-        "beds": 2,
-        "baths": 1,
-        "rent": 1200.00,
-        "description": "Nice 2 bedroom, 1.5 bath apartment has been newly renovated and features a washer/dryer, central air and off-street parking. Close walk to uptown Athens and campus.",
-        "amenities": [],
-        "priceInfo": "Tenant pays all utilities",
-        "id": 1216820
-      },
-      {
-        "sqft": 0,
-        "beds": 1,
-        "baths": 1,
-        "rent": 750.00,
-        "description": "Newly renovated with hardwood floors, central air/heat, washer/dryer in unit and off street parking. Close to campus and uptown Athens.",
-        "amenities": [],
-        "priceInfo": "Tenant puts electric and gas in their name",
-        "id": 1216821
-      }
-    ]
   }
 ]
