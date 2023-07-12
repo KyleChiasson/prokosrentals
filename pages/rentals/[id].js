@@ -60,10 +60,8 @@ const Properties = ({property, unit}) => {
                 <p>Rent: ${unit.rent} per month</p>
                 <p>Price Information: {unit.priceInfo}</p>
                 <p>If you have any questions regarding rent please reach out to us.</p>
-                <p className={styles.availibility}>Available on: --/--/--</p>
-                <form className={styles.availibility}>
-                    <input type="submit" value="Apply Now"></input>
-                </form>
+                <p className={styles.availibility}>Available on: {unit.available}</p>
+                <p className={styles.applyButton}><Link href="https://prokosrentals.managebuilding.com/Resident/rental-application/new">Apply Now</Link></p>
             </div>
         </> 
     );

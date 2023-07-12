@@ -21,7 +21,6 @@ const About = ({employees}) => {
                     <div className={styles.employees}>
                         {employees.map(employee => (
                             <div>
-                                <Image src="/1.png" width="100" height="100"></Image>
                                 <h4>{employee.name}</h4>
                                 <p>{employee.position}</p>
                             </div>

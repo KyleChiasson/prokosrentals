@@ -1,5 +1,273 @@
 [
   {
+    "address": "1 Pomeroy Road - Richland Avenue Townhomes",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19616.78000699436!2d-82.11611060786271!3d39.32008961559786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873df02ada5c9%3A0xba334bc1a79e7a31!2s1%20Pomeroy%20Rd%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686841986570!5m2!1sen!2sus",
+    "courtWalk": 39,
+    "description": "Built in 1999 These luxurious, newer townhomes are 2 and 3 bedrooms are spacious! They feature a washer/dryer, large bedrooms, a dishwasher, 1.5 and 2 full baths, a front balcony, plenty of free off-street parking and central air/heat: Perfect for grad students!",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Unit A1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 960,
+        "beds": 2,
+        "baths": 1,
+        "rent": 487.50,
+        "description": "This unit is beautiful and well-maintained with new flooring in the living room. Perfect for an undergraduate/graduate duo or young professional(s). Conveniently located at the end of Richland Avenue with easy access to Route 32 and 33. The unit is total electric and features central air/heat, dishwasher, washer/dryer, balcony, and free off-street parking for you and your guests.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 2 Bedrooms",
+        "id": 137820
+      },
+      {
+        "unit": "Unit A2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 960,
+        "beds": 2,
+        "baths": 1,
+        "rent": 487.50,
+        "description": "These spacious, NEWER TOWN-HOMES feature a washer/dryer, dishwasher, 1 ½ baths, front balcony, back patio area and central air/heat. They're total electric, so there's no gas bill! There is also plenty of free off-street parking. NOT PET-FRIENDLY.",
+        "amenities": [],
+        "priceInfo": "Discounted Rent Per Bedroom x 2 Bedrooms",
+        "id": 137821
+      },
+      {
+        "unit": "Unit A3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 960,
+        "beds": 2,
+        "baths": 1,
+        "rent": 487.50,
+        "description": "These spacious, NEWER TOWNHOMES feature a washer/dryer, dishwasher, 1 ½ baths, front balcony, back patio area and central air/heat. They're total electric, so there's no gas bill! There is also plenty of free off-street parking. NOT PET-FRIENDLY.",
+        "amenities": ["Air conditioner", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 2 Bedrooms",
+        "id": 137822
+      },
+      {
+        "unit": "Unit A4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 960,
+        "beds": 2,
+        "baths": 1,
+        "rent": 487.50,
+        "description": "-",
+        "amenities": [],
+        "priceInfo": "-",
+        "id": 137823
+      },
+      {
+        "unit": "Unit A5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 960,
+        "beds": 2,
+        "baths": 1,
+        "rent": 487.50,
+        "description": "These spacious, NEWER TOWNHOMES feature a washer/dryer, dishwasher, 1 ½ baths, front balcony, back patio area and central air/heat. They're total electric, so there's no gas bill! There is also plenty of free off-street parking. NOT PET-FRIENDLY.",
+        "amenities": [],
+        "priceInfo": "Discounted Rent Per Bedroom x 2 Bedrooms",
+        "id": 137824
+      },
+      {
+        "unit": "Unit A6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 960,
+        "beds": 2,
+        "baths": 1,
+        "rent": 487.50,
+        "description": "These spacious, NEWER TOWNHOMES feature a washer/dryer, dishwasher, 1 ½ baths, front balcony, back patio area and central air/heat. They're total electric, so there's no gas bill! There is also plenty of free off-street parking. NOT PET-FRIENDLY.",
+        "amenities": [],
+        "priceInfo": "Discounted Rent Per Bedroom x 2 Bedrooms",
+        "id": 137825
+      },
+      {
+        "unit": "Unit A7",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 0,
+        "beds": 2,
+        "baths": 1,
+        "rent": 487.50,
+        "description": "These spacious, NEWER TOWNHOMES feature a washer/dryer, dishwasher, 1 ½ baths, front balcony, back patio area and central air/heat. They're total electric, so there's no gas bill! There is also plenty of free off-street parking. NOT PET-FRIENDLY.",
+        "amenities": [],
+        "priceInfo": "Discounted Rent Per Bedroom x 2 Bedrooms",
+        "id": 137826
+      },
+      {
+        "unit": "Unit B1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 960,
+        "beds": 2,
+        "baths": 1,
+        "rent": 487.50,
+        "description": "This unit is beautiful and well-maintained. Perfect for an undergraduate/graduate duo or young professional(s). Available August 2017 and conveniently located at the end of Richland Avenue with easy access to Route 32 and 33. The unit is total electric and features central air/heat, dishwasher, washer/dryer, balcony, and free off-street parking for you and your guests.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 2 Bedrooms",
+        "id": 137827
+      },
+      {
+        "unit": "Unit B2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 960,
+        "beds": 2,
+        "baths": 1,
+        "rent": 487.50,
+        "description": "These spacious, NEWER TOWNHOMES feature a washer/dryer, dishwasher, 1 ½ baths, front balcony, back patio area and central air/heat. They're total electric, so there's no gas bill! There is also plenty of free off-street parking. NOT PET-FRIENDLY.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 2 Bedrooms",
+        "id": 137828
+      },
+      {
+        "unit": "Unit B3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 960,
+        "beds": 2,
+        "baths": 1,
+        "rent": 487.50,
+        "description": "This unit is beautiful and well-maintained with new flooring in the living room. Perfect for an undergraduate/graduate duo or young professional(s). Conveniently located at the end of Richland Avenue with easy access to Route 32 and 33. Unit is total electric and features central air/heat, dishwasher, washer/dryer, balcony, and free off-street parking for you and your guests. Very energy efficient with new windows and doors.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 2 Bedrooms",
+        "id": 137829
+      },
+      {
+        "unit": "Unit C1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 1080,
+        "beds": 3,
+        "baths": 2,
+        "rent": 450.00,
+        "description": "These newer townhomes are spacious! They feature a washer/dryer, large bedrooms, a dishwasher, 2 full baths, a front balcony, plenty of free off-street parking and central air/heat; Perfect for grad students! Conveniently located at the end of Richland Avenue with easy access to Route 32 and 33. Unit is total electric.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent/Bedroom x 3 Bedrooms",
+        "id": 137830
+      },
+      {
+        "unit": "Unit C2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": "-",
+        "beds": 2,
+        "baths": 1.5,
+        "rent": 975.00,
+        "description": "-",
+        "amenities": [],
+        "priceInfo": "-",
+        "id": 137831
+      },
+      {
+        "unit": "Unit C3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 1080,
+        "beds": 3,
+        "baths": 2,
+        "rent": 450.00,
+        "description": "These newer townhomes are spacious! They feature a washer/dryer, large bedrooms, a dishwasher, 2 full baths, a front balcony, plenty of free off-street parking and central air/heat; Perfect for grad students!  Conveniently located at the end of Richland Avenue with easy access to Route 32 and 33. Unit is total electric.",
+        "amenities": [],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137832
+      }
+    ]
+  },
+  {
+    "address": "10 North McDonald Street",
+    "city": "The Plains, OH 45780",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.9885923214183!2d-82.13192422506474!3d39.369981518683346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884874a0ca54194b%3A0x1d32560ab8ae97a0!2s10%20N%20McDonald%20St%2C%20The%20Plains%2C%20OH%2045780!5e1!3m2!1sen!2sus!4v1686842320416!5m2!1sen!2sus",
+    "courtWalk": 85,
+    "description": "This lovely home is located behind the Athens High School football field. Perfect for families or Hocking students. Plenty of off-street parking!",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single-Family",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 2430,
+        "beds": 6,
+        "baths": 2,
+        "rent": 217.00,
+        "description": "This home features a large living room with cathedral ceiling, electric fireplace, and a 42\" flat-screen TV mounted on the wall. Relax on the front porch or back deck. House also features central air/heat, washer/dryer, dishwasher, and a garage!",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Garage parking", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 6 Bedrooms",
+        "id": 137939
+      }
+    ]
+  },
+  {
+    "address": "100 Hudson Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.270222137856!2d-82.08937492506682!3d39.33396872082854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873acfef6da2f%3A0xc8ef2c14b31ea295!2s100%20Hudson%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686842557515!5m2!1sen!2sus",
+    "courtWalk": 25,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 1224,
+        "beds": 3,
+        "baths": 1,
+        "rent": 400.00,
+        "description": "These 3 bedroom town-homes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck!",
+        "amenities": [],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 506524
+      },
+      {
+        "unit": "2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 1224,
+        "beds": 3,
+        "baths": 1,
+        "rent": 400.00,
+        "description": "These 3 bedroom town-homes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck!",
+        "amenities": [],
+        "priceInfo": "Discounted Rent Per Bedrooms x 3 Bedrooms",
+        "id": 506525
+      },
+      {
+        "unit": "3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
+        "sqft": 1224,
+        "beds": 3,
+        "baths": 1,
+        "rent": 400.00,
+        "description": "These 3 bedroom town-homes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck!",
+        "amenities": [],
+        "priceInfo": "Discounted Rent Per Bedrooms x 3 Bedrooms",
+        "id": 506526
+      }
+    ]
+  },
+  {
     "address": "1000 East Canal Street - Townhomes of Hocking Hills",
     "city": "Nelsonville, OH 45764",
     "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.133285407412!2d-82.22420752506007!3d39.45011441390445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8847e1dc38a978d1%3A0x7bc55f3d216f66ad!2s1000%20E%20Canal%20St%2C%20Nelsonville%2C%20OH%2045764!5e1!3m2!1sen!2sus!4v1686842596852!5m2!1sen!2su",
@@ -9,6 +277,9 @@
     "units": [
       {
         "unit": "Unit A1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 825,
         "beds": 2,
         "baths": 1,
@@ -20,6 +291,9 @@
       },
       {
         "unit": "Unit A2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 825,
         "beds": 2,
         "baths": 1,
@@ -31,6 +305,9 @@
       },
       {
         "unit": "Unit A3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 825,
         "beds": 2,
         "baths": 1,
@@ -42,6 +319,9 @@
       },
       {
         "unit": "Unit A4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 825,
         "beds": 2,
         "baths": 1,
@@ -53,6 +333,9 @@
       },
       {
         "unit": "Unit A5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 825,
         "beds": 2,
         "baths": 1,
@@ -64,6 +347,9 @@
       },
       {
         "unit": "Unit A6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 825,
         "beds": 2,
         "baths": 1,
@@ -75,6 +361,9 @@
       },
       {
         "unit": "Unit B1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 842,
         "beds": 2,
         "baths": 1,
@@ -86,6 +375,9 @@
       },
       {
         "unit": "Unit B2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 842,
         "beds": 2,
         "baths": 1,
@@ -97,6 +389,9 @@
       },
       {
         "unit": "Unit B3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 842,
         "beds": 2,
         "baths": 1,
@@ -108,6 +403,9 @@
       },
       {
         "unit": "Unit B4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 842,
         "beds": 2,
         "baths": 1,
@@ -119,6 +417,9 @@
       },
       {
         "unit": "Unit B5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 842,
         "beds": 2,
         "baths": 1,
@@ -130,6 +431,9 @@
       },
       {
         "unit": "Unit B6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 842,
         "beds": 2,
         "baths": 1,
@@ -141,6 +445,9 @@
       },
       {
         "unit": "Unit C1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 906,
         "beds": 2,
         "baths": 1,
@@ -152,6 +459,9 @@
       },
       {
         "unit": "Unit C2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 906,
         "beds": 2,
         "baths": 1,
@@ -163,6 +473,9 @@
       },
       {
         "unit": "Unit C3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 906,
         "beds": 2,
         "baths": 1,
@@ -174,6 +487,9 @@
       },
       {
         "unit": "Unit C4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 906,
         "beds": 2,
         "baths": 1,
@@ -185,6 +501,9 @@
       },
       {
         "unit": "Unit C5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 906,
         "beds": 2,
         "baths": 1,
@@ -196,6 +515,9 @@
       },
       {
         "unit": "Unit C6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 906,
         "beds": 2,
         "baths": 1,
@@ -207,6 +529,9 @@
       },
       {
         "unit": "Unit C7",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 906,
         "beds": 2,
         "baths": 1,
@@ -218,6 +543,9 @@
       },
       {
         "unit": "Unit C8",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 906,
         "beds": 2,
         "baths": 1,
@@ -229,6 +557,9 @@
       },
       {
         "unit": "Unit D1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": "-",
         "beds": 2,
         "baths": 1,
@@ -240,6 +571,9 @@
       },
       {
         "unit": "Unit D2 - Room 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 318,
         "beds": 4,
         "baths": 2,
@@ -251,6 +585,9 @@
       },
       {
         "unit": "Unit D2 - Room 2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 318,
         "beds": 4,
         "baths": 2,
@@ -262,6 +599,9 @@
       },
       {
         "unit": "Unit D2 - Room 3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 318,
         "beds": 4,
         "baths": 2,
@@ -273,6 +613,9 @@
       },
       {
         "unit": "Unit D2 - Room 4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 318,
         "beds": 4,
         "baths": 2,
@@ -284,6 +627,9 @@
       },
       {
         "unit": "Unit D3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -295,6 +641,9 @@
       },
       {
         "unit": "Unit D4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -306,6 +655,9 @@
       },
       {
         "unit": "Unit D5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -317,6 +669,9 @@
       },
       {
         "unit": "Unit D6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -328,6 +683,9 @@
       },
       {
         "unit": "Unit D7",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -339,6 +697,9 @@
       },
       {
         "unit": "Unit D8",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -350,6 +711,9 @@
       },
       {
         "unit": "Unit F1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 842,
         "beds": 2,
         "baths": 1,
@@ -361,6 +725,9 @@
       },
       {
         "unit": "Unit F2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 842,
         "beds": 2,
         "baths": 1,
@@ -372,6 +739,9 @@
       },
       {
         "unit": "Unit F3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 842,
         "beds": 2,
         "baths": 1,
@@ -383,6 +753,9 @@
       },
       {
         "unit": "Unit F4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 842,
         "beds": 2,
         "baths": 1,
@@ -394,6 +767,9 @@
       },
       {
         "unit": "Unit F5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 842,
         "beds": 2,
         "baths": 1,
@@ -405,6 +781,9 @@
       },
       {
         "unit": "Unit F6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 842,
         "beds": 2,
         "baths": 1,
@@ -416,6 +795,9 @@
       },
       {
         "unit": "Unit G1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 865,
         "beds": 2,
         "baths": 1,
@@ -427,6 +809,9 @@
       },
       {
         "unit": "Unit G2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 865,
         "beds": 2,
         "baths": 1,
@@ -438,6 +823,9 @@
       },
       {
         "unit": "Unit G3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 865,
         "beds": 2,
         "baths": 1,
@@ -449,6 +837,9 @@
       },
       {
         "unit": "Unit G4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 864,
         "beds": 2,
         "baths": 1,
@@ -460,6 +851,9 @@
       },
       {
         "unit": "Unit G5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 865,
         "beds": 2,
         "baths": 1,
@@ -471,6 +865,9 @@
       },
       {
         "unit": "Unit G6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 865,
         "beds": 2,
         "baths": 1,
@@ -482,6 +879,9 @@
       },
       {
         "unit": "Unit H1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -493,6 +893,9 @@
       },
       {
         "unit": "Unit H2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -504,6 +907,9 @@
       },
       {
         "unit": "Unit H3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -515,6 +921,9 @@
       },
       {
         "unit": "Unit H4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -526,6 +935,9 @@
       },
       {
         "unit": "Unit H5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -537,6 +949,9 @@
       },
       {
         "unit": "Unit H6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -548,6 +963,9 @@
       },
       {
         "unit": "Unit H7",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -559,6 +977,9 @@
       },
       {
         "unit": "Unit H8",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 848,
         "beds": 2,
         "baths": 1,
@@ -567,6 +988,226 @@
         "amenities": [],
         "priceInfo": "-",
         "id": 138023
+      }
+    ]
+  },
+  {
+    "address": "103 East State Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.3198087449778!2d-82.10004432506692!3d39.33257482091152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a5258b125b%3A0x71c27ed9905fe5b5!2s103%20E%20State%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686842651027!5m2!1sen!2su",
+    "courtWalk": 9,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
+        "sqft": 0,
+        "beds": 1,
+        "baths": 1,
+        "rent": 700.00,
+        "description": "-",
+        "amenities": [],
+        "priceInfo": "-",
+        "id": 1216839
+      },
+      {
+        "unit": "B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 0,
+        "beds": 2,
+        "baths": 1,
+        "rent": 1050.00,
+        "description": "A nice 2 bedroom that features hardwood floors, central air/heat and off-street parking. Close to uptown Athens and campus.",
+        "amenities": [],
+        "priceInfo": "Tenant pays all utilities",
+        "id": 1216840
+      }
+    ]
+  },
+  {
+    "address": "103 Franklin Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.3198087449778!2d-82.10004432506692!3d39.33257482091152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a5c04f1bcb%3A0x11344555df8e6430!2s103%20Franklin%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686842682066!5m2!1sen!2sus",
+    "courtWalk": 12,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 997,
+        "beds": 3,
+        "baths": 2,
+        "rent": 450.00,
+        "description": "This house is in a great location - close to uptown! 3 spacious bedrooms, 2 full baths, large kitchen including a dishwasher, and a great front porch!",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137952
+      }
+    ]
+  },
+  {
+    "address": "11 1/2 South High Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.455601419326!2d-82.10621182506716!3d39.32875742113874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873bdb41b5c2b%3A0xc0ab4c75b7f08e30!2s11%20S%20High%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686842722175!5m2!1sen!2sus",
+    "courtWalk": 4,
+    "description": "Tucked away on South High Street lies this awesome home which is divided into two sections - the upper-level is a four bedroom apartment and the lower-level is the two bedroom apartment. Get six friends and rent the entire property! Free off-street parking and a huge back deck with an awesome view! Lawn care & snow/ice removal included with rent.",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1378,
+        "beds": 4,
+        "baths": 1,
+        "rent": 600.00,
+        "description": "Bedrooms This spacious, two-story apartment is the upper level of a duplex. You and your friends can enjoy huge bedrooms and a washer/dryer!",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 4",
+        "id": 137919
+      },
+      {
+        "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 688,
+        "beds": 2,
+        "baths": 1,
+        "rent": 600.00,
+        "description": "Bedrooms Located in an excellent spot; This lower level apartment is only a few minutes' walk from Court St. and campus! This apartment features free off-street parking, spacious rooms and a large back deck overlooking great scenery!",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 2, Tenant puts electric and gas in their name",
+        "id": 137920
+      }
+    ]
+  },
+  {
+    "address": "11 West Stimson Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.335123057067!2d-82.09825912506689!3d39.33214432093718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a5517788c5%3A0x9abe42ce6cb86b!2s11%20W%20Stimson%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686842752312!5m2!1sen!2sus",
+    "courtWalk": 10,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
+        "sqft": 5200,
+        "beds": "-",
+        "baths": "-",
+        "rent": 4500,
+        "description": "-",
+        "amenities": [],
+        "priceInfo": "-",
+        "id": 218835
+      }
+    ]
+  },
+  {
+    "address": "115 North Lancaster Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2273222562058!2d-82.10738862506675!3d39.33517462075667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a260f17005%3A0xe16a67fef1c05a64!2s115%20N%20Lancaster%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686842897269!5m2!1sen!2sus",
+    "courtWalk": 11,
+    "description": "-",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1444,
+        "beds": 6,
+        "baths": 2,
+        "rent": 400.00,
+        "description": "This huge, well-maintained home is perfect for a large group of students! It is located within walking distance to Ohio University campus & Court Street and has tons of great amenities. The two full bathrooms are gigantic. One even features a Jack & Jill sink, and the other contains the laundry room. The home itself is extremely cozy and features beautiful hardwood flooring and oak trim. Enjoy a large living room and dining room, huge wrap-around porch, central air & heat, free off-street parking, spacious bedrooms, and a nice eat-in kitchen with a dishwasher. 50\" flat-screen mounted on the wall in the living room.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 6 Bedrooms",
+        "id": 137953
+      }
+    ]
+  },
+  {
+    "address": "1155 Chestnut Street",
+    "city": "Nelsonville, OH 45764",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.197954469822!2d-82.22072792506019!3d39.44830101401277!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8847e1ded2c67b19%3A0xf1faa8baedf3fb39!2s1155%20Chestnut%20St%2C%20Nelsonville%2C%20OH%2045764!5e1!3m2!1sen!2sus!4v1686842927539!5m2!1sen!2sus",
+    "courtWalk": 258,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Commercial 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
+        "sqft": 9600,
+        "beds": "-",
+        "baths":  "-",
+        "rent": 1200.00,
+        "description": "-",
+        "amenities": [],
+        "priceInfo": "-",
+        "id": 340833
+      }
+    ]
+  },
+  {
+    "address": "116 Grosvenor Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2004056555197!2d-82.09956272506672!3d39.3359312207116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a5c6e5d1e3%3A0xa126275a592ce7ed!2s116%20Grosvenor%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686842965095!5m2!1sen!2sus",
+    "courtWalk": 11,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1248,
+        "beds": 3,
+        "baths": 2,
+        "rent": 575.00,
+        "description": "This rental is in an awesome location! It sits on a quiet street and is vert close to uptown! The house features 2 full bathrooms, hardwood flooring, large bedrooms, a great front porch and back deck, a washer/dryer AND dishwasher!",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137954
+      }
+    ]
+  },
+  {
+    "address": "116 North Congress Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.281705558014!2d-82.10445402506679!3d39.33364592084768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a36ade5cbb%3A0x9ece4d60a2f79b5!2s116%20N%20Congress%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686842997923!5m2!1sen!2sus",
+    "courtWalk": 8,
+    "description": "-",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 2652,
+        "beds": 7,
+        "baths": 2,
+        "rent": 420.00,
+        "description": "Located on a corner lot on one of the most popular streets in Athens, this spacious property can house up to 10 people! You and your friends can enjoy a huge yard with a front porch, washer/dryer, 2 refrigerators, dishwasher, 50\" flat-screen TV in one of the two living rooms (one upstairs & one downstairs), and spacious bedrooms.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 7 Bedrooms",
+        "id": 137930
       }
     ]
   },
@@ -580,6 +1221,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 420,
         "beds": 1,
         "baths": 1,
@@ -591,6 +1235,9 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 300,
         "beds": "studio",
         "baths": 1,
@@ -599,6 +1246,102 @@
         "amenities": ["Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "priceInfo": "Listed rent is discounted and is based on one tenant, $58 for water, trash, and sewer, Tenant puts gas and electric in their name.",
         "id": 137956
+      }
+    ]
+  },
+  {
+    "address": "12 North College Street - 8 NC LLC",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.42697396664!2d-82.10211232506703!3d39.32956222109096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873bb760d8bdb%3A0x3f78b1e67a6066b9!2s12%20N%20College%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686843068113!5m2!1sen!2sus",
+    "courtWalk": 3,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Fraternity House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "frat",
+        "sqft": 0,
+        "beds": 9,
+        "baths": 5,
+        "rent": 14000.00,
+        "description": "This huge, newly renovated house has an entertainment area, 14 Bedrooms & 6 Bathrooms. Its located on N College St. behind Chase Bank and the parking garage. Tenants can also enjoy complimentary laundry. The property is zoned for... 56 People!",
+        "amenities": [],
+        "priceInfo": "-",
+        "id": 183160
+      }
+    ]
+  },
+  {
+    "address": "120 North Congress Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2773050125897!2d-82.10449652506679!3d39.33376962084044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a36b5b49a1%3A0xddb04cd84396155e!2s120%20N%20Congress%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686843094158!5m2!1sen!2sus",
+    "courtWalk": 8,
+    "description": "-",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1552,
+        "beds": 4,
+        "baths": 2,
+        "rent": 550.00,
+        "description": "This spacious 4 bedroom house is in a great location and is super close to uptown! Features 2 full baths, a large living room and bar room, bonus room, washer/dryer, large yard, and FREE off-street parking.",
+        "amenities": ["Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 4 Bedrooms",
+        "id": 137962
+      }
+    ]
+  },
+  {
+    "address": "127 West State Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2773050125897!2d-82.10449652506679!3d39.33376962084044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88487397f1a73133%3A0x21b73a8019be7cd!2s127%20W%20State%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686843128815!5m2!1sen!2sus",
+    "courtWalk": 9,
+    "description": "-",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 2028,
+        "beds": 6,
+        "baths": 2,
+        "rent": 420.00,
+        "description": "One of our largest houses! This amazing, well-maintained home is perfect for a large group of friends who are looking to live close to uptown and Ohio University campus. This house is very energy-efficient with double-pane windows. Enjoy a huge wrap-around front porch, free off-street parking, a huge kitchen with 2 refrigerators, dishwasher, plenty of storage space, central air and heat, washer/dryer, and huge bedrooms with ample closet space.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 6 Bedrooms",
+        "id": 137957
+      }
+    ]
+  },
+  {
+    "address": "129 West State Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.3337677194336!2d-82.10973832506693!3d39.332182420934835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88487397f3ebc7b1%3A0xed3d4941ca1c9bf6!2s129%20W%20State%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686843177990!5m2!1sen!2sus",
+    "courtWalk": 9,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": "-",
+        "beds": 3,
+        "baths": 3,
+        "rent": "-",
+        "description": "-",
+        "amenities": [],
+        "priceInfo": "-",
+        "id": 1342013
       }
     ]
   },
@@ -612,6 +1355,9 @@
     "units": [
       {
         "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 0,
         "beds": "-",
         "baths": "-",
@@ -623,6 +1369,9 @@
       },
       {
         "unit": "2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 0,
         "beds": "-",
         "baths": "-",
@@ -634,6 +1383,9 @@
       },
       {
         "unit": "3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 0,
         "beds": "-",
         "baths": "-",
@@ -655,6 +1407,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 496,
         "beds": 1,
         "baths": 1,
@@ -666,6 +1421,9 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 900,
         "beds": 2,
         "baths": 1,
@@ -674,6 +1432,78 @@
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "priceInfo": "Listed rent is discounted and is per person based on two tenants, Tenant pays all utilities.",
         "id": 137959
+      }
+    ]
+  },
+  {
+    "address": "135 Morris Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.162349552311!2d-82.09811652506663!3d39.33700092064795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873ae6a3f039d%3A0xdb37817fa4c1744c!2s135%20Morris%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686843279183!5m2!1sen!2sus",
+    "courtWalk": 17,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 2095,
+        "beds": 4,
+        "baths": 2.5,
+        "rent": 495.00,
+        "description": "Bedrooms Beautiful Spacious 3 to 4 bedroom home with a one car garage. All wood floors, central air/heat, washer/dryer, a screened in back porch and a nice front porch.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Garage parking", "Hardwood floors", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 4",
+        "id": 492332
+      }
+    ]
+  },
+  {
+    "address": "14 Central Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.274640489156!2d-82.11389542506679!3d39.33384452083594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88487399f42b9429%3A0xbb071035d84c35fb!2s14%20Central%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686843334144!5m2!1sen!2sus",
+    "courtWalk": 16,
+    "description": "Located on the West side of town by Miller's Chicken, this two-story home is perfect Ohio University students or a small family.",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 950,
+        "beds": 3,
+        "baths": 1,
+        "rent": 500.00,
+        "description": "This Westside house features a newly renovated kitchen with a built-in microwave. It also includes a washer, dryer, dishwasher, free off-street parking, a covered front porch, and a private, fenced-in backyard.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Fenced yard", "Heat - gas", "Laundry room / hookups", "Microwave", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137940
+      }
+    ]
+  },
+  {
+    "address": "14 First Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2501935550376!2d-82.11215182506672!3d39.334531720795034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88487399baf496a5%3A0x909c759a39675c5!2s14%201st%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686843377388!5m2!1sen!2sus",
+    "courtWalk": 15,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 950,
+        "beds": 3,
+        "baths": 1,
+        "rent": 400.00,
+        "description": "This West side house is located within walking distance to uptown and is nestled in a quiet neighborhood. It features a great covered front porch, new wood flooring and windows, ceiling fans, bonus room, washer/dryer, and a large yard with a back patio.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137941
       }
     ]
   },
@@ -687,6 +1517,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 300,
         "beds": "studio",
         "baths": 1,
@@ -698,6 +1531,9 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 380,
         "beds": 1,
         "baths": 1,
@@ -709,6 +1545,9 @@
       },
       {
         "unit": "Unit C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1500,
         "beds": 4,
         "baths": 2,
@@ -730,6 +1569,9 @@
     "units": [
       {
         "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": "-",
         "beds": "-",
         "baths": 1,
@@ -751,6 +1593,9 @@
     "units": [
       {
         "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": "-",
         "beds": "-",
         "baths": 1,
@@ -772,6 +1617,9 @@
     "units": [
       {
         "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": "-",
         "beds": "-",
         "baths": 1,
@@ -793,6 +1641,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 2269,
         "beds": 7,
         "baths": 2,
@@ -804,6 +1655,9 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 1945,
         "beds": 6,
         "baths": 2,
@@ -815,6 +1669,9 @@
       },
       {
         "unit": "Unit C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 325,
         "beds": 1,
         "baths": 1,
@@ -836,6 +1693,9 @@
     "units": [
       {
         "unit": "Commercial 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 2196,
         "beds": "-",
         "baths":  "-",
@@ -847,6 +1707,9 @@
       },
       {
         "unit": "Commercial 2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 1320,
         "beds": "-",
         "baths":  "-",
@@ -868,6 +1731,9 @@
     "units": [
       {
         "unit": "1389 - Unit 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -879,6 +1745,9 @@
       },
       {
         "unit": "1389 - Unit 2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -890,6 +1759,9 @@
       },
       {
         "unit": "1389 - Unit 3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -901,6 +1773,9 @@
       },
       {
         "unit": "1393 - Unit 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 215,
         "beds": "studio",
         "baths": 1,
@@ -912,6 +1787,9 @@
       },
       {
         "unit": "1393 - Unit 2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -923,6 +1801,9 @@
       },
       {
         "unit": "1393 - Unit 3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -934,6 +1815,9 @@
       },
       {
         "unit": "1393 - Unit 4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 215,
         "beds": "studio",
         "baths": 1,
@@ -945,6 +1829,9 @@
       },
       {
         "unit": "1393 - Unit 5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 215,
         "beds": "studio",
         "baths": 1,
@@ -956,6 +1843,9 @@
       },
       {
         "unit": "16043 - Unit 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -967,6 +1857,9 @@
       },
       {
         "unit": "16043 - Unit 3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 850,
         "beds": 1,
         "baths": 1,
@@ -978,6 +1871,9 @@
       },
       {
         "unit": "16047 - Unit 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -989,6 +1885,9 @@
       },
       {
         "unit": "16047 - Unit 2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -1000,6 +1899,9 @@
       },
       {
         "unit": "16047 - Unit 3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -1011,6 +1913,9 @@
       },
       {
         "unit": "16051 - Unit 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -1022,6 +1927,9 @@
       },
       {
         "unit": "16051 - Unit 2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -1033,6 +1941,9 @@
       },
       {
         "unit": "16051 - Unit 3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -1044,6 +1955,9 @@
       },
       {
         "unit": "16055 - Unit 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -1055,6 +1969,9 @@
       },
       {
         "unit": "16055 - Unit 2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -1066,6 +1983,9 @@
       },
       {
         "unit": "16055 - Unit 3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 646,
         "beds": 1,
         "baths": 1,
@@ -1074,6 +1994,54 @@
         "amenities": [],
         "priceInfo": "-",
         "id": 138048
+      }
+    ]
+  },
+  {
+    "address": "186 West Washington Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9949.338255437!2d-82.12675509436494!3d39.332160040592626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8848739784fbf455%3A0xe7c0179e3cc230ab!2s186%20W%20Washington%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686843604368!5m2!1sen!2sus",
+    "courtWalk": 10,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 890,
+        "beds": 3,
+        "baths": 1,
+        "rent": 550.00,
+        "description": "This recently updated house is conveniently located on the West side of town and is very close to uptown & campus. It features new floors, sizeable bedrooms, central air/heat, washer/dryer, and a huge wrap-around porch!",
+        "amenities": ["Air conditioner", "Cable", "Fireplace", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Person x 3 Bedrooms",
+        "id": 137965
+      }
+    ]
+  },
+  {
+    "address": "20 Brown Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2655511949883!2d-82.11172652506687!3d39.3341000208207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88487399b60cfc07%3A0x9ae49093712f2eed!2s20%20Brown%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686843634243!5m2!1sen!2sus",
+    "courtWalk": 14,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 884,
+        "beds": 2,
+        "baths": 1,
+        "rent": 550.00,
+        "description": "This spacious home has recently been updated! Included is a washer and dryer, wood floors throughout the whole house, a nice front porch and free off-street parking.",
+        "amenities": [],
+        "priceInfo": "Discounted Rent Per Bedroom x 2 Bedrooms, Tenant puts electric and gas in their name",
+        "id": 355348
       }
     ]
   },
@@ -1087,6 +2055,9 @@
     "units": [
       {
         "unit": "Commercial 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 800,
         "beds": "-",
         "baths":  "-",
@@ -1098,6 +2069,9 @@
       },
       {
         "unit": "Commercial 2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": "-",
         "beds": "-",
         "baths":  "-",
@@ -1119,6 +2093,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1500,
         "beds": 3,
         "baths": 3,
@@ -1130,6 +2107,9 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 618,
         "beds": 1,
         "baths": 1,
@@ -1141,6 +2121,9 @@
       },
       {
         "unit": "Unit C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 708,
         "beds": 1,
         "baths": 1,
@@ -1149,6 +2132,30 @@
         "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Heat - electric", "Refrigerator", "Stove and oven"],
         "priceInfo": "Listed rent is discounted and based on one person, Tenant puts electric in their name",
         "id": 137967
+      }
+    ]
+  },
+  {
+    "address": "23 North Congress Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.406509732531!2d-82.10533892506707!3d39.33013752105664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873bcfa44a3fd%3A0xf99afa8865ac06e2!2s23%20N%20Congress%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686844634187!5m2!1sen!2sus",
+    "courtWalk": 3,
+    "description": "This enormous house is perfect for a large group of friends or fraternity/sorority house! Located very close to Court Street & Ohio University campus.",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 2568,
+        "beds": 9,
+        "baths": 2,
+        "rent": 450.00,
+        "description": "This huge uptown house features a front porch, spacious kitchen with a stove, dishwasher, fridge, and washer/dryer, an extra fridge upstairs, huge back patio area, newly painted bedrooms, and a 42\" flat-screen TV in the living room.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 9 Bedrooms",
+        "id": 137927
       }
     ]
   },
@@ -1162,6 +2169,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 600,
         "beds": 1,
         "baths": 1,
@@ -1173,6 +2183,9 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 456,
         "beds": "studio",
         "baths": 1,
@@ -1194,6 +2207,9 @@
     "units": [
       {
         "unit": "Commercial 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 1200,
         "beds": "-",
         "baths":  "-",
@@ -1205,6 +2221,9 @@
       },
       {
         "unit": "Commercial 2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": "-",
         "beds": "-",
         "baths":  "-",
@@ -1216,6 +2235,9 @@
       },
       {
         "unit": "Commercial 3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 0,
         "beds": "-",
         "baths":  "-",
@@ -1237,6 +2259,9 @@
     "units": [
       {
         "unit": "Unit G1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1248,6 +2273,9 @@
       },
       {
         "unit": "Unit G2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1259,6 +2287,9 @@
       },
       {
         "unit": "Unit G3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1270,6 +2301,9 @@
       },
       {
         "unit": "Unit G4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1281,6 +2315,9 @@
       },
       {
         "unit": "Unit G5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1292,6 +2329,9 @@
       },
       {
         "unit": "Unit G6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1303,6 +2343,9 @@
       },
       {
         "unit": "Unit G7",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1314,6 +2357,9 @@
       },
       {
         "unit": "Unit G8",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1325,6 +2371,9 @@
       },
       {
         "unit": "Unit H1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1336,6 +2385,9 @@
       },
       {
         "unit": "Unit H2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1347,6 +2399,9 @@
       },
       {
         "unit": "Unit H3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 0,
         "beds": 2,
         "baths": 1,
@@ -1358,6 +2413,9 @@
       },
       {
         "unit": "Unit H4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1369,6 +2427,9 @@
       },
       {
         "unit": "Unit H5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1380,6 +2441,9 @@
       },
       {
         "unit": "Unit H6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1391,6 +2455,9 @@
       },
       {
         "unit": "Unit H7",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 2,
         "baths": 1,
@@ -1402,6 +2469,9 @@
       },
       {
         "unit": "Unit H8",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1413,6 +2483,9 @@
       },
       {
         "unit": "Unit I1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1424,6 +2497,9 @@
       },
       {
         "unit": "Unit I2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1435,6 +2511,9 @@
       },
       {
         "unit": "Unit I3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1446,6 +2525,9 @@
       },
       {
         "unit": "Unit I4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1457,6 +2539,9 @@
       },
       {
         "unit": "Unit I5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 950,
         "beds": 3,
         "baths": 1,
@@ -1468,6 +2553,9 @@
       },
       {
         "unit": "Unit I6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1479,6 +2567,9 @@
       },
       {
         "unit": "Unit I7",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1490,6 +2581,9 @@
       },
       {
         "unit": "Unit I8",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1501,6 +2595,9 @@
       },
       {
         "unit": "Unit J1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1512,6 +2609,9 @@
       },
       {
         "unit": "Unit J2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1523,6 +2623,9 @@
       },
       {
         "unit": "Unit J3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1534,6 +2637,9 @@
       },
       {
         "unit": "Unit J4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1545,6 +2651,9 @@
       },
       {
         "unit": "Unit J5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1556,6 +2665,9 @@
       },
       {
         "unit": "Unit J6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1567,6 +2679,9 @@
       },
       {
         "unit": "Unit J7",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 794,
         "beds": 2,
         "baths": 1,
@@ -1578,6 +2693,9 @@
       },
       {
         "unit": "Unit J8",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 895,
         "beds": 3,
         "baths": 1,
@@ -1586,6 +2704,30 @@
         "amenities": ["Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
         "id": 137918  
+      }
+    ]
+  },
+  {
+    "address": "35 South May Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.1896011829817!2d-82.09098042506675!3d39.33623492069347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873ac0b31284b%3A0xf5e5f1f9666164c5!2s35%20S%20May%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686844761754!5m2!1sen!2sus",
+    "courtWalk": 22,
+    "description": "One of our newest properties! This newly renovated home is perfect for a small family, young professionals, or graduate students. It is nestled on one of Athens' greatest East Side streets, very close to the Speedway on E State Street.",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1315,
+        "beds": 3,
+        "baths": 2,
+        "rent": 400.00,
+        "description": "This home has been newly renovated and features all new appliances (fridge, dishwasher, oven/range, washer & dryer), free off-street parking, a great backyard, and all new flooring/fresh paint!",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137961
       }
     ]
   },
@@ -1599,6 +2741,9 @@
     "units": [
       {
         "unit": "Unit 01",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1610,6 +2755,9 @@
       },
       {
         "unit": "Unit 02",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1621,6 +2769,9 @@
       },
       {
         "unit": "Unit 03",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1632,6 +2783,9 @@
       },
       {
         "unit": "Unit 04",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1643,6 +2797,9 @@
       },
       {
         "unit": "Unit 05",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1654,6 +2811,9 @@
       },
       {
         "unit": "Unit 06",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1665,6 +2825,9 @@
       },
       {
         "unit": "Unit 07",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 860,
         "beds": 3,
         "baths": 1,
@@ -1676,6 +2839,9 @@
       },
       {
         "unit": "Unit 08",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 860,
         "beds": 3,
         "baths": 1,
@@ -1687,6 +2853,9 @@
       },
       {
         "unit": "Unit 09",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 860,
         "beds": 3,
         "baths": 1,
@@ -1698,6 +2867,9 @@
       },
       {
         "unit": "Unit 10",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 860,
         "beds": 3,
         "baths": 1,
@@ -1709,6 +2881,9 @@
       },
       {
         "unit": "Unit 11",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1720,6 +2895,9 @@
       },
       {
         "unit": "Unit 12",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1731,6 +2909,9 @@
       },
       {
         "unit": "Unit 13",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 860,
         "beds": 3,
         "baths": 1,
@@ -1742,6 +2923,9 @@
       },
       {
         "unit": "Unit 14",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 860,
         "beds": 3,
         "baths": 1,
@@ -1753,6 +2937,9 @@
       },
       {
         "unit": "Unit 15",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 860,
         "beds": 3,
         "baths": 1,
@@ -1764,6 +2951,9 @@
       },
       {
         "unit": "Unit 16",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 860,
         "beds": 3,
         "baths": 1,
@@ -1775,6 +2965,9 @@
       },
       {
         "unit": "Unit 17",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1786,6 +2979,9 @@
       },
       {
         "unit": "Unit 18",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1797,6 +2993,9 @@
       },
       {
         "unit": "Unit 19",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1808,6 +3007,9 @@
       },
       {
         "unit": "Unit 20",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1819,6 +3021,9 @@
       },
       {
         "unit": "Unit 21",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1830,6 +3035,9 @@
       },
       {
         "unit": "Unit 22",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -1851,6 +3059,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1933,
         "beds": 4,
         "baths": 2,
@@ -1862,14 +3073,113 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": "-",
-        "beds": "Studio",
+        "beds": 1,
         "baths": 1,
         "rent": 600.00,
         "description": "-",
         "amenities": [],
         "priceInfo": "-",
         "id": 1277369
+      }
+    ]
+  },
+  {
+    "address": "38 North Plains Road",
+    "city": "The Plains, OH 45780",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.91840899645!2d-82.13597502506461!3d39.371952818565916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884874a4216a055f%3A0x1de37636d906199c!2s38%20N%20Plains%20Rd%2C%20The%20Plains%2C%20OH%2045780!5e1!3m2!1sen!2sus!4v1686844851781!5m2!1sen!2sus",
+    "courtWalk": 92,
+    "description": "This lovely home is located on the main strip in The Plains and is conveniently located near many local businesses. Perfect for Hocking College students, Ohio University grad students, or a family!",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1467,
+        "beds": 4,
+        "baths": 2,
+        "rent": 300.00,
+        "description": "This spacious, newly remodeled house is on the main strip in The Plains and is just a quick drive to Ohio University campus. It features newer appliances (dishwasher, fridge, & stove), 2 full baths, washer/dryer hook-up, spacious bedrooms, free off-street parking, and a nice front porch and back patio with a huge backyard!",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 4 Bedrooms",
+        "id": 137944
+      }
+    ]
+  },
+  {
+    "address": "385 Richland Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.9581879303864!2d-82.10734612506795!3d39.3146260219799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873c260be8c73%3A0xf2fe1377d6ba72c0!2s385%20Richland%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686844880432!5m2!1sen!2sus",
+    "courtWalk": 23,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1040,
+        "beds": 3,
+        "baths": 1,
+        "rent": 400.00,
+        "description": "This house is located close to campus & surrounding businesses; It features a front and back patio with a large back yard, washer/dryer/dishwasher, big screen TV mounted on the wall in the living room, and off-street parking with a garage included.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137960
+      }
+    ]
+  },
+  {
+    "address": "39 Walker Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2508374617064!2d-82.10951512506679!3d39.33451362079602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873986583578f%3A0xad4338d2894b4c2c!2s39%20Walker%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847075130!5m2!1sen!2sus",
+    "courtWalk": 12,
+    "description": "Built in 1998",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1933,
+        "beds": 4,
+        "baths": 2,
+        "rent": 500.00,
+        "description": "This three-story house on the West side is very spacious and features two large balconies, an open concept living area, large bedrooms, central air/heat, dishwasher, and a washer/dryer. Tenants can also enjoy a two-car garage! This property is just a short 5 minute walk to Court St. and a 10 minute walk to campus!",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Garage parking", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedrooms x 4 Bedrooms",
+        "id": 933147
+      }
+    ]
+  },
+  {
+    "address": "39 Woodward Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2090541638518!2d-82.10309302506677!3d39.33568812072614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a475dc2b47%3A0xca53ea928c7b5e45!2s39%20Woodward%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847112731!5m2!1sen!2sus",
+    "courtWalk": 13,
+    "description": "Built in 1000 This amazing, newly built house is located on a great street off Congress and is just a quick walk to campus & uptown. It features new appliances (washer, dryer, dishwasher, fridge, & stove), 2 full bathrooms, ceiling fans, a bonus room and a huge deck off the back of house with a great view, central air/heat, and free off-street parking.",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1168,
+        "beds": 4,
+        "baths": 2,
+        "rent": 550.00,
+        "description": "This amazing, newly remodeled house is located on a great street off congress and is just a quick walk to campus and uptown, it features new appliances (washer, dryer, dishwasher, fridge, and stove), 2 full bathrooms, ceiling fans, and a huge deck off the back of the house with a great view, washer/dryer, central air/heat, and FREE off-street parking.",
+        "amenities": ["Air conditioner", "Balcony", "deck", "patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 4 Bedrooms",
+        "id": 137945
       }
     ]
   },
@@ -1883,6 +3193,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 380,
         "beds": 1,
         "baths": 1,
@@ -1894,6 +3207,9 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 280,
         "beds": "studio",
         "baths": 1,
@@ -1915,6 +3231,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1347,
         "beds": 5,
         "baths": 2,
@@ -1926,6 +3245,9 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1347,
         "beds": 5,
         "baths": 2,
@@ -1934,6 +3256,54 @@
         "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "priceInfo": "Parking is available at a discounted rate of $70/month for tenants, Listed rent is discounted and per person based on five tenants.",
         "id": 137929
+      }
+    ]
+  },
+  {
+    "address": "45 Mound Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.252409873624!2d-82.10649552506676!3d39.33446942079866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a2fa5730bd%3A0x18d5149d593a19dd!2s45%20Mound%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847208210!5m2!1sen!2sus",
+    "courtWalk": 10,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1092,
+        "beds": 3,
+        "baths": 1,
+        "rent": 475.00,
+        "description": "This cozy 3-bedroom house is just a short walk from campus and uptown. Amenities include a washer and dryer, a large yard, and a spacious front porch!",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137963
+      }
+    ]
+  },
+  {
+    "address": "46 Mound Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.254665321617!2d-82.10615522506681!3d39.33440602080252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a2fcf2bded%3A0x791e59241d60de7b!2s46%20Mound%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847239105!5m2!1sen!2sus",
+    "courtWalk": 10,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 0,
+        "beds": 2,
+        "baths": 1,
+        "rent": 675.00,
+        "description": "This spacious 2 bedroom, 1 bath house features hardwood floors throughout the house. With a partial finished basement with a washer/dryer. Large wrap around porch, back yard, and storage shed. Just a short walk to uptown Athens and campus.",
+        "amenities": [],
+        "priceInfo": "Tenant pays all utilities.",
+        "id": 1522544
       }
     ]
   },
@@ -1947,6 +3317,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 600,
         "beds": 1,
         "baths": 1,
@@ -1958,6 +3331,9 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 600,
         "beds": 1,
         "baths": 1,
@@ -1969,6 +3345,9 @@
       },
       {
         "unit": "Unit C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 600,
         "beds": 1,
         "baths": 1,
@@ -1980,6 +3359,9 @@
       },
       {
         "unit": "Unit D",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 600,
         "beds": 1,
         "baths": 1,
@@ -1991,6 +3373,9 @@
       },
       {
         "unit": "Unit E",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 1000,
         "beds": 2,
         "baths": 1,
@@ -1999,6 +3384,78 @@
         "amenities": ["Cable", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
         "priceInfo": "Discounted Rent Per Bedroom x 2 Bedrooms, Tenant pays all utilities",
         "id": 137819
+      }
+    ]
+  },
+  {
+    "address": "47 First Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2591264037974!2d-82.1096427250668!3d39.33428062080986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873986ece22ad%3A0xae93283d440e1302!2s47%201st%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847303752!5m2!1sen!2sus",
+    "courtWalk": 12,
+    "description": "Built in 1998",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1933,
+        "beds": 4,
+        "baths": 2,
+        "rent": 500.00,
+        "description": "This three-story houses on the West side is so spacious, there's potential to add a fifth roommate! It features two large balconies, an open concept living area, large bedrooms, central air/heat, dishwasher, and a washer/dryer. Tenants can also enjoy a two-car garage! This property is just a short 5-minute walk to Court St. and a 10-minute walk to campus!",
+        "amenities": [],
+        "priceInfo": "Discounted Rent Per Bedroom x 4 Bedrooms",
+        "id": 933146
+      }
+    ]
+  },
+  {
+    "address": "48 Madison Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.1091435535513!2d-82.09701062506656!3d39.33849642055895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a890c8710b%3A0x372a4d41ef622656!2s48%20Madison%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847336012!5m2!1sen!2sus",
+    "courtWalk": 18,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1144,
+        "beds": 3,
+        "baths": 1,
+        "rent": 400.00,
+        "description": "This is “Country living” in Athens! The house features a front porch with a swing, nice living room with a flat-screen TV mounted on the wall, beautiful kitchen with a dishwasher, stove, refrigerator, and washer/dryer. Very large back patio, with a large backyard, and free off-street parking.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137946
+      }
+    ]
+  },
+  {
+    "address": "48 Moore Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.4424011228334!2d-82.11325752506706!3d39.329128521116665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88487396c65135a5%3A0xcfa306633e910f96!2s48%20Moore%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847372531!5m2!1sen!2sus",
+    "courtWalk": 15,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1336,
+        "beds": 3,
+        "baths": 1,
+        "rent": 525.00,
+        "description": "This large, well-maintained 3-bedroom house is located off West Union and features free off-street parking, spacious bedrooms, new carpet, washer/dryer, a balcony off one of the bedrooms, and an extra storage room. It's just a quick walk to campus & uptown!",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137969
       }
     ]
   },
@@ -2012,6 +3469,9 @@
     "units": [
       {
         "unit": "Unit 11A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 864,
         "beds": 2,
         "baths": 1,
@@ -2023,6 +3483,9 @@
       },
       {
         "unit": "Unit 11B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2034,6 +3497,9 @@
       },
       {
         "unit": "Unit 11C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2045,6 +3511,9 @@
       },
       {
         "unit": "Unit 11D",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 864,
         "beds": 2,
         "baths": 1,
@@ -2056,6 +3525,9 @@
       },
       {
         "unit": "Unit 11E",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2067,6 +3539,9 @@
       },
       {
         "unit": "Unit 11F",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2078,6 +3553,9 @@
       },
       {
         "unit": "Unit 2A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2089,6 +3567,9 @@
       },
       {
         "unit": "Unit 2B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2100,6 +3581,9 @@
       },
       {
         "unit": "Unit 2C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2111,6 +3595,9 @@
       },
       {
         "unit": "Unit 2D",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2122,6 +3609,9 @@
       },
       {
         "unit": "Unit 3A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2133,6 +3623,9 @@
       },
       {
         "unit": "Unit 3B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2144,6 +3637,9 @@
       },
       {
         "unit": "Unit 3C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2155,6 +3651,9 @@
       },
       {
         "unit": "Unit 3D",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2166,6 +3665,9 @@
       },
       {
         "unit": "Unit 3E",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2177,6 +3679,9 @@
       },
       {
         "unit": "Unit 3F",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2188,6 +3693,9 @@
       },
       {
         "unit": "Unit 3G",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 288,
         "beds": "studio",
         "baths": 1,
@@ -2199,6 +3707,9 @@
       },
       {
         "unit": "Unit 3H",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 288,
         "beds": "studio",
         "baths": 1,
@@ -2210,6 +3721,9 @@
       },
       {
         "unit": "Unit 3I",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 288,
         "beds": "studio",
         "baths": 1,
@@ -2221,6 +3735,9 @@
       },
       {
         "unit": "Unit 3J",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 288,
         "beds": "studio",
         "baths": 1,
@@ -2232,6 +3749,9 @@
       },
       {
         "unit": "Unit 3K",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2243,6 +3763,9 @@
       },
       {
         "unit": "Unit 3L",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 576,
         "beds": "studio",
         "baths": 1,
@@ -2254,6 +3777,9 @@
       },
       {
         "unit": "Unit 4A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2265,6 +3791,9 @@
       },
       {
         "unit": "Unit 4B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2276,6 +3805,9 @@
       },
       {
         "unit": "Unit 4C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2287,6 +3819,9 @@
       },
       {
         "unit": "Unit 4D",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2298,6 +3833,9 @@
       },
       {
         "unit": "Unit 4E",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2309,6 +3847,9 @@
       },
       {
         "unit": "Unit 4F",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2320,6 +3861,9 @@
       },
       {
         "unit": "Unit 4G",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2331,6 +3875,9 @@
       },
       {
         "unit": "Unit 4H",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 288,
         "beds": "studio",
         "baths": 1,
@@ -2342,6 +3889,9 @@
       },
       {
         "unit": "Unit 4I",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 288,
         "beds": "studio",
         "baths": 1,
@@ -2353,6 +3903,9 @@
       },
       {
         "unit": "Unit 4J",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 288,
         "beds": "studio",
         "baths": 1,
@@ -2364,6 +3917,9 @@
       },
       {
         "unit": "Unit 4K",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 288,
         "beds": "studio",
         "baths": 1,
@@ -2375,6 +3931,9 @@
       },
       {
         "unit": "Unit 4L",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2386,6 +3945,9 @@
       },
       {
         "unit": "Unit 5A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 864,
         "beds": 2,
         "baths": 1,
@@ -2397,6 +3959,9 @@
       },
       {
         "unit": "Unit 5B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 630,
         "beds": 1,
         "baths": 1,
@@ -2408,6 +3973,9 @@
       },
       {
         "unit": "Unit 5C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 288,
         "beds": "studio",
         "baths": 1,
@@ -2419,6 +3987,9 @@
       },
       {
         "unit": "Unit 5D",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 864,
         "beds": 2,
         "baths": 1,
@@ -2430,6 +4001,9 @@
       },
       {
         "unit": "Unit 5E",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 864,
         "beds": 2,
         "baths": 1,
@@ -2441,6 +4015,9 @@
       },
       {
         "unit": "Unit 7A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2452,6 +4029,9 @@
       },
       {
         "unit": "Unit 7B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2463,6 +4043,9 @@
       },
       {
         "unit": "Unit 7C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 288,
         "beds": "studio",
         "baths": 1,
@@ -2474,6 +4057,9 @@
       },
       {
         "unit": "Unit 7D",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 288,
         "beds": "studio",
         "baths": 1,
@@ -2485,6 +4071,9 @@
       },
       {
         "unit": "Unit 7E",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2496,6 +4085,9 @@
       },
       {
         "unit": "Unit 7F",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2507,6 +4099,9 @@
       },
       {
         "unit": "Unit 7H",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2518,6 +4113,9 @@
       },
       {
         "unit": "Unit 7I",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2529,6 +4127,9 @@
       },
       {
         "unit": "Unit 9A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2540,6 +4141,9 @@
       },
       {
         "unit": "Unit 9B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2551,6 +4155,9 @@
       },
       {
         "unit": "Unit 9C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2562,6 +4169,9 @@
       },
       {
         "unit": "Unit 9D",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 576,
         "beds": 1,
         "baths": 1,
@@ -2570,6 +4180,78 @@
         "amenities": [],
         "priceInfo": "Listed rent is per person based on two people",
         "id": 137879
+      }
+    ]
+  },
+  {
+    "address": "5 Euclid Drive",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.1163658647474!2d-82.07807952506657!3d39.338293420570935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88487257a8625153%3A0xf64231360f5cb0ca!2s5%20Euclid%20Dr%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847426800!5m2!1sen!2sus",
+    "courtWalk": 37,
+    "description": "This adorable 3 bedroom home is located near Donatos Pizza on East State Street and is across from Cool Digs. Conveniently located near the Athens Community Center and many other great local businesses. listed rent is per person/bedroom",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 966,
+        "beds": 3,
+        "baths": 1,
+        "rent": 400.00,
+        "description": "This house has been recently updated with new kitchen counter-tops and wood flooring! It features central heating/air, washer/dryer, a full basement, nice backyard, nice kitchen, a dishwasher, and off-street parking. Located by Donato's Pizza on East State St & Cool Digs.",
+        "amenities": ["Air conditioner", "Cable", "Dishwasher", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137936
+      }
+    ]
+  },
+  {
+    "address": "5415 State Street",
+    "city": "Albany, OH 45710",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2491.1553783662653!2d-82.20372812507311!3d39.22462962733146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8848781d9d11a4c1%3A0xda92136662fef866!2s5415%20State%20St%2C%20Albany%2C%20OH%2045710!5e1!3m2!1sen!2sus!4v1686847461003!5m2!1sen!2sus",
+    "courtWalk": 209,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
+        "sqft": "-",
+        "beds": "-",
+        "baths":  1,
+        "rent": "-",
+        "description": "-",
+        "amenities": [],
+        "priceInfo": "-",
+        "id": 1578702
+      }
+    ]
+  },
+  {
+    "address": "544 Richland Avenue Commercial",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2488.3562368127655!2d-82.10486672506858!3d39.30343092264619!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873df196496c5%3A0x12cda8dd2124a7bf!2s544%20Richland%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847516830!5m2!1sen!2sus",
+    "courtWalk": 40,
+    "description": "Perfect location for a gas station, grocery/retail store or a restaurant! At the intersection of 3 major highways (33/32/50) Plenty of parking for over 50 cars",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Retail",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
+        "sqft": 5500,
+        "beds": "-",
+        "baths":  "-",
+        "rent": 4500.00,
+        "description": "At the intersection of 3 major highways (33/32/50) Parking available for over 50 cars",
+        "amenities": [],
+        "priceInfo": "$10 per square foot",
+        "id": 137833
       }
     ]
   },
@@ -2583,6 +4265,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1000,
         "beds": 3,
         "baths": 1,
@@ -2594,6 +4279,9 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 688,
         "beds": 1,
         "baths": 1,
@@ -2602,6 +4290,126 @@
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
         "priceInfo": "-",
         "id": 137948
+      }
+    ]
+  },
+  {
+    "address": "6 Brown Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2638542840978!2d-82.11234262506682!3d39.334147720817946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88487399b8c64c4d%3A0x585141fce88e4619!2s6%20Brown%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847583753!5m2!1sen!2sus",
+    "courtWalk": 15,
+    "description": "This beautiful, classic Athens home is located on the West side of town and is perfect for a group of students. Located within walking distance to Ohio University campus & Court Street. Enjoy free off-street parking and entertain your friends on the spacious front porch.",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1344,
+        "beds": 3,
+        "baths": 1.5,
+        "rent": 475.00,
+        "description": "This beautiful, spacious 3-bedroom house features hardwood floors, a large shaded front porch, free off-street parking, a large backyard, washer/dryer, 1 ½ baths, large rooms with ceiling fans, and a back porch. House is located on a nice, quiet street on the Westside but is just a quick walk to campus & uptown.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven", "Walk-in closets"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137964
+      }
+    ]
+  },
+  {
+    "address": "6 Coulson Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.3978088888443!2d-82.11258772506694!3d39.33038212104205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873971fa87121%3A0xe775029fdd65c08!2s6%20Coulson%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847611585!5m2!1sen!2sus",
+    "courtWalk": 14,
+    "description": "This unique home was newly renovated in 2001 and features all new appliances. Located right by the HDL Center, so it's just a quick walk to campus & uptown! Relax on the patio and enjoy free off-street parking.",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1152,
+        "beds": 3,
+        "baths": 1,
+        "rent": 500.00,
+        "description": "This beautiful house has been recently updated with newer appliances and features central air/heat, a nice patio, a big screen TV included with the house, washer/dryer, and free off-street parking. It's an easy walking distance to campus, located by the HDL Center.",
+        "amenities": ["Air conditioner", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Microwave", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137937
+      }
+    ]
+  },
+  {
+    "address": "61 First Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.271837220927!2d-82.10794152506686!3d39.33392332083121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a2977bb829%3A0x4d4f432426e78dc2!2s61%201st%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847647252!5m2!1sen!2sus",
+    "courtWalk": 9,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 0,
+        "beds": 3,
+        "baths": 1,
+        "rent": 366.66,
+        "description": "3 bedroom, 1 bath home with a nice kitchen, spacious living room and large yard. This home has off street parking. Just a short walk to uptown Athens.",
+        "amenities": [],
+        "priceInfo": "-",
+        "id": 1332687
+      }
+    ]
+  },
+  {
+    "address": "65 Franklin Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2505493046083!2d-82.10015822506678!3d39.334521720795586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a5a9f82c23%3A0x98a76dcfa82403a0!2s65%20Franklin%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847679057!5m2!1sen!2sus",
+    "courtWalk": 11,
+    "description": "-",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1760,
+        "beds": 5,
+        "baths": 2,
+        "rent": 450.00,
+        "description": "This huge home is located on one of Athens most popular streets and is just a quick walk to Ohio University campus & uptown Athens. You and your friends can enjoy two living rooms with hardwood flooring and a 42\" flat-screen TV mounted on the wall. Also includes a great front porch, free off-street parking, large back patio, spacious bedrooms, and a large kitchen with all appliances (including a dishwasher & washer/dryer!).",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 5 Bedrooms",
+        "id": 137949
+      }
+    ]
+  },
+  {
+    "address": "71 South May Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2306058668128!2d-82.09112892506678!3d39.33508232076218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873ac3e46f65b%3A0x2510219526148e87!2s71%20S%20May%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847707734!5m2!1sen!2sus",
+    "courtWalk": 22,
+    "description": "-",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1176,
+        "beds": 3,
+        "baths": 1,
+        "rent": 450.00,
+        "description": "This spacious house is located on the East side of town and features a huge backyard, beautiful oak trim cabinets, ceramic-tiled floor in the kitchen and entryway, dishwasher, new carpet, a nice front porch & back deck, and a large basement with a washer/dryer. Perfect for a small family or grad students!",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Dishwasher", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137950
       }
     ]
   },
@@ -2615,6 +4423,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1000,
         "beds": 3,
         "baths": 1,
@@ -2626,6 +4437,9 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 0,
         "beds": 6,
         "baths": 2,
@@ -2637,6 +4451,9 @@
       },
       {
         "unit": "Unit C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1000,
         "beds": 4,
         "baths": 1,
@@ -2658,6 +4475,9 @@
     "units": [
       {
         "unit": "Unit 01",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 0,
         "beds": 1,
         "baths": 1,
@@ -2669,6 +4489,9 @@
       },
       {
         "unit": "Unit 02",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 0,
         "beds": 4,
         "baths": 2,
@@ -2677,6 +4500,30 @@
         "amenities": ["Balcony", "Deck", "Patio", "Cable", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Refrigerator", "Stove and oven"],
         "priceInfo": "Discounted Rent Per Bedroom x 4 Bedrooms",
         "id": 183172
+      }
+    ]
+  },
+  {
+    "address": "8 Foster Place",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.4142038586665!2d-82.10832432506706!3d39.32992122106938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873bd7f53e6b9%3A0xa3ff7ab3e8fd448e!2s8%20Foster%20Pl%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847794343!5m2!1sen!2sus",
+    "courtWalk": 10,
+    "description": "This spacious two bedroom house is located within walking distance to Ohio University campus & uptown Athens. It is conveniently located near W.G. Grinders, Smiling Skull, and much more!",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 832,
+        "beds": 2,
+        "baths": 1,
+        "rent": 575.00,
+        "description": "This wonderful house includes a nice front porch, large bedrooms, and washer/dryer! It's very close to uptown, located just past the new Cat's Corner Bar and the Smiling Skull.",
+        "amenities": ["Balcony", "Deck", "Patio", "Cable", "Heat - gas", "Pet friendly", "Refrigerator", "Stove and oven"],
+        "priceInfo": "Discounted Rent Per Bedroom x 2 Bedrooms, Tenant puts electric and gas in their name",
+        "id": 137938
       }
     ]
   },
@@ -2690,6 +4537,9 @@
     "units": [
       {
         "unit": "Unit 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 1748,
         "beds": 5,
         "baths": 2,
@@ -2701,6 +4551,9 @@
       },
       {
         "unit": "Unit 2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 924,
         "beds": 4,
         "baths": 2,
@@ -2712,6 +4565,9 @@
       },
       {
         "unit": "Unit 3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 1748,
         "beds": 5,
         "baths": 2,
@@ -2723,6 +4579,9 @@
       },
       {
         "unit": "Unit 4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 909,
         "beds": 3,
         "baths": 1,
@@ -2734,6 +4593,9 @@
       },
       {
         "unit": "Unit 5",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 988,
         "beds": 4,
         "baths": 2,
@@ -2745,6 +4607,9 @@
       },
       {
         "unit": "Unit 6",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 964,
         "beds": 4,
         "baths": 2,
@@ -2756,6 +4621,9 @@
       },
       {
         "unit": "Retail",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 4028,
         "beds": "-",
         "baths": "-",
@@ -2764,6 +4632,102 @@
         "amenities": [],
         "priceInfo": "-",
         "id": 137814
+      }
+    ]
+  },
+  {
+    "address": "8116 Salem Road",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.7818371826147!2d-82.1704751250676!3d39.319585021684844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88487433bb5cf38d%3A0xd9c40ca62cb0a9a2!2s8116%20Salem%20Rd%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847849330!5m2!1sen!2sus",
+    "courtWalk": 85,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
+        "sqft": "-",
+        "beds": "-",
+        "baths": 1,
+        "rent": "-",
+        "description": "-",
+        "amenities": [],
+        "priceInfo": "-",
+        "id": 1404484
+      }
+    ]
+  },
+  {
+    "address": "85 North Lancaster Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.2655191778176!2d-82.10760582506681!3d39.33410092082064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a2912492cf%3A0x3eeeecbc5d18e679!2s85%20N%20Lancaster%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847903519!5m2!1sen!2sus",
+    "courtWalk": 9,
+    "description": "-",
+    "amenities": ["Parking"],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 1528,
+        "beds": 3,
+        "baths": 1,
+        "rent": 525.00,
+        "description": "This beautiful, classic Athens house is just a quick walk to campus and uptown and features a 1 1/2 baths, central air/heat, plenty of free off-street parking, spacious bedrooms, washer/dryer, and an amazing front porch.",
+        "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Cable", "Fireplace", "Hardwood floors", "Heat - gas", "Laundry room / hookups", "Pet friendly", "Refrigerator", "Stove and oven", "Walk-in closets"],
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
+        "id": 137951
+      }
+    ]
+  },
+  {
+    "address": "88 East State Street",
+    "city": "ATHENS, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.3257174892324!2d-82.10077492506691!3d39.33240872092134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a4d0e7ff75%3A0x9d83c3737158f72f!2s88%20E%20State%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686847965983!5m2!1sen!2sus",
+    "courtWalk": 8,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "22",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
+        "sqft": "-",
+        "beds": "-",
+        "baths": "-",
+        "rent": "-",
+        "description": "-",
+        "amenities": [],
+        "priceInfo": "-",
+        "id": 1377889
+      }
+    ]
+  },
+  {
+    "address": "9 Brown Avenue",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.3257174892324!2d-82.10077492506691!3d39.33240872092134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88487399c7ab933f%3A0xd060a8771c11890c!2s9%20Brown%20Ave%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686848002871!5m2!1sen!2sus",
+    "courtWalk": 14,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "Single House",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 0,
+        "beds": 4,
+        "baths": 2,
+        "rent": 450.00,
+        "description": "This house has been recently updated! It features 2 baths, washer/dryer, a large back yard, and a spacious covered front porch.",
+        "amenities": [],
+        "priceInfo": "Discounted Rent Per Bedroom x 4 Bedrooms",
+        "id": 355308
       }
     ]
   },
@@ -2777,6 +4741,9 @@
     "units": [
       {
         "unit": "Unit 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 1166,
         "beds": 3,
         "baths": 1,
@@ -2788,6 +4755,9 @@
       },
       {
         "unit": "Unit 2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 710,
         "beds": 2,
         "baths": 1,
@@ -2799,6 +4769,9 @@
       },
       {
         "unit": "Unit 3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "appartment",
         "sqft": 1166,
         "beds": 3,
         "baths": 1,
@@ -2810,6 +4783,9 @@
       },
       {
         "unit": "Unit 4",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "studio",
         "sqft": 350,
         "beds": "studio",
         "baths": 1,
@@ -2821,6 +4797,9 @@
       },
       {
         "unit": "Commercial 1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 3498,
         "beds": "-",
         "baths":  "-",
@@ -2832,6 +4811,9 @@
       },
       {
         "unit": "Commercial 2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 3498,
         "beds": "-",
         "baths":  "-",
@@ -2853,6 +4835,9 @@
     "units": [
       {
         "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 0,
         "beds": "-",
         "baths": "-",
@@ -2864,6 +4849,9 @@
       },
       {
         "unit": "Commercial 9",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 5850,
         "beds": "-",
         "baths":  "-",
@@ -2875,6 +4863,9 @@
       },
       {
         "unit": "Commercial 11",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 5200,
         "beds": "-",
         "baths":  "-",
@@ -2886,6 +4877,9 @@
       },
       {
         "unit": "Commercial 13",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
         "sqft": 5850,
         "beds": "-",
         "baths":  "-",
@@ -2894,6 +4888,30 @@
         "amenities": [],
         "priceInfo": "-",
         "id": 999661
+      }
+    ]
+  },
+  {
+    "address": "914 South Pennsylvania Avenue - Wellston Commercial",
+    "city": "Wellston, OH 45692",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9980.091594279671!2d-82.5520209955601!3d39.1155323941466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8847caf174e690e3%3A0x271692e7e743b818!2s914%20Pennsylvania%20Ave%2C%20Wellston%2C%20OH%2045692!5e1!3m2!1sen!2sus!4v1686848095667!5m2!1sen!2sus",
+    "courtWalk": 629,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "commercial",
+        "sqft": 0,
+        "beds": "-",
+        "baths":  "-",
+        "rent": 300.00,
+        "description": "Multiple levels Unique Floor Plan Efficiency apartment above front retail space",
+        "amenities": [],
+        "priceInfo": "-",
+        "id": 195089
       }
     ]
   },
@@ -2907,6 +4925,9 @@
     "units": [
       {
         "unit": "Unit A",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1070,
         "beds": 3,
         "baths": 2,
@@ -2918,6 +4939,9 @@
       },
       {
         "unit": "Unit B",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1782,
         "beds": 5,
         "baths": 2,
@@ -2929,6 +4953,9 @@
       },
       {
         "unit": "Unit C",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1782,
         "beds": 5,
         "baths": 2,
@@ -2950,35 +4977,44 @@
     "units": [
       {
         "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1224,
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "description": "Discounted Rent Per Bedroom x 3 These 3 bedroom townhomes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck!",
+        "description": "These 3 bedroom townhomes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck!",
         "amenities": ["Air conditioner", "Balcony", "Deck", "Patio", "Hardwood floors", "Heat - electric", "Laundry room / hookups", "Pet friendly", "Stove and oven"],
-        "priceInfo": "",
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
         "id": 506483
       },
       {
         "unit": "2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1224,
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "description": "Discounted Rent Per Bedroom x 3 Bedrooms These 3 bedroom townhomes are nestled on the East Side of town and have a delightful country setting. There is easy acces to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck!",
+        "description": "These 3 bedroom townhomes are nestled on the East Side of town and have a delightful country setting. There is easy acces to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck!",
         "amenities": [],
-        "priceInfo": "",
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
         "id": 506484
       },
       {
         "unit": "3",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1224,
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "description": "Discounted Rent Per Bedroom x 3 Bedrooms These 3 bedroom town-homes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck!",
+        "description": "These 3 bedroom town-homes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck!",
         "amenities": [],
-        "priceInfo": "",
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
         "id": 506485
       }
     ]
@@ -2993,25 +5029,69 @@
     "units": [
       {
         "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1224,
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "description": "These 3 bedroom townhomes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck! Listed rent is discounted and per person based on 3 tenants.",
+        "description": "These 3 bedroom townhomes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck!",
         "amenities": [],
-        "priceInfo": "",
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
         "id": 506508
       },
       {
         "unit": "2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
         "sqft": 1224,
         "beds": 3,
         "baths": 1,
         "rent": 400.00,
-        "description": "Discounted Rent Per Bedroom x 3 Bedrooms These 3 bedroom town-homes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck!",
+        "description": "These 3 bedroom town-homes are nestled on the East Side of town and have a delightful country setting. There is easy access to the bike path that is located just behind the property, it is a short walk to East Elementary, plenty of parking, washer/dryer, dishwasher, central air, and back deck!",
         "amenities": [],
-        "priceInfo": "",
+        "priceInfo": "Discounted Rent Per Bedroom x 3 Bedrooms",
         "id": 506509
+      }
+    ]
+  },
+  {
+    "address": "99 East State Street",
+    "city": "Athens, OH 45701",
+    "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2487.3250593820853!2d-82.10015822506689!3d39.33242722092029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884873a528d2ba69%3A0x360a64d7b1fbf060!2s99%20E%20State%20St%2C%20Athens%2C%20OH%2045701!5e1!3m2!1sen!2sus!4v1686848223952!5m2!1sen!2sus",
+    "courtWalk": 8,
+    "description": "-",
+    "amenities": [],
+    "units": [
+      {
+        "unit": "1",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 0,
+        "beds": 2,
+        "baths": 1,
+        "rent": 1200.00,
+        "description": "Nice 2 bedroom, 1.5 bath apartment has been newly renovated and features a washer/dryer, central air and off-street parking. Close walk to uptown Athens and campus.",
+        "amenities": [],
+        "priceInfo": "Tenant pays all utilities",
+        "id": 1216820
+      },
+      {
+        "unit": "2",
+        "available": "--/--/--",
+        "showListing": true,
+        "type": "house",
+        "sqft": 0,
+        "beds": 1,
+        "baths": 1,
+        "rent": 750.00,
+        "description": "Newly renovated with hardwood floors, central air/heat, washer/dryer in unit and off street parking. Close to campus and uptown Athens.",
+        "amenities": [],
+        "priceInfo": "Tenant puts electric and gas in their name",
+        "id": 1216821
       }
     ]
   }

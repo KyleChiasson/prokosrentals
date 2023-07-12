@@ -11,7 +11,12 @@ export const getStaticProps = async () => {
 }
 
 const show = (data, property, unit) => {
-    return (((data.livingspace && unit.beds != "-") || (data.other && unit.baths == "-"))&&
+    return ( (unit.showListing) &&
+            ((data.house && unit.type == "house") || 
+             (data.appartment && unit.type == "appartment") || 
+             (data.studio && unit.type == "studio") || 
+             (data.frat && unit.type == "frat") || 
+             (data.commercial && unit.type == "commercial"))&&
             ((!data.albany && !data.amesville && !data.athens && !data.lancaster && !data.logan && !data.nelsonville && !data.theplains && !data.welston)||
              (data.albany      && property.city == "Albany, OH 45710") ||
              (data.amesville   && property.city == "Amesville, OH 45711") ||
@@ -23,8 +28,8 @@ const show = (data, property, unit) => {
              (data.welston     && property.city == "Wellston, OH 45692"))&&
              (data.bedcount == "" || unit.beds == data.bedcount) &&
              (data.bathcount == "" || unit.baths == data.bathcount) &&
-            ((unit.rent >= data.bottomprice && unit.rent <= data.topprice) || data.bottomprice == "" || data.topprice == "")//&&
-           /*(data.availibility == "" || Date.parse(data.availibility) >= Date.parse(unit.available))*/)
+            ((unit.rent >= data.bottomprice && unit.rent <= data.topprice) || data.bottomprice == "" || data.topprice == "")&&
+             (data.availibility == "" || Date.parse(data.availibility) >= Date.parse(unit.available)))
     
 }
 
@@ -37,8 +42,11 @@ const anyShown = (data, property) => {
 
 const Rentals = ({ properties }) => {
     const [data, setData] = React.useState({
-        livingspace: true,
-        other: true,
+        house: true,
+        appartment: true,
+        studio: true,
+        frat: true,
+        commercial: true,
         albany: true,
         amesville: true,
         athens: true,
@@ -58,8 +66,11 @@ const Rentals = ({ properties }) => {
         event.preventDefault();
      
         setData({
-            livingspace: event.target.livingspace.checked,
-            other: event.target.other.checked,
+            house: event.target.house.checked,
+            appartment: event.target.appartment.checked,
+            studio: event.target.studio.checked,
+            frat: event.target.frat.checked,
+            commercial: event.target.commercial.checked,
             albany: event.target.albany.checked,
             amesville: event.target.amesville.checked,
             athens: event.target.athens.checked,
@@ -83,12 +94,24 @@ const Rentals = ({ properties }) => {
                         <button className={styles.dropbtn}>Rental Types <img src="downtriangle.svg" width={12} height={12}/></button>
                         <div className={styles.dropdowncontent}>
                             <div>
-                                <input type="checkbox" id="livingspace" defaultChecked></input>
-                                <label htmlFor="livingspace">Living Space </label>
+                                <input type="checkbox" id="house" defaultChecked></input>
+                                <label htmlFor="house">House</label>
                             </div>
                             <div>
-                                <input type="checkbox" id="other" defaultChecked></input>
-                                <label htmlFor="other">Other </label>
+                                <input type="checkbox" id="appartment" defaultChecked></input>
+                                <label htmlFor="appartment">Appartment</label>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="studio" defaultChecked></input>
+                                <label htmlFor="studio">Studio</label>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="frat" defaultChecked></input>
+                                <label htmlFor="frat">Fraternity</label>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="commercial" defaultChecked></input>
+                                <label htmlFor="commercial">Commercial</label>
                             </div>
                         </div>
                     </div>
@@ -159,7 +182,7 @@ const Rentals = ({ properties }) => {
                                     <ul>
                                         <li><h4>{property.address}</h4><h5>Unit: {unit.unit}</h5><br/><h6>{property.city}</h6></li>
                                         <li>Beds: {unit.beds} | Bathrooms: {unit.baths} | Area: {unit.sqft} sqft</li>
-                                        <li><p>Available on: --/--/--&emsp;&emsp;Rent: ${unit.rent}</p></li>
+                                        <li><p>Available on: {unit.available}&emsp;&emsp;Rent: ${unit.rent}</p></li>
                                     </ul>
                                 </Link>
                             </Conditional>

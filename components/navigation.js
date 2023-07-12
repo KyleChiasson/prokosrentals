@@ -19,8 +19,8 @@ const Navigation = () => {
                     </div>
                 </li>
                 <li><Link href='/about' className={styles.nav}>About</Link></li>
-                <li><Link href='/contactus' className={styles.nav}>Contact Us</Link></li>
-                <li><Link href='/myaccount' className={styles.nav}>My Account</Link></li>
+                <li><Link href='https://prokosrentals.managebuilding.com/Resident/public/contact' className={styles.nav}>Contact Us</Link></li>
+                <li><Link href='https://prokosrentals.managebuilding.com/Resident/portal/login' className={styles.nav}>Sign In</Link></li>
                 <Conditional showWhen={false/*!sessionStorage.getItem("signedin")*/}>
                     <li><Link href='' className={styles.nav}>Log Out</Link></li>
                 </Conditional>

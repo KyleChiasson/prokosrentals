@@ -1,20 +1,28 @@
+.header{
+  padding-top: 10px;
+  margin: auto;
+  width: fit-content;
+}
+
 .centertext {
   width: 50%;
   text-align: center;
   position:absolute;
-  top: 25%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: blue;
-  text-shadow: 1px 1px white;
+  color: white;
+  text-shadow: 1px 1px black;
 }
 
 .applybar{
   width: 100%;
   background-color: #3c3c3c;
-  padding: 10px;
   margin-top:0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
+
 .applybar a{
   width: fit-content;
   margin: auto;
@@ -58,4 +66,11 @@
 .mainImage{
   width: 100%;
   height: auto;
+}
+
+.disclaimer{
+  width: 90%;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 10px;
 }
