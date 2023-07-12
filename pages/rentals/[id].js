@@ -1,6 +1,6 @@
 import styles from "@/styles/Unit.module.css"
 import Conditional from "@/components/conditional";
-const data = require('./rentals.json');
+const data = require('@/public/rentals.json');
 import Link from 'next/link';
 import Image from "next/image";
 

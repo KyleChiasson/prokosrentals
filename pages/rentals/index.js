@@ -1,7 +1,7 @@
 import styles from "@/styles/Rentals.module.css";
 import Link from "next/link";
 import Conditional from "@/components/conditional";
-const data = require('./rentals.json');
+const data = require('@/public/rentals.json');
 import React, { useState } from 'react';
 
 export const getStaticProps = async () => {

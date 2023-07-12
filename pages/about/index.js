@@ -1,6 +1,5 @@
-import Image from "next/image";
 import styles from "@/styles/About.module.css";
-const data = require('./employees.json');
+const data = require('@/public/employees.json');
 
 export const getStaticProps = async () => {
     return{
